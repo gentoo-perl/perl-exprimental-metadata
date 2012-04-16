@@ -375,6 +375,7 @@
       "File-Find-Rule" : "dev-perl/File-Find-Rule",
       "File-Flat" : "dev-perl/File-Flat",
       "File-Flock" : "dev-perl/File-Flock",
+      "File-Grep" : "dev-perl/File-Grep",
       "File-HomeDir" : "dev-perl/File-HomeDir",
       "File-Listing" : "dev-perl/File-Listing",
       "File-MMagic" : "dev-perl/File-MMagic",
