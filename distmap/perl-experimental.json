@@ -172,6 +172,23 @@
          ]
       }
    ],
+   "Archive-Extract" : [
+      {
+         "category" : "perl-core",
+         "package" : "Archive-Extract",
+         "repository" : "perl-experimental",
+         "versions_gentoo" : [
+            "0.420.0",
+            "0.440.0",
+            "0.460.0",
+            "0.480.0",
+            "0.500.0",
+            "0.520.0",
+            "0.560.0",
+            "0.600.0"
+         ]
+      }
+   ],
    "Archive-Peek" : [
       {
          "category" : "dev-perl",
@@ -309,6 +326,17 @@
          ]
       }
    ],
+   "B-Debug" : [
+      {
+         "category" : "perl-core",
+         "package" : "B-Debug",
+         "repository" : "perl-experimental",
+         "versions_gentoo" : [
+            "1.160.0",
+            "1.170.0"
+         ]
+      }
+   ],
    "B-Hooks-OP-Annotation" : [
       {
          "category" : "dev-perl",
@@ -352,6 +380,17 @@
          "versions_gentoo" : [
             "0.30.0",
             "0.40.100_rc"
+         ]
+      }
+   ],
+   "B-Lint" : [
+      {
+         "category" : "perl-core",
+         "package" : "B-Lint",
+         "repository" : "perl-experimental",
+         "versions_gentoo" : [
+            "1.120.0",
+            "1.130.0"
          ]
       }
    ],
@@ -710,6 +749,21 @@
          ]
       }
    ],
+   "CPAN" : [
+      {
+         "category" : "perl-core",
+         "package" : "CPAN",
+         "repository" : "perl-experimental",
+         "versions_gentoo" : [
+            "1.940.200-r1",
+            "1.940.200",
+            "1.946.400_rc",
+            "1.960.0",
+            "1.975.100_rc",
+            "1.980.0"
+         ]
+      }
+   ],
    "CPAN-Changes" : [
       {
          "category" : "dev-perl",
@@ -791,6 +845,46 @@
             "0.102.150",
             "0.103.0",
             "0.103.1"
+         ]
+      }
+   ],
+   "CPANPLUS" : [
+      {
+         "category" : "perl-core",
+         "package" : "CPANPLUS",
+         "repository" : "perl-experimental",
+         "versions_gentoo" : [
+            "0.880.0",
+            "0.900.0",
+            "0.900.100",
+            "0.900.300",
+            "0.900.400",
+            "0.900.500",
+            "0.900.700",
+            "0.901.0",
+            "0.901.100",
+            "0.910.200",
+            "0.910.300",
+            "0.910.400",
+            "0.910.500",
+            "0.910.800",
+            "0.910.900",
+            "0.911.0",
+            "0.911.900",
+            "0.912.300",
+            "0.912.400"
+         ]
+      }
+   ],
+   "CPANPLUS-Dist-Build" : [
+      {
+         "category" : "perl-core",
+         "package" : "CPANPLUS-Dist-Build",
+         "repository" : "perl-experimental",
+         "versions_gentoo" : [
+            "0.540.0",
+            "0.560.0",
+            "0.620.0"
          ]
       }
    ],
@@ -886,6 +980,7 @@
          "repository" : "perl-experimental",
          "versions_gentoo" : [
             "0.100.0",
+            "0.110.0",
             "0.90.0"
          ]
       }
@@ -3061,6 +3156,17 @@
          ]
       }
    ],
+   "Devel-DProf" : [
+      {
+         "category" : "perl-core",
+         "package" : "Devel-DProf",
+         "repository" : "perl-experimental",
+         "versions_gentoo" : [
+            "20110228.0.0",
+            "20110802.0.0"
+         ]
+      }
+   ],
    "Devel-Leak-Object" : [
       {
          "category" : "dev-perl",
@@ -3068,6 +3174,18 @@
          "repository" : "perl-experimental",
          "versions_gentoo" : [
             "1.10.0"
+         ]
+      }
+   ],
+   "Devel-PPPort" : [
+      {
+         "category" : "perl-core",
+         "package" : "Devel-PPPort",
+         "repository" : "perl-experimental",
+         "versions_gentoo" : [
+            "3.190.0",
+            "3.190.300_rc",
+            "3.200.0"
          ]
       }
    ],
@@ -3103,6 +3221,16 @@
          "repository" : "perl-experimental",
          "versions_gentoo" : [
             "0.540.0"
+         ]
+      }
+   ],
+   "Devel-SelfStubber" : [
+      {
+         "category" : "perl-core",
+         "package" : "Devel-SelfStubber",
+         "repository" : "perl-experimental",
+         "versions_gentoo" : [
+            "1.50.0"
          ]
       }
    ],
@@ -3628,6 +3756,17 @@
          ]
       }
    ],
+   "Dumpvalue" : [
+      {
+         "category" : "perl-core",
+         "package" : "Dumpvalue",
+         "repository" : "perl-experimental",
+         "versions_gentoo" : [
+            "1.150.0",
+            "1.160.0"
+         ]
+      }
+   ],
    "EVDB-API" : [
       {
          "category" : "dev-perl",
@@ -3678,6 +3817,17 @@
             "0.120.0",
             "0.320.0",
             "0.330.0"
+         ]
+      }
+   ],
+   "Env" : [
+      {
+         "category" : "perl-core",
+         "package" : "Env",
+         "repository" : "perl-experimental",
+         "versions_gentoo" : [
+            "1.20.0",
+            "1.30.0"
          ]
       }
    ],
@@ -3736,6 +3886,18 @@
          ]
       }
    ],
+   "Exporter" : [
+      {
+         "category" : "perl-core",
+         "package" : "Exporter",
+         "repository" : "perl-experimental",
+         "versions_gentoo" : [
+            "5.630.0",
+            "5.650.0",
+            "5.660.0"
+         ]
+      }
+   ],
    "Exporter-Declare" : [
       {
          "category" : "dev-perl",
@@ -3755,6 +3917,16 @@
             "0.60.0",
             "0.70.0",
             "0.80.0"
+         ]
+      }
+   ],
+   "ExtUtils-Constant" : [
+      {
+         "category" : "perl-core",
+         "package" : "ExtUtils-Constant",
+         "repository" : "perl-experimental",
+         "versions_gentoo" : [
+            "0.230.0"
          ]
       }
    ],
@@ -3791,6 +3963,20 @@
             "0.200.0",
             "0.210.0",
             "0.220.0"
+         ]
+      }
+   ],
+   "File-Fetch" : [
+      {
+         "category" : "perl-core",
+         "package" : "File-Fetch",
+         "repository" : "perl-experimental",
+         "versions_gentoo" : [
+            "0.22",
+            "0.24",
+            "0.28",
+            "0.300",
+            "0.320.0"
          ]
       }
    ],
@@ -3900,6 +4086,17 @@
          "repository" : "perl-experimental",
          "versions_gentoo" : [
             "1.01"
+         ]
+      }
+   ],
+   "Filter-Simple" : [
+      {
+         "category" : "perl-core",
+         "package" : "Filter-Simple",
+         "repository" : "perl-experimental",
+         "versions_gentoo" : [
+            "0.870.0",
+            "0.880.0"
          ]
       }
    ],
@@ -4439,6 +4636,20 @@
          ]
       }
    ],
+   "HTTP-Tiny" : [
+      {
+         "category" : "perl-core",
+         "package" : "HTTP-Tiny",
+         "repository" : "perl-experimental",
+         "versions_gentoo" : [
+            "0.10.0",
+            "0.11.0",
+            "0.12.0",
+            "0.13.0",
+            "0.17.0"
+         ]
+      }
+   ],
    "Handel" : [
       {
          "category" : "dev-perl",
@@ -4554,6 +4765,16 @@
          "versions_gentoo" : [
             "1.0.0",
             "1.2.0"
+         ]
+      }
+   ],
+   "IPC-SysV" : [
+      {
+         "category" : "perl-core",
+         "package" : "IPC-SysV",
+         "repository" : "perl-experimental",
+         "versions_gentoo" : [
+            "2.30.0"
          ]
       }
    ],
@@ -4950,6 +5171,28 @@
          ]
       }
    ],
+   "Log-Message" : [
+      {
+         "category" : "perl-core",
+         "package" : "Log-Message",
+         "repository" : "perl-experimental",
+         "versions_gentoo" : [
+            "0.02",
+            "0.40.0"
+         ]
+      }
+   ],
+   "Log-Message-Simple" : [
+      {
+         "category" : "perl-core",
+         "package" : "Log-Message-Simple",
+         "repository" : "perl-experimental",
+         "versions_gentoo" : [
+            "0.06",
+            "0.80.0"
+         ]
+      }
+   ],
    "Log-Trace" : [
       {
          "category" : "dev-perl",
@@ -5016,6 +5259,17 @@
          "repository" : "perl-experimental",
          "versions_gentoo" : [
             "0.09"
+         ]
+      }
+   ],
+   "Math-Complex" : [
+      {
+         "category" : "perl-core",
+         "package" : "Math-Complex",
+         "repository" : "perl-experimental",
+         "versions_gentoo" : [
+            "1.580.0",
+            "1.590.0"
          ]
       }
    ],
@@ -6050,6 +6304,16 @@
          ]
       }
    ],
+   "NEXT" : [
+      {
+         "category" : "perl-core",
+         "package" : "NEXT",
+         "repository" : "perl-experimental",
+         "versions_gentoo" : [
+            "0.650.0"
+         ]
+      }
+   ],
    "Net-API-RPX" : [
       {
          "category" : "dev-perl",
@@ -6108,7 +6372,8 @@
          "repository" : "perl-experimental",
          "versions_gentoo" : [
             "0.110.0",
-            "0.120.0"
+            "0.120.0",
+            "0.130.0"
          ]
       }
    ],
@@ -6149,6 +6414,18 @@
          "repository" : "perl-experimental",
          "versions_gentoo" : [
             "1.701"
+         ]
+      }
+   ],
+   "Object-Accessor" : [
+      {
+         "category" : "perl-core",
+         "package" : "Object-Accessor",
+         "repository" : "perl-experimental",
+         "versions_gentoo" : [
+            "0.36",
+            "0.380.0",
+            "0.420.0"
          ]
       }
    ],
@@ -6629,6 +6906,39 @@
          ]
       }
    ],
+   "Pod-LaTeX" : [
+      {
+         "category" : "perl-core",
+         "package" : "Pod-LaTeX",
+         "repository" : "perl-experimental",
+         "versions_gentoo" : [
+            "0.590.0",
+            "0.600.0"
+         ]
+      }
+   ],
+   "Pod-Perldoc" : [
+      {
+         "category" : "perl-core",
+         "package" : "Pod-Perldoc",
+         "repository" : "perl-experimental",
+         "versions_gentoo" : [
+            "3.150.0",
+            "3.150.100_rc",
+            "3.170.0"
+         ]
+      }
+   ],
+   "Pod-Plainer" : [
+      {
+         "category" : "perl-core",
+         "package" : "Pod-Plainer",
+         "repository" : "perl-experimental",
+         "versions_gentoo" : [
+            "1.30.0"
+         ]
+      }
+   ],
    "Pod-ProjectDocs" : [
       {
          "category" : "dev-perl",
@@ -6842,6 +7152,17 @@
          ]
       }
    ],
+   "SelfLoader" : [
+      {
+         "category" : "perl-core",
+         "package" : "SelfLoader",
+         "repository" : "perl-experimental",
+         "versions_gentoo" : [
+            "1.180.0",
+            "1.200.0"
+         ]
+      }
+   ],
    "Set-Crontab" : [
       {
          "category" : "dev-perl",
@@ -6861,6 +7182,17 @@
          "versions_gentoo" : [
             "1.0.3",
             "1.0.4"
+         ]
+      }
+   ],
+   "Socket" : [
+      {
+         "category" : "perl-core",
+         "package" : "Socket",
+         "repository" : "perl-experimental",
+         "versions_gentoo" : [
+            "1.990.0",
+            "2.1.0"
          ]
       }
    ],
@@ -7557,6 +7889,20 @@
          ]
       }
    ],
+   "Term-UI" : [
+      {
+         "category" : "perl-core",
+         "package" : "Term-UI",
+         "repository" : "perl-experimental",
+         "versions_gentoo" : [
+            "0.20",
+            "0.220",
+            "0.240",
+            "0.260.0",
+            "0.300.0"
+         ]
+      }
+   ],
    "Test-Assertions" : [
       {
          "category" : "dev-perl",
@@ -8186,6 +8532,26 @@
          ]
       }
    ],
+   "Unicode-Collate" : [
+      {
+         "category" : "perl-core",
+         "package" : "Unicode-Collate",
+         "repository" : "perl-experimental",
+         "versions_gentoo" : [
+            "0.890.0"
+         ]
+      }
+   ],
+   "Unicode-Normalize" : [
+      {
+         "category" : "perl-core",
+         "package" : "Unicode-Normalize",
+         "repository" : "perl-experimental",
+         "versions_gentoo" : [
+            "1.140.0"
+         ]
+      }
+   ],
    "User" : [
       {
          "category" : "dev-perl",
@@ -8492,6 +8858,26 @@
          "repository" : "perl-experimental",
          "versions_gentoo" : [
             "0.100.0"
+         ]
+      }
+   ],
+   "constant" : [
+      {
+         "category" : "perl-core",
+         "package" : "constant",
+         "repository" : "perl-experimental",
+         "versions_gentoo" : [
+            "1.210.0"
+         ]
+      }
+   ],
+   "if" : [
+      {
+         "category" : "perl-core",
+         "package" : "if",
+         "repository" : "perl-experimental",
+         "versions_gentoo" : [
+            "0.60.100"
          ]
       }
    ],
