@@ -9,13 +9,20 @@ The general format is JSON, and the data it represents is like this::
 
 
     {
-        'overlay-name': {
-            'cpan-name' : 'gentoo-package-name'
-            ....
-        }
+        'cpan-name' : [
+            {
+                'package' : 'gentoo-package-name',
+                'category': 'gentoo-category-name',
+                'repository' : 'gentoo-overlay-name',
+                'gentoo_versions' : [
+                    'version',
+                    .....
+                ]
+            }
+        ]
     }
 
-The `overlay-name` is taken from `$ROOT/profiles/repo_name`,
+The `gentoo-overlay-name` is taken from `$ROOT/profiles/repo_name`,
 and for each package ( `gentoo-package-name` ), an identifier relating to an
 upsteam CPAN distribution is determined ( `cpan-name` ) from reading
 `metadata.xml` and extracting `/pkgmeta/upstream/remote-id[type=cpan]` from it.
@@ -29,13 +36,13 @@ file, representing multiple graphs for multiple repositories.
 Do note however, that the intended usage of these files in the `distmap`
 directory is to aggregate their values into a singular `Hash` prior to usage,
 so if 2 files emit the same `overlay-name`, one will likely take precidence (
-or possibly produce an error, the code doesn't exist yet.
+or possibly produce an error, the code doesn't exist yet ).
 
 
 Metadata
 ========
 
-:Date: 2012-03-06
+:Date: 2012-04-18
 :Authors: - `Kent Fredric`_
           
 
