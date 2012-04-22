@@ -2342,8 +2342,7 @@
          "package" : "Class-Std",
          "repository" : "perl-experimental",
          "versions_gentoo" : [
-            "0.0.9",
-            "0.11.0"
+            "0.0.9"
          ]
       }
    ],
@@ -7981,16 +7980,6 @@
             "1.111.260",
             "1.113.282",
             "1.120.990"
-         ]
-      }
-   ],
-   "Test-DistManifest" : [
-      {
-         "category" : "dev-perl",
-         "package" : "Test-DistManifest",
-         "repository" : "perl-experimental",
-         "versions_gentoo" : [
-            "1.11.0"
          ]
       }
    ],
