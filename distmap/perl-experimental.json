@@ -963,6 +963,16 @@
          ]
       }
    ],
+   "Cairo-GObject" : [
+      {
+         "category" : "dev-perl",
+         "package" : "Cairo-GObject",
+         "repository" : "perl-experimental",
+         "versions_gentoo" : [
+            "1.1.0"
+         ]
+      }
+   ],
    "Captcha-reCAPTCHA" : [
       {
          "category" : "dev-perl",
@@ -4311,6 +4321,16 @@
          ]
       }
    ],
+   "Glib-Object-Introspection" : [
+      {
+         "category" : "dev-perl",
+         "package" : "Glib-Object-Introspection",
+         "repository" : "perl-experimental",
+         "versions_gentoo" : [
+            "0.8.0"
+         ]
+      }
+   ],
    "Graphics-ColorNames-WWW" : [
       {
          "category" : "dev-perl",
@@ -4318,6 +4338,16 @@
          "repository" : "perl-experimental",
          "versions_gentoo" : [
             "1.130.0"
+         ]
+      }
+   ],
+   "Gtk3" : [
+      {
+         "category" : "dev-perl",
+         "package" : "Gtk3",
+         "repository" : "perl-experimental",
+         "versions_gentoo" : [
+            "0.5.0"
          ]
       }
    ],
