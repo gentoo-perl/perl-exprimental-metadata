@@ -5591,7 +5591,6 @@
          "repository" : "perl-experimental",
          "versions_gentoo" : [
             "2.810.0",
-            "2.850.0",
             "2.910.0"
          ]
       }
