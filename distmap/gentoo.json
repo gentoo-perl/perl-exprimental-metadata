@@ -2829,7 +2829,8 @@
          "package" : "DateTime-Format-Natural",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "0.980.0"
+            "0.980.0",
+            "0.990.0"
          ]
       }
    ],
@@ -2994,7 +2995,8 @@
          "package" : "Devel-GlobalDestruction",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "0.40.0"
+            "0.40.0",
+            "0.50.0"
          ]
       }
    ],
@@ -3800,7 +3802,8 @@
          "package" : "extutils-pkgconfig",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "1.120.0"
+            "1.120.0",
+            "1.130.0"
          ]
       }
    ],
@@ -4380,7 +4383,8 @@
          "versions_gentoo" : [
             "0.08",
             "0.130.0",
-            "0.140.0"
+            "0.140.0",
+            "0.150.0"
          ]
       }
    ],
@@ -5709,7 +5713,8 @@
             "8.65",
             "8.75",
             "8.770.0",
-            "8.850.0"
+            "8.850.0",
+            "8.900.0"
          ]
       }
    ],
@@ -9003,7 +9008,8 @@
          "package" : "Role-Tiny",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "1.0.1"
+            "1.0.1",
+            "1.1.1"
          ]
       }
    ],
@@ -12404,7 +12410,8 @@
             "0.950.0",
             "0.960.0",
             "0.970.0",
-            "0.980.0"
+            "0.980.0",
+            "0.990.0"
          ]
       }
    ]
