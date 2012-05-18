@@ -100,7 +100,8 @@
             "5.2.5.1",
             "6.100.0",
             "6.140.0",
-            "6.20.0"
+            "6.20.0",
+            "7.10.0"
          ]
       }
    ],
@@ -1726,7 +1727,8 @@
             "2.690.0",
             "2.700.0",
             "2.710.0",
-            "2.720.0"
+            "2.720.0",
+            "2.730.0"
          ]
       }
    ],
@@ -3564,7 +3566,8 @@
          "repository" : "gentoo",
          "versions_gentoo" : [
             "0.170.160",
-            "0.170.170"
+            "0.170.170",
+            "0.170.180"
          ]
       }
    ],
@@ -5550,7 +5553,11 @@
             "1.590.0",
             "1.620.0",
             "1.640.0",
-            "1.660.0"
+            "1.660.0",
+            "1.700.0",
+            "1.710.0",
+            "1.730.0",
+            "1.740.0"
          ]
       }
    ],
@@ -6485,6 +6492,16 @@
          ]
       }
    ],
+   "Mail-Box" : [
+      {
+         "category" : "dev-perl",
+         "package" : "Mail-Box",
+         "repository" : "gentoo",
+         "versions_gentoo" : [
+            "2.105.0"
+         ]
+      }
+   ],
    "Mail-Builder" : [
       {
          "category" : "dev-perl",
@@ -7220,7 +7237,8 @@
          "versions_gentoo" : [
             "0.9.14",
             "0.91.1",
-            "0.91.2"
+            "0.91.2",
+            "0.91.4"
          ]
       }
    ],
@@ -7232,7 +7250,8 @@
          "versions_gentoo" : [
             "1.240",
             "2.40.200",
-            "2.60.100"
+            "2.60.100",
+            "2.60.200"
          ]
       }
    ],
@@ -7274,7 +7293,9 @@
          "versions_gentoo" : [
             "0.390.0",
             "0.400.0",
-            "0.430.0"
+            "0.430.0",
+            "0.440.0",
+            "0.450.0"
          ]
       }
    ],
@@ -7857,7 +7878,8 @@
          "package" : "Net-Server-Mail",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "0.170.0"
+            "0.170.0",
+            "0.180.0"
          ]
       }
    ],
@@ -7930,7 +7952,8 @@
          "versions_gentoo" : [
             "4.028",
             "4.58.0",
-            "4.59.0"
+            "4.59.0",
+            "4.61.0"
          ]
       }
    ],
@@ -8043,6 +8066,16 @@
          "repository" : "gentoo",
          "versions_gentoo" : [
             "0.72.0"
+         ]
+      }
+   ],
+   "Object-Realize-Later" : [
+      {
+         "category" : "dev-perl",
+         "package" : "Object-Realize-Later",
+         "repository" : "gentoo",
+         "versions_gentoo" : [
+            "0.180.0"
          ]
       }
    ],
@@ -8167,7 +8200,8 @@
             "1.289",
             "1.312.0",
             "1.350.0",
-            "1.351.0"
+            "1.351.0",
+            "1.353.0"
          ]
       }
    ],
@@ -8729,7 +8763,8 @@
          "package" : "Plack",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "0.998.600"
+            "0.998.600",
+            "0.998.800"
          ]
       }
    ],
@@ -9185,7 +9220,6 @@
          "package" : "svk",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "1.08",
             "2.0.2"
          ]
       }
@@ -9295,6 +9329,7 @@
          "package" : "Search-Xapian",
          "repository" : "gentoo",
          "versions_gentoo" : [
+            "1.2.10.0",
             "1.2.8",
             "1.2.9"
          ]
@@ -9418,7 +9453,8 @@
          "package" : "Sort-Naturally",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "1.20.0"
+            "1.20.0",
+            "1.30.0"
          ]
       }
    ],
@@ -9533,7 +9569,9 @@
             "3.0100",
             "3.30.0",
             "3.40.0",
-            "3.50.0"
+            "3.50.0",
+            "3.60.100",
+            "3.60.200"
          ]
       }
    ],
@@ -10411,7 +10449,8 @@
          "package" : "Test-Unit-Lite",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "0.120.0"
+            "0.120.0",
+            "0.120.100"
          ]
       }
    ],
@@ -11211,7 +11250,8 @@
          "package" : "Unicode-EastAsianWidth",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "1.30"
+            "1.30",
+            "1.320.0"
          ]
       }
    ],
@@ -11273,6 +11313,16 @@
          "repository" : "gentoo",
          "versions_gentoo" : [
             "1.100.0"
+         ]
+      }
+   ],
+   "User-Identity" : [
+      {
+         "category" : "dev-perl",
+         "package" : "User-Identity",
+         "repository" : "gentoo",
+         "versions_gentoo" : [
+            "0.930.0"
          ]
       }
    ],
@@ -11461,7 +11511,8 @@
          "repository" : "gentoo",
          "versions_gentoo" : [
             "0.990.200",
-            "0.990.600"
+            "0.990.600",
+            "0.990.700"
          ]
       }
    ],
@@ -11724,7 +11775,8 @@
          "versions_gentoo" : [
             "1.900.0",
             "1.960.0",
-            "1.970.0"
+            "1.970.0",
+            "1.980.0"
          ]
       }
    ],
@@ -12315,7 +12367,8 @@
          "repository" : "gentoo",
          "versions_gentoo" : [
             "0.210.0",
-            "0.220.0"
+            "0.220.0",
+            "0.230.0"
          ]
       }
    ],
