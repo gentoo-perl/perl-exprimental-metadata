@@ -831,7 +831,8 @@
          "package" : "CGI-FormBuilder",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "3.50.100"
+            "3.50.100",
+            "3.80.0"
          ]
       }
    ],
@@ -1232,7 +1233,8 @@
          "package" : "Class-Base",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "0.40.0"
+            "0.40.0",
+            "0.50.0"
          ]
       }
    ],
@@ -1404,7 +1406,8 @@
          "repository" : "gentoo",
          "versions_gentoo" : [
             "0.06",
-            "0.170.0"
+            "0.170.0",
+            "0.190.0"
          ]
       }
    ],
@@ -2600,7 +2603,8 @@
          "package" : "Data-Stream-Bulk",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "0.100.0"
+            "0.100.0",
+            "0.11"
          ]
       }
    ],
@@ -4279,7 +4283,8 @@
          "package" : "File-pushd",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "1.1.0"
+            "1.1.0",
+            "1.2.0"
          ]
       }
    ],
@@ -7194,7 +7199,9 @@
             "2.570.0",
             "2.580.0",
             "2.590.0",
-            "2.600.0"
+            "2.600.0",
+            "2.610.0",
+            "2.620.0"
          ]
       }
    ],
@@ -7238,7 +7245,8 @@
             "0.9.14",
             "0.91.1",
             "0.91.2",
-            "0.91.4"
+            "0.91.4",
+            "0.91.7"
          ]
       }
    ],
@@ -7355,7 +7363,8 @@
          "package" : "MooseX-Types",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "0.310.0"
+            "0.310.0",
+            "0.350.0"
          ]
       }
    ],
@@ -8201,7 +8210,8 @@
             "1.312.0",
             "1.350.0",
             "1.351.0",
-            "1.353.0"
+            "1.353.0",
+            "1.354.0"
          ]
       }
    ],
@@ -9179,7 +9189,8 @@
          "package" : "SQL-Translator",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "0.110.100"
+            "0.110.100",
+            "0.110.110"
          ]
       }
    ],
@@ -9571,7 +9582,8 @@
             "3.40.0",
             "3.50.0",
             "3.60.100",
-            "3.60.200"
+            "3.60.200",
+            "3.60.300"
          ]
       }
    ],
@@ -9833,7 +9845,8 @@
          "package" : "Sysadm-Install",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "0.380.0"
+            "0.380.0",
+            "0.390.0"
          ]
       }
    ],
@@ -9960,6 +9973,7 @@
          "repository" : "gentoo",
          "versions_gentoo" : [
             "2.100.0",
+            "2.130.0",
             "2.90.0"
          ]
       }
@@ -12232,7 +12246,7 @@
          "package" : "encoding-warnings",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "0.11"
+            "0.110.0"
          ]
       }
    ],
