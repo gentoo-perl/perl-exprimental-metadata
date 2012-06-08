@@ -8774,18 +8774,6 @@
          ]
       }
    ],
-   "WebService-MusicBrainz" : [
-      {
-         "category" : "dev-perl",
-         "package" : "WebService-MusicBrainz",
-         "repository" : "perl-experimental",
-         "versions_gentoo" : [
-            "0.90",
-            "0.92",
-            "0.93"
-         ]
-      }
-   ],
    "XML-Clean" : [
       {
          "category" : "dev-perl",
