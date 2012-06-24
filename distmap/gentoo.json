@@ -1682,6 +1682,16 @@
          ]
       }
    ],
+   "Config-Auto" : [
+      {
+         "category" : "dev-perl",
+         "package" : "Config-Auto",
+         "repository" : "gentoo",
+         "versions_gentoo" : [
+            "0.420.0"
+         ]
+      }
+   ],
    "Config-Crontab" : [
       {
          "category" : "dev-perl",
@@ -2629,6 +2639,16 @@
          ]
       }
    ],
+   "Data-Uniqid" : [
+      {
+         "category" : "dev-perl",
+         "package" : "Data-Uniqid",
+         "repository" : "gentoo",
+         "versions_gentoo" : [
+            "0.12"
+         ]
+      }
+   ],
    "Data-Utilities" : [
       {
          "category" : "dev-perl",
@@ -3296,16 +3316,6 @@
          "versions_gentoo" : [
             "4.100.0",
             "4.110.0"
-         ]
-      }
-   ],
-   "Eidetic" : [
-      {
-         "category" : "dev-perl",
-         "package" : "Eidetic",
-         "repository" : "gentoo",
-         "versions_gentoo" : [
-            "2.003003"
          ]
       }
    ],
@@ -5371,6 +5381,16 @@
          ]
       }
    ],
+   "Hash-MoreUtils" : [
+      {
+         "category" : "dev-perl",
+         "package" : "Hash-MoreUtils",
+         "repository" : "gentoo",
+         "versions_gentoo" : [
+            "0.20.0"
+         ]
+      }
+   ],
    "Hash-MultiValue" : [
       {
          "category" : "dev-perl",
@@ -5598,7 +5618,8 @@
             "1.710.0",
             "1.730.0",
             "1.740.0",
-            "1.750.0"
+            "1.750.0",
+            "1.760.0"
          ]
       }
    ],
@@ -6352,7 +6373,8 @@
          "package" : "Log-TraceMessages",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "1.4"
+            "1.4",
+            "1.400.0"
          ]
       }
    ],
@@ -7484,6 +7506,16 @@
          "repository" : "gentoo",
          "versions_gentoo" : [
             "0.970.0"
+         ]
+      }
+   ],
+   "MusicBrainz-DiscID" : [
+      {
+         "category" : "dev-perl",
+         "package" : "MusicBrainz-DiscID",
+         "repository" : "gentoo",
+         "versions_gentoo" : [
+            "0.03"
          ]
       }
    ],
@@ -10793,6 +10825,16 @@
          ]
       }
    ],
+   "Text-ParseWords" : [
+      {
+         "category" : "perl-core",
+         "package" : "Text-ParseWords",
+         "repository" : "gentoo",
+         "versions_gentoo" : [
+            "3.270.0"
+         ]
+      }
+   ],
    "Text-Password-Pronounceable" : [
       {
          "category" : "dev-perl",
@@ -11484,16 +11526,6 @@
          ]
       }
    ],
-   "Video-Frequencies" : [
-      {
-         "category" : "dev-perl",
-         "package" : "Video-Frequencies",
-         "repository" : "gentoo",
-         "versions_gentoo" : [
-            "0.03"
-         ]
-      }
-   ],
    "Video-Info" : [
       {
          "category" : "dev-perl",
@@ -11501,16 +11533,6 @@
          "repository" : "gentoo",
          "versions_gentoo" : [
             "0.993.0"
-         ]
-      }
-   ],
-   "Video-ivtv" : [
-      {
-         "category" : "dev-perl",
-         "package" : "Video-ivtv",
-         "repository" : "gentoo",
-         "versions_gentoo" : [
-            "0.13"
          ]
       }
    ],
@@ -11613,6 +11635,16 @@
          "repository" : "gentoo",
          "versions_gentoo" : [
             "0.10.0"
+         ]
+      }
+   ],
+   "WebService-MusicBrainz" : [
+      {
+         "category" : "dev-perl",
+         "package" : "WebService-MusicBrainz",
+         "repository" : "gentoo",
+         "versions_gentoo" : [
+            "0.930.0"
          ]
       }
    ],
@@ -12440,18 +12472,6 @@
          "repository" : "gentoo",
          "versions_gentoo" : [
             "0.20.200"
-         ]
-      }
-   ],
-   "mecab-perl" : [
-      {
-         "category" : "dev-perl",
-         "package" : "mecab-perl",
-         "repository" : "gentoo",
-         "versions_gentoo" : [
-            "0.97",
-            "0.98",
-            "0.991"
          ]
       }
    ],

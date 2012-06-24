@@ -4186,16 +4186,6 @@
          ]
       }
    ],
-   "Gentoo-Overlay-Group-INI" : [
-      {
-         "category" : "dev-perl",
-         "package" : "Gentoo-Overlay-Group-INI",
-         "repository" : "perl-experimental",
-         "versions_gentoo" : [
-            "0.2.1"
-         ]
-      }
-   ],
    "Gentoo-Overlay-Group" : [
       {
          "category" : "dev-perl",
@@ -4203,6 +4193,16 @@
          "repository" : "perl-experimental",
          "versions_gentoo" : [
             "0.1.0"
+         ]
+      }
+   ],
+   "Gentoo-Overlay-Group-INI" : [
+      {
+         "category" : "dev-perl",
+         "package" : "Gentoo-Overlay-Group-INI",
+         "repository" : "perl-experimental",
+         "versions_gentoo" : [
+            "0.2.1"
          ]
       }
    ],
