@@ -10818,6 +10818,16 @@
          ]
       }
    ],
+   "Import-Into" : [
+      {
+         "category" : "dev-perl",
+         "package" : "Import-Into",
+         "repository" : "perl-experimental",
+         "versions_gentoo" : [
+            "1.1.0"
+         ]
+      }
+   ],
    "Inline" : [
       {
          "category" : "dev-perl",
@@ -13012,7 +13022,6 @@
          "repository" : "perl-experimental",
          "versions_gentoo" : [
             "3.110.0",
-            "3.130.0",
             "3.150.0"
          ]
       }
@@ -21705,7 +21714,8 @@
          "package" : "utf8-all",
          "repository" : "perl-experimental",
          "versions_gentoo" : [
-            "0.4.0"
+            "0.4.0",
+            "0.6.0"
          ]
       }
    ],
