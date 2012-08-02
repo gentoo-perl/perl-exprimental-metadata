@@ -8892,6 +8892,17 @@
          ]
       }
    ],
+   "Gentoo-Perl-Distmap" : [
+      {
+         "category" : "dev-perl",
+         "package" : "Gentoo-Perl-Distmap",
+         "repository" : "perl-experimental",
+         "versions_gentoo" : [
+            "0.1.1",
+            "0.1.2"
+         ]
+      }
+   ],
    "Gentoo-PerlMod-Version" : [
       {
          "category" : "dev-perl",
@@ -13028,7 +13039,8 @@
             "3.110.0",
             "3.150.0",
             "3.160.0",
-            "3.170.0"
+            "3.170.0",
+            "3.180.0"
          ]
       }
    ],
@@ -13041,7 +13053,8 @@
             "1.200.0",
             "1.210.0",
             "1.220.0",
-            "1.230.0"
+            "1.230.0",
+            "1.240.0"
          ]
       }
    ],
