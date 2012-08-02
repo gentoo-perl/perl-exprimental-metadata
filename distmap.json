@@ -153,6 +153,16 @@
          ]
       }
    ],
+   "Any-URI-Escape" : [
+      {
+         "category" : "dev-perl",
+         "package" : "Any-URI-Escape",
+         "repository" : "perl-experimental",
+         "versions_gentoo" : [
+            "0.10.0"
+         ]
+      }
+   ],
    "AnyEvent" : [
       {
          "category" : "dev-perl",
@@ -7181,6 +7191,26 @@
          ]
       }
    ],
+   "ElasticSearch" : [
+      {
+         "category" : "dev-perl",
+         "package" : "ElasticSearch",
+         "repository" : "perl-experimental",
+         "versions_gentoo" : [
+            "0.570.0"
+         ]
+      }
+   ],
+   "ElasticSearch-SearchBuilder" : [
+      {
+         "category" : "dev-perl",
+         "package" : "ElasticSearch-SearchBuilder",
+         "repository" : "perl-experimental",
+         "versions_gentoo" : [
+            "0.140.0"
+         ]
+      }
+   ],
    "Emacs-PDE" : [
       {
          "category" : "dev-perl",
@@ -13040,7 +13070,8 @@
             "3.150.0",
             "3.160.0",
             "3.170.0",
-            "3.180.0"
+            "3.180.0",
+            "3.190.0"
          ]
       }
    ],
@@ -20073,6 +20104,16 @@
             "1.55",
             "1.590.0",
             "1.600.0"
+         ]
+      }
+   ],
+   "URI-Escape-XS" : [
+      {
+         "category" : "dev-perl",
+         "package" : "URI-Escape-XS",
+         "repository" : "perl-experimental",
+         "versions_gentoo" : [
+            "0.80.0"
          ]
       }
    ],
