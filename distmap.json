@@ -1124,9 +1124,7 @@
          "package" : "bioperl",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "1.5.1-r1",
             "1.6.0-r2",
-            "1.6.1",
             "1.6.9",
             "9999-r1"
          ]
@@ -1162,7 +1160,6 @@
          "package" : "bioperl-run",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "1.5.1",
             "1.6.1",
             "1.6.9",
             "9999-r1"
@@ -1825,7 +1822,8 @@
             "0.640.0",
             "0.660.0",
             "0.680.0",
-            "0.780.0"
+            "0.780.0",
+            "0.800.0"
          ]
       }
    ],
@@ -5504,6 +5502,16 @@
             "0.10.117.30",
             "0.20.10.10",
             "0.20.10.20"
+         ]
+      }
+   ],
+   "Data-HexDump" : [
+      {
+         "category" : "dev-perl",
+         "package" : "Data-HexDump",
+         "repository" : "gentoo",
+         "versions_gentoo" : [
+            "0.02"
          ]
       }
    ],
@@ -13149,7 +13157,8 @@
          "versions_gentoo" : [
             "3.110.0",
             "3.320.0",
-            "3.510.0"
+            "3.510.0",
+            "3.520.0"
          ]
       }
    ],
@@ -13299,6 +13308,7 @@
             "0.13.0",
             "0.14.0",
             "0.15.0",
+            "0.17.0",
             "0.8.0"
          ]
       }
@@ -14449,6 +14459,16 @@
          ]
       }
    ],
+   "Net-OpenSSH" : [
+      {
+         "category" : "dev-perl",
+         "package" : "Net-OpenSSH",
+         "repository" : "gentoo",
+         "versions_gentoo" : [
+            "0.52"
+         ]
+      }
+   ],
    "Net-Patricia" : [
       {
          "category" : "dev-perl",
@@ -14517,6 +14537,24 @@
          "repository" : "gentoo",
          "versions_gentoo" : [
             "0.100.0"
+         ]
+      }
+   ],
+   "Net-SFTP-Foreign" : [
+      {
+         "category" : "dev-perl",
+         "package" : "Net-SFTP-Foreign",
+         "repository" : "gentoo",
+         "versions_gentoo" : [
+            "1.67"
+         ]
+      },
+      {
+         "category" : "dev-perl",
+         "package" : "RadiusPerl",
+         "repository" : "gentoo",
+         "versions_gentoo" : [
+            "0.20"
          ]
       }
    ],
@@ -15721,7 +15759,8 @@
          "package" : "Path-Class-Rule",
          "repository" : "perl-experimental",
          "versions_gentoo" : [
-            "0.11.0"
+            "0.11.0",
+            "0.12.0"
          ]
       }
    ],
@@ -16612,7 +16651,8 @@
          "package" : "Role-Tiny",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "1.1.5"
+            "1.1.5",
+            "1.2.4"
          ]
       }
    ],
@@ -16623,6 +16663,7 @@
          "repository" : "gentoo",
          "versions_gentoo" : [
             "0.100.0",
+            "0.130.0",
             "0.90.0"
          ]
       }
@@ -16698,7 +16739,8 @@
          "repository" : "gentoo",
          "versions_gentoo" : [
             "1.31",
-            "1.330.0"
+            "1.330.0",
+            "1.401.0"
          ]
       }
    ],
@@ -16710,7 +16752,8 @@
          "versions_gentoo" : [
             "0.110.120",
             "0.110.130",
-            "0.110.150"
+            "0.110.150",
+            "0.110.160"
          ]
       }
    ],
@@ -18865,7 +18908,8 @@
          "repository" : "perl-experimental",
          "versions_gentoo" : [
             "0.11.0",
-            "0.16.0"
+            "0.16.0",
+            "0.17.0"
          ]
       }
    ],
@@ -19075,7 +19119,8 @@
          "repository" : "gentoo",
          "versions_gentoo" : [
             "1.160.0",
-            "1.170.0"
+            "1.170.0",
+            "1.180.0"
          ]
       }
    ],
@@ -19085,7 +19130,8 @@
          "package" : "Test-Taint",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "1.40.0"
+            "1.40.0",
+            "1.60.0"
          ]
       }
    ],
@@ -20321,7 +20367,8 @@
          "repository" : "gentoo",
          "versions_gentoo" : [
             "1.30",
-            "1.320.0"
+            "1.320.0",
+            "1.330.0"
          ]
       }
    ],
@@ -20995,7 +21042,8 @@
             "1.900.0",
             "2.0.100",
             "2.0.300",
-            "2.0.400"
+            "2.0.400",
+            "2.1.0"
          ]
       }
    ],
@@ -21924,7 +21972,8 @@
          "repository" : "perl-experimental",
          "versions_gentoo" : [
             "0.7.0",
-            "0.8.0"
+            "0.8.0",
+            "0.9.0"
          ]
       }
    ],
