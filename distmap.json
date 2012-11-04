@@ -1823,7 +1823,8 @@
             "0.660.0",
             "0.680.0",
             "0.780.0",
-            "0.800.0"
+            "0.800.0",
+            "0.840.0"
          ]
       }
    ],
@@ -2465,7 +2466,8 @@
             "5.900.0",
             "5.900.200",
             "5.900.300",
-            "5.900.400"
+            "5.900.400",
+            "5.900.500"
          ]
       }
    ],
@@ -7262,7 +7264,8 @@
          "package" : "ElasticSearch",
          "repository" : "perl-experimental",
          "versions_gentoo" : [
-            "0.580.0"
+            "0.580.0",
+            "0.590.0"
          ]
       }
    ],
@@ -7273,7 +7276,8 @@
          "repository" : "perl-experimental",
          "versions_gentoo" : [
             "0.140.0",
-            "0.150.0"
+            "0.150.0",
+            "0.160.0"
          ]
       }
    ],
@@ -8167,6 +8171,7 @@
             "1.100.0-r1",
             "1.100.0",
             "1.120.0",
+            "1.130.0",
             "1.80.0",
             "1.90.0"
          ]
@@ -11583,7 +11588,6 @@
          "package" : "Locale-Codes",
          "repository" : "perl-experimental",
          "versions_gentoo" : [
-            "3.220.0",
             "3.230.0"
          ]
       }
@@ -12629,7 +12633,8 @@
          "repository" : "perl-experimental",
          "versions_gentoo" : [
             "1.201.201.300",
-            "1.201.205.210"
+            "1.201.205.210",
+            "1.201.211.30"
          ]
       }
    ],
@@ -13158,7 +13163,8 @@
             "3.110.0",
             "3.320.0",
             "3.510.0",
-            "3.520.0"
+            "3.520.0",
+            "3.540.0"
          ]
       }
    ],
@@ -13230,7 +13236,8 @@
          "versions_gentoo" : [
             "0.100.0",
             "0.110.0",
-            "0.120.0"
+            "0.120.0",
+            "0.130.0"
          ]
       }
    ],
@@ -13593,7 +13600,8 @@
          "repository" : "perl-experimental",
          "versions_gentoo" : [
             "0.240.0",
-            "0.270.0"
+            "0.270.0",
+            "0.280.0"
          ]
       }
    ],
@@ -14546,15 +14554,8 @@
          "package" : "Net-SFTP-Foreign",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "1.67"
-         ]
-      },
-      {
-         "category" : "dev-perl",
-         "package" : "RadiusPerl",
-         "repository" : "gentoo",
-         "versions_gentoo" : [
-            "0.20"
+            "1.67",
+            "1.730.0"
          ]
       }
    ],
@@ -14720,7 +14721,8 @@
          "package" : "Net-Twitter",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "3.180.30"
+            "3.180.30",
+            "3.180.40"
          ]
       }
    ],
@@ -14773,7 +14775,8 @@
             "4.59.0",
             "4.62.0",
             "4.64.0",
-            "4.65.0"
+            "4.65.0",
+            "4.66.0"
          ]
       }
    ],
@@ -15041,7 +15044,8 @@
          "package" : "PAR",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "1.5.0"
+            "1.5.0",
+            "1.7.0"
          ]
       }
    ],
@@ -15051,7 +15055,8 @@
          "package" : "PAR-Dist",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "0.480.0"
+            "0.480.0",
+            "0.490.0"
          ]
       }
    ],
@@ -15589,7 +15594,8 @@
          "repository" : "gentoo",
          "versions_gentoo" : [
             "1.0.0",
-            "1.60.0"
+            "1.60.0",
+            "1.70.0"
          ]
       }
    ],
@@ -15971,7 +15977,8 @@
          "package" : "PerlIO-via-dynamic",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "0.130.0"
+            "0.130.0",
+            "0.140.0"
          ]
       }
    ],
@@ -16420,7 +16427,8 @@
          "package" : "Proc-ProcessTable",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "0.450.0"
+            "0.450.0",
+            "0.460.0"
          ]
       }
    ],
@@ -16482,6 +16490,17 @@
          "repository" : "gentoo",
          "versions_gentoo" : [
             "1.110.0"
+         ]
+      }
+   ],
+   "RadiusPerl" : [
+      {
+         "category" : "dev-perl",
+         "package" : "RadiusPerl",
+         "repository" : "gentoo",
+         "versions_gentoo" : [
+            "0.20",
+            "0.210.0"
          ]
       }
    ],
@@ -17688,6 +17707,16 @@
          ]
       }
    ],
+   "Syntax-Keyword-Junction" : [
+      {
+         "category" : "dev-perl",
+         "package" : "Syntax-Keyword-Junction",
+         "repository" : "perl-experimental",
+         "versions_gentoo" : [
+            "0.3.1"
+         ]
+      }
+   ],
    "Sys-CPU" : [
       {
          "category" : "dev-perl",
@@ -18605,10 +18634,8 @@
          "repository" : "perl-experimental",
          "versions_gentoo" : [
             "0.130.0",
-            "0.170.0",
-            "0.180.0",
-            "0.200.0",
-            "0.210.0"
+            "0.210.0",
+            "0.220.0"
          ]
       }
    ],
@@ -20356,7 +20383,8 @@
          "package" : "Unicode-Collate",
          "repository" : "perl-experimental",
          "versions_gentoo" : [
-            "0.890.0"
+            "0.890.0",
+            "0.900.0"
          ]
       }
    ],
@@ -20409,7 +20437,8 @@
          "package" : "Unicode-Normalize",
          "repository" : "perl-experimental",
          "versions_gentoo" : [
-            "1.140.0"
+            "1.140.0",
+            "1.150.0"
          ]
       }
    ],
@@ -21906,6 +21935,16 @@
          "versions_gentoo" : [
             "1.4.1",
             "1.4.2"
+         ]
+      }
+   ],
+   "syntax" : [
+      {
+         "category" : "dev-perl",
+         "package" : "syntax",
+         "repository" : "perl-experimental",
+         "versions_gentoo" : [
+            "0.4.0"
          ]
       }
    ],
