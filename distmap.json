@@ -20,6 +20,16 @@
          ]
       }
    ],
+   "Acme-LAUTER-DEUTSCHER" : [
+      {
+         "category" : "dev-perl",
+         "package" : "Acme-LAUTER-DEUTSCHER",
+         "repository" : "perl-experimental",
+         "versions_gentoo" : [
+            "1.20.0"
+         ]
+      }
+   ],
    "Adam" : [
       {
          "category" : "dev-perl",
@@ -10933,14 +10943,6 @@
          "versions_gentoo" : [
             "1.1.0"
          ]
-      },
-      {
-         "category" : "dev-perl",
-         "package" : "Import-Into",
-         "repository" : "perl-experimental",
-         "versions_gentoo" : [
-            "1.1.0"
-         ]
       }
    ],
    "Inline" : [
@@ -11349,6 +11351,7 @@
             "0.120.0",
             "0.130.0",
             "0.150.0",
+            "0.160.0",
             "0.40.0"
          ]
       }
@@ -11492,6 +11495,16 @@
          "repository" : "perl-experimental",
          "versions_gentoo" : [
             "0.09"
+         ]
+      }
+   ],
+   "Lingua-Translate" : [
+      {
+         "category" : "dev-perl",
+         "package" : "Lingua-Translate",
+         "repository" : "perl-experimental",
+         "versions_gentoo" : [
+            "0.90.0"
          ]
       }
    ],
@@ -16101,6 +16114,16 @@
          ]
       }
    ],
+   "Pod-Constants" : [
+      {
+         "category" : "dev-perl",
+         "package" : "Pod-Constants",
+         "repository" : "perl-experimental",
+         "versions_gentoo" : [
+            "0.160.0"
+         ]
+      }
+   ],
    "Pod-Coverage" : [
       {
          "category" : "dev-perl",
@@ -17529,7 +17552,8 @@
          "versions_gentoo" : [
             "0.50.0",
             "0.70.0",
-            "0.80.0"
+            "0.80.0",
+            "0.90.0"
          ]
       }
    ],
