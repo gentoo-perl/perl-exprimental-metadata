@@ -1868,7 +1868,8 @@
             "0.680.0",
             "0.780.0",
             "0.800.0",
-            "0.840.0"
+            "0.840.0",
+            "0.860.0"
          ]
       }
    ],
@@ -2511,7 +2512,8 @@
             "5.900.200",
             "5.900.300",
             "5.900.400",
-            "5.900.500"
+            "5.900.500",
+            "5.900.600"
          ]
       }
    ],
@@ -4249,7 +4251,8 @@
          "package" : "Config-AutoConf",
          "repository" : "perl-experimental",
          "versions_gentoo" : [
-            "0.190.0"
+            "0.190.0",
+            "0.200.0"
          ]
       }
    ],
@@ -4290,6 +4293,7 @@
          "package" : "Config-GitLike",
          "repository" : "perl-experimental",
          "versions_gentoo" : [
+            "1.100.0",
             "1.30.0",
             "1.40.0",
             "1.50.0",
@@ -4376,6 +4380,16 @@
          "repository" : "perl-experimental",
          "versions_gentoo" : [
             "2.101.461"
+         ]
+      }
+   ],
+   "Config-Pit" : [
+      {
+         "category" : "dev-perl",
+         "package" : "Config-Pit",
+         "repository" : "perl-experimental",
+         "versions_gentoo" : [
+            "0.40.0"
          ]
       }
    ],
@@ -5606,6 +5620,16 @@
          "repository" : "gentoo",
          "versions_gentoo" : [
             "0.180.0"
+         ]
+      }
+   ],
+   "Data-ICal-DateTime" : [
+      {
+         "category" : "dev-perl",
+         "package" : "Data-ICal-DateTime",
+         "repository" : "perl-experimental",
+         "versions_gentoo" : [
+            "0.700.0"
          ]
       }
    ],
@@ -6991,7 +7015,8 @@
             "1.121.820",
             "1.122.460",
             "1.122.530",
-            "2.1.0"
+            "2.1.0",
+            "2.2.0"
          ]
       }
    ],
@@ -7241,7 +7266,8 @@
             "1.3.1",
             "1.4.3",
             "1.5.0",
-            "1.5.1"
+            "1.5.1",
+            "1.6.0"
          ]
       }
    ],
@@ -7331,7 +7357,8 @@
          "repository" : "perl-experimental",
          "versions_gentoo" : [
             "0.580.0",
-            "0.590.0"
+            "0.590.0",
+            "0.610.0"
          ]
       }
    ],
@@ -7343,7 +7370,8 @@
          "versions_gentoo" : [
             "0.140.0",
             "0.150.0",
-            "0.160.0"
+            "0.160.0",
+            "0.170.0"
          ]
       }
    ],
@@ -8411,7 +8439,6 @@
          "package" : "File-Path-Tiny",
          "repository" : "perl-experimental",
          "versions_gentoo" : [
-            "0.300.0",
             "0.500.0"
          ]
       }
@@ -9580,7 +9607,6 @@
          "package" : "Gtk3",
          "repository" : "perl-experimental",
          "versions_gentoo" : [
-            "0.5.0",
             "0.6.0",
             "0.7.0",
             "0.8.0"
@@ -13253,7 +13279,8 @@
             "3.320.0",
             "3.510.0",
             "3.520.0",
-            "3.540.0"
+            "3.540.0",
+            "3.560.0"
          ]
       }
    ],
@@ -15709,8 +15736,6 @@
          "package" : "Parse-CPAN-Distributions",
          "repository" : "perl-experimental",
          "versions_gentoo" : [
-            "0.50.0",
-            "0.60.0",
             "0.70.0"
          ]
       }
@@ -17420,7 +17445,8 @@
             "0.201.400",
             "0.300.0",
             "0.300.100",
-            "0.300.300"
+            "0.300.300",
+            "0.300.400"
          ]
       }
    ],
@@ -18601,7 +18627,8 @@
             "0.220",
             "0.240",
             "0.260.0",
-            "0.300.0"
+            "0.300.0",
+            "0.320.0"
          ]
       }
    ],
@@ -20498,7 +20525,6 @@
          "package" : "Unicode-Collate",
          "repository" : "perl-experimental",
          "versions_gentoo" : [
-            "0.890.0",
             "0.900.0",
             "0.910.0"
          ]
@@ -20553,7 +20579,6 @@
          "package" : "Unicode-Normalize",
          "repository" : "perl-experimental",
          "versions_gentoo" : [
-            "1.140.0",
             "1.150.0",
             "1.160.0"
          ]
@@ -21189,7 +21214,8 @@
             "2.0.100",
             "2.0.300",
             "2.0.400",
-            "2.1.0"
+            "2.1.0",
+            "2.1.200"
          ]
       }
    ],
@@ -21596,6 +21622,26 @@
          ]
       }
    ],
+   "ZMQ-Constants" : [
+      {
+         "category" : "dev-perl",
+         "package" : "ZMQ-Constants",
+         "repository" : "gentoo",
+         "versions_gentoo" : [
+            "1.10.0"
+         ]
+      }
+   ],
+   "ZMQ-LibZMQ2" : [
+      {
+         "category" : "dev-perl",
+         "package" : "ZMQ-LibZMQ2",
+         "repository" : "gentoo",
+         "versions_gentoo" : [
+            "1.30.0"
+         ]
+      }
+   ],
    "ack" : [
       {
          "category" : "sys-apps",
@@ -21670,6 +21716,7 @@
             "2.100.0",
             "2.110.0",
             "2.120.0",
+            "2.130.0",
             "2.60.0"
          ]
       }
