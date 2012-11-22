@@ -278,7 +278,8 @@
          "package" : "Apache-Htpasswd",
          "repository" : "perl-experimental",
          "versions_gentoo" : [
-            "1.800.0"
+            "1.800.0",
+            "1.900.0"
          ]
       }
    ],
@@ -622,6 +623,16 @@
          "versions_gentoo" : [
             "3.30.0",
             "3.50.0"
+         ]
+      }
+   ],
+   "Async-MergePoint" : [
+      {
+         "category" : "dev-perl",
+         "package" : "Async-MergePoint",
+         "repository" : "perl-experimental",
+         "versions_gentoo" : [
+            "0.40.0"
          ]
       }
    ],
@@ -1967,6 +1978,16 @@
          "repository" : "perl-experimental",
          "versions_gentoo" : [
             "0.120.0"
+         ]
+      }
+   ],
+   "CPS" : [
+      {
+         "category" : "dev-perl",
+         "package" : "CPS",
+         "repository" : "perl-experimental",
+         "versions_gentoo" : [
+            "0.180.0"
          ]
       }
    ],
@@ -8928,6 +8949,16 @@
          ]
       }
    ],
+   "Future" : [
+      {
+         "category" : "dev-perl",
+         "package" : "Future",
+         "repository" : "perl-experimental",
+         "versions_gentoo" : [
+            "0.40.0"
+         ]
+      }
+   ],
    "GBrowse" : [
       {
          "category" : "sci-biology",
@@ -10564,6 +10595,16 @@
          "versions_gentoo" : [
             "0.440.0",
             "0.460.0"
+         ]
+      }
+   ],
+   "IO-Async" : [
+      {
+         "category" : "dev-perl",
+         "package" : "IO-Async",
+         "repository" : "perl-experimental",
+         "versions_gentoo" : [
+            "0.530.0"
          ]
       }
    ],
@@ -13308,7 +13349,8 @@
             "3.320.0",
             "3.510.0",
             "3.520.0",
-            "3.580.0"
+            "3.580.0",
+            "3.590.0"
          ]
       }
    ],
@@ -18938,6 +18980,16 @@
          ]
       }
    ],
+   "Test-Identity" : [
+      {
+         "category" : "dev-perl",
+         "package" : "Test-Identity",
+         "repository" : "perl-experimental",
+         "versions_gentoo" : [
+            "0.10.0"
+         ]
+      }
+   ],
    "Test-InDistDir" : [
       {
          "category" : "dev-perl",
@@ -19206,6 +19258,16 @@
          "versions_gentoo" : [
             "0.50.0",
             "0.60.0"
+         ]
+      }
+   ],
+   "Test-Refcount" : [
+      {
+         "category" : "dev-perl",
+         "package" : "Test-Refcount",
+         "repository" : "perl-experimental",
+         "versions_gentoo" : [
+            "0.70.0"
          ]
       }
    ],
