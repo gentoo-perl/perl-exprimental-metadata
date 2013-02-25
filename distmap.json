@@ -7145,7 +7145,6 @@
          "package" : "Dist-Zilla-Plugin-PerlTidy",
          "repository" : "perl-experimental",
          "versions_gentoo" : [
-            "0.120.0",
             "0.130.0"
          ]
       }
