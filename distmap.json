@@ -5034,6 +5034,16 @@
          ]
       }
    ],
+   "DBD-CSV" : [
+      {
+         "category" : "dev-perl",
+         "package" : "DBD-CSV",
+         "repository" : "perl-experimental",
+         "versions_gentoo" : [
+            "0.380.0"
+         ]
+      }
+   ],
    "DBD-Pg" : [
       {
          "category" : "dev-perl",
@@ -11100,6 +11110,16 @@
          ]
       }
    ],
+   "IPC-Run-Fused" : [
+      {
+         "category" : "dev-perl",
+         "package" : "IPC-Run-Fused",
+         "repository" : "perl-experimental",
+         "versions_gentoo" : [
+            "0.40.1.0"
+         ]
+      }
+   ],
    "IPC-Run3" : [
       {
          "category" : "dev-perl",
@@ -14467,6 +14487,17 @@
          ]
       }
    ],
+   "MooseX-Types-FakeHash" : [
+      {
+         "category" : "dev-perl",
+         "package" : "MooseX-Types-FakeHash",
+         "repository" : "perl-experimental",
+         "versions_gentoo" : [
+            "0.1.0",
+            "0.1.2"
+         ]
+      }
+   ],
    "MooseX-Types-ISO8601" : [
       {
          "category" : "dev-perl",
@@ -14798,6 +14829,16 @@
          ]
       }
    ],
+   "Net-Delicious" : [
+      {
+         "category" : "dev-perl",
+         "package" : "Net-Delicious",
+         "repository" : "perl-experimental",
+         "versions_gentoo" : [
+            "1.140.0"
+         ]
+      }
+   ],
    "Net-Domain-TLD" : [
       {
          "category" : "dev-perl",
@@ -14815,6 +14856,26 @@
          "repository" : "gentoo",
          "versions_gentoo" : [
             "0.80.0"
+         ]
+      }
+   ],
+   "Net-Google-AuthSub" : [
+      {
+         "category" : "dev-perl",
+         "package" : "Net-Google-AuthSub",
+         "repository" : "perl-experimental",
+         "versions_gentoo" : [
+            "0.500.0"
+         ]
+      }
+   ],
+   "Net-Google-DataAPI" : [
+      {
+         "category" : "dev-perl",
+         "package" : "Net-Google-DataAPI",
+         "repository" : "perl-experimental",
+         "versions_gentoo" : [
+            "0.280.300"
          ]
       }
    ],
@@ -14992,6 +15053,16 @@
          "repository" : "gentoo",
          "versions_gentoo" : [
             "0.280.0"
+         ]
+      }
+   ],
+   "Net-OAuth2" : [
+      {
+         "category" : "dev-perl",
+         "package" : "Net-OAuth2",
+         "repository" : "perl-experimental",
+         "versions_gentoo" : [
+            "0.550.0"
          ]
       }
    ],
@@ -15750,6 +15821,17 @@
          "repository" : "perl-experimental",
          "versions_gentoo" : [
             "0.921.0"
+         ]
+      }
+   ],
+   "POE-Component-SSLify" : [
+      {
+         "category" : "dev-perl",
+         "package" : "POE-Component-SSLify",
+         "repository" : "perl-experimental",
+         "versions_gentoo" : [
+            "1.6.0",
+            "1.8.0"
          ]
       }
    ],
@@ -17484,6 +17566,16 @@
          ]
       }
    ],
+   "SVN-Notify" : [
+      {
+         "category" : "dev-perl",
+         "package" : "SVN-Notify",
+         "repository" : "perl-experimental",
+         "versions_gentoo" : [
+            "2.830.0"
+         ]
+      }
+   ],
    "SVN-Simple" : [
       {
          "category" : "dev-perl",
@@ -17635,6 +17727,17 @@
             "1.0.0",
             "1.0.1",
             "1.0.2"
+         ]
+      }
+   ],
+   "Search-GIN-Extract-ClassMap" : [
+      {
+         "category" : "dev-perl",
+         "package" : "Search-GIN-Extract-ClassMap",
+         "repository" : "perl-experimental",
+         "versions_gentoo" : [
+            "0.10.608.150",
+            "0.10.608.170"
          ]
       }
    ],
@@ -21995,6 +22098,16 @@
          "repository" : "gentoo",
          "versions_gentoo" : [
             "2.320.0"
+         ]
+      }
+   ],
+   "XML-RSS-LibXML" : [
+      {
+         "category" : "dev-perl",
+         "package" : "XML-RSS-LibXML",
+         "repository" : "perl-experimental",
+         "versions_gentoo" : [
+            "0.310.200"
          ]
       }
    ],
