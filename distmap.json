@@ -2558,7 +2558,8 @@
          "versions_gentoo" : [
             "0.280.0",
             "0.290.0",
-            "0.300.0"
+            "0.300.0",
+            "0.320.0"
          ]
       }
    ],
@@ -22319,7 +22320,6 @@
          "package" : "autobox",
          "repository" : "perl-experimental",
          "versions_gentoo" : [
-            "2.770.0",
             "2.790.0"
          ]
       }
