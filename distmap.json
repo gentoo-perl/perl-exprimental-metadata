@@ -13490,7 +13490,8 @@
          "package" : "Mojolicious",
          "repository" : "perl-experimental",
          "versions_gentoo" : [
-            "3.970.0"
+            "3.970.0",
+            "4.0.0"
          ]
       }
    ],
