@@ -13,9 +13,8 @@
       {
          "category" : "dev-perl",
          "package" : "Acme-Damn",
-         "repository" : "perl-experimental",
+         "repository" : "gentoo",
          "versions_gentoo" : [
-            "0.40.0",
             "0.50.0"
          ]
       }
@@ -66,6 +65,17 @@
          "package" : "Algorithm-C3",
          "repository" : "gentoo",
          "versions_gentoo" : [
+            "0.80.0",
+            "0.90.0"
+         ]
+      }
+   ],
+   "Algorithm-ClusterPoints" : [
+      {
+         "category" : "dev-perl",
+         "package" : "Algorithm-ClusterPoints",
+         "repository" : "perl-experimental",
+         "versions_gentoo" : [
             "0.80.0"
          ]
       }
@@ -86,7 +96,7 @@
          "package" : "Algorithm-Diff",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "1.190.200"
+            "1.190.200-r1"
          ]
       }
    ],
@@ -146,7 +156,9 @@
          "package" : "Alien-SDL",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "1.436.0"
+            "1.436.0",
+            "1.440.0",
+            "1.444.0"
          ]
       }
    ],
@@ -157,7 +169,8 @@
          "repository" : "gentoo",
          "versions_gentoo" : [
             "0.610.0",
-            "0.620.0"
+            "0.620.0",
+            "0.640.0"
          ]
       }
    ],
@@ -178,7 +191,8 @@
          "repository" : "gentoo",
          "versions_gentoo" : [
             "0.180.0",
-            "0.200.0"
+            "0.200.0",
+            "0.210.0"
          ]
       }
    ],
@@ -198,13 +212,8 @@
          "package" : "AnyEvent",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "5.2.5.1",
-            "6.100.0",
-            "6.140.0",
-            "6.20.0",
-            "7.10.0",
-            "7.20.0",
-            "7.40.0"
+            "7.40.0",
+            "7.80.0"
          ]
       }
    ],
@@ -268,7 +277,8 @@
          "package" : "Apache-DBI",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "1.110.0"
+            "1.110.0",
+            "1.120.0"
          ]
       }
    ],
@@ -278,7 +288,6 @@
          "package" : "Apache-Htpasswd",
          "repository" : "perl-experimental",
          "versions_gentoo" : [
-            "1.800.0",
             "1.900.0"
          ]
       }
@@ -299,7 +308,7 @@
          "package" : "Apache-Session",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "1.890.0"
+            "1.900.0"
          ]
       }
    ],
@@ -319,7 +328,8 @@
          "package" : "Apache-SizeLimit",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "0.960.0"
+            "0.960.0",
+            "0.970.0"
          ]
       }
    ],
@@ -349,7 +359,7 @@
          "package" : "App-Asciio",
          "repository" : "perl-experimental",
          "versions_gentoo" : [
-            "1.2.71"
+            "1.2.71-r1"
          ]
       }
    ],
@@ -369,7 +379,6 @@
          "package" : "App-Cache",
          "repository" : "perl-experimental",
          "versions_gentoo" : [
-            "0.360.0",
             "0.370.0"
          ]
       }
@@ -381,7 +390,8 @@
          "repository" : "perl-experimental",
          "versions_gentoo" : [
             "0.318.0",
-            "0.320.0"
+            "0.320.0",
+            "0.323.0"
          ]
       }
    ],
@@ -392,7 +402,8 @@
          "repository" : "gentoo",
          "versions_gentoo" : [
             "0.900.0",
-            "0.910.0"
+            "0.910.0",
+            "0.920.0"
          ]
       }
    ],
@@ -423,7 +434,9 @@
             "1.690.900",
             "1.691.100",
             "1.691.200",
-            "1.691.400"
+            "1.691.400",
+            "1.692.0",
+            "1.700.100"
          ]
       }
    ],
@@ -449,8 +462,8 @@
          "package" : "App-mymeta_requires",
          "repository" : "perl-experimental",
          "versions_gentoo" : [
-            "0.2.0",
-            "0.3.0",
+            "0.2.0-r1",
+            "0.3.0-r1",
             "0.5.0"
          ]
       }
@@ -464,7 +477,9 @@
             "0.580.0",
             "0.590.0",
             "0.620.0",
-            "0.630.0"
+            "0.630.0",
+            "0.640.0",
+            "0.670.0"
          ]
       }
    ],
@@ -516,7 +531,6 @@
          "package" : "Archive-Rar",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "1.9.3",
             "2.20.0"
          ]
       }
@@ -527,16 +541,8 @@
          "package" : "Archive-Tar",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "1.54",
-            "1.72",
-            "1.760.0",
-            "1.780.0",
-            "1.800.0",
-            "1.820.0",
-            "1.840.0",
-            "1.860.0",
-            "1.880.0",
-            "1.900.0"
+            "1.900.0-r1",
+            "1.920.0"
          ]
       }
    ],
@@ -546,7 +552,8 @@
          "package" : "Archive-Zip",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "1.300.0"
+            "1.300.0",
+            "1.370.0"
          ]
       }
    ],
@@ -566,7 +573,6 @@
          "package" : "Array-Diff",
          "repository" : "perl-experimental",
          "versions_gentoo" : [
-            "0.50.20",
             "0.70.0"
          ]
       }
@@ -628,9 +634,7 @@
          "package" : "Attribute-Handlers",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "0.88",
-            "0.910.0",
-            "0.930.0"
+            "0.930.0-r2"
          ]
       }
    ],
@@ -708,7 +712,6 @@
          "package" : "Audio-Musepack",
          "repository" : "perl-experimental",
          "versions_gentoo" : [
-            "0.700.0",
             "1.0.1"
          ]
       }
@@ -781,8 +784,6 @@
          "package" : "Authen-DecHpwd",
          "repository" : "perl-experimental",
          "versions_gentoo" : [
-            "2.4.0",
-            "2.5.0",
             "2.6.0"
          ]
       }
@@ -833,9 +834,7 @@
          "package" : "Authen-Passphrase",
          "repository" : "perl-experimental",
          "versions_gentoo" : [
-            "0.6.0",
-            "0.7.0",
-            "0.8.0"
+            "0.8.0-r1"
          ]
       }
    ],
@@ -855,9 +854,7 @@
          "package" : "AutoLoader",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "5.710.0",
-            "5.720.0",
-            "5.730.0"
+            "5.730.0-r1"
          ]
       }
    ],
@@ -877,8 +874,6 @@
          "package" : "autodia",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "2.08",
-            "2.100.0-r1",
             "2.140.0"
          ]
       }
@@ -887,11 +882,18 @@
       {
          "category" : "perl-core",
          "package" : "B-Debug",
+         "repository" : "gentoo",
+         "versions_gentoo" : [
+            "1.180.0-r1"
+         ]
+      },
+      {
+         "category" : "perl-core",
+         "package" : "B-Debug",
          "repository" : "perl-experimental",
          "versions_gentoo" : [
             "1.160.0",
-            "1.170.0",
-            "1.180.0"
+            "1.170.0"
          ]
       }
    ],
@@ -968,7 +970,8 @@
          "package" : "B-Hooks-Parser",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "0.110.0"
+            "0.110.0",
+            "0.120.0"
          ]
       }
    ],
@@ -978,7 +981,8 @@
          "package" : "B-Keywords",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "1.120.0"
+            "1.120.0",
+            "1.130.0"
          ]
       }
    ],
@@ -1011,7 +1015,7 @@
          "package" : "B-RecDeparse",
          "repository" : "perl-experimental",
          "versions_gentoo" : [
-            "0.50.0"
+            "0.80.0"
          ]
       }
    ],
@@ -1021,7 +1025,8 @@
          "package" : "B-Utils",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "0.210.0"
+            "0.210.0",
+            "0.220.0"
          ]
       }
    ],
@@ -1031,7 +1036,7 @@
          "package" : "BSD-Resource",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "1.290.400"
+            "1.290.700-r1"
          ]
       }
    ],
@@ -1068,13 +1073,25 @@
          ]
       }
    ],
+   "Benchmark-Timer" : [
+      {
+         "category" : "dev-perl",
+         "package" : "Benchmark-Timer",
+         "repository" : "gentoo",
+         "versions_gentoo" : [
+            "0.7102"
+         ]
+      }
+   ],
    "BerkeleyDB" : [
       {
          "category" : "dev-perl",
          "package" : "BerkeleyDB",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "0.510.0"
+            "0.510.0",
+            "0.530.0",
+            "0.540.0"
          ]
       }
    ],
@@ -1128,7 +1145,8 @@
          "versions_gentoo" : [
             "2.290.0",
             "2.310.0",
-            "2.320.0"
+            "2.320.0",
+            "2.370.0"
          ]
       }
    ],
@@ -1139,7 +1157,9 @@
          "repository" : "gentoo",
          "versions_gentoo" : [
             "1.330.0",
-            "1.370.0-r1"
+            "1.370.0-r1",
+            "1.380.0",
+            "1.390.0"
          ]
       }
    ],
@@ -1350,7 +1370,8 @@
          "package" : "CDDB",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "1.220.0"
+            "1.220.0",
+            "1.222.0"
          ]
       }
    ],
@@ -1381,14 +1402,7 @@
          "package" : "CGI",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "3.510",
-            "3.520",
-            "3.530.0",
-            "3.540.0",
-            "3.550.0",
-            "3.590.0",
-            "3.600.0",
-            "3.630.0"
+            "3.630.0-r1"
          ]
       }
    ],
@@ -1411,8 +1425,8 @@
             "4.110.0",
             "4.200.0",
             "4.210.0",
-            "4.310.0",
-            "4.500.0"
+            "4.310.0-r1",
+            "4.500.0-r1"
          ]
       }
    ],
@@ -1448,10 +1462,10 @@
          "package" : "CGI-Application-Plugin-Authentication",
          "repository" : "perl-experimental",
          "versions_gentoo" : [
-            "0.170.0",
-            "0.180.0",
-            "0.190.0",
-            "0.200.0"
+            "0.170.0-r1",
+            "0.180.0-r1",
+            "0.190.0-r1",
+            "0.200.0-r1"
          ]
       }
    ],
@@ -1546,7 +1560,7 @@
          "repository" : "perl-experimental",
          "versions_gentoo" : [
             "1.40.0",
-            "1.50.0"
+            "1.50.0-r1"
          ]
       }
    ],
@@ -1578,6 +1592,16 @@
          "versions_gentoo" : [
             "0.16",
             "0.18"
+         ]
+      }
+   ],
+   "CGI-Deurl-XS" : [
+      {
+         "category" : "dev-perl",
+         "package" : "CGI-Deurl-XS",
+         "repository" : "perl-experimental",
+         "versions_gentoo" : [
+            "0.70.0"
          ]
       }
    ],
@@ -1687,7 +1711,8 @@
          "package" : "CHI",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "0.560.0"
+            "0.560.0",
+            "0.580.0"
          ]
       }
    ],
@@ -1722,18 +1747,8 @@
          "package" : "CPAN-Changes",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "0.190.0"
-         ]
-      },
-      {
-         "category" : "dev-perl",
-         "package" : "CPAN-Changes",
-         "repository" : "perl-experimental",
-         "versions_gentoo" : [
-            "0.170.0",
-            "0.180.0",
-            "0.190.0",
-            "0.200.0"
+            "0.230.0",
+            "0.270.0"
          ]
       }
    ],
@@ -1779,17 +1794,8 @@
          "package" : "CPAN-Meta",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "2.110.440",
-            "2.110.580",
-            "2.110.910",
-            "2.110.930",
-            "2.112.150",
-            "2.112.621",
-            "2.113.640",
-            "2.120.351",
-            "2.120.630",
-            "2.120.900",
-            "2.120.921"
+            "2.120.921-r1",
+            "2.132.510-r1"
          ]
       }
    ],
@@ -1809,8 +1815,8 @@
          "package" : "CPAN-Meta-Requirements",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "2.121.0",
-            "2.122.0"
+            "2.122.0-r1",
+            "2.125.0-r1"
          ]
       }
    ],
@@ -1820,12 +1826,7 @@
          "package" : "CPAN-Meta-YAML",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "0.3.0",
-            "0.4.0",
-            "0.5.0",
-            "0.6.0",
-            "0.7.0",
-            "0.8.0"
+            "0.8.0-r1"
          ]
       }
    ],
@@ -1847,7 +1848,8 @@
          "package" : "CPAN-Mini-Inject",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "0.310.0"
+            "0.310.0",
+            "0.330.0"
          ]
       }
    ],
@@ -1857,7 +1859,8 @@
          "package" : "CPAN-ParseDistribution",
          "repository" : "perl-experimental",
          "versions_gentoo" : [
-            "1.400.0"
+            "1.400.0",
+            "1.520.0"
          ]
       }
    ],
@@ -1867,8 +1870,7 @@
          "package" : "CPAN-Perl-Releases",
          "repository" : "perl-experimental",
          "versions_gentoo" : [
-            "1.100.0",
-            "1.140.0"
+            "1.660.0"
          ]
       }
    ],
@@ -2065,11 +2067,6 @@
          "package" : "Cache-Memcached",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "1.24",
-            "1.26",
-            "1.27",
-            "1.28",
-            "1.29",
             "1.290.0",
             "1.300.0"
          ]
@@ -2081,7 +2078,8 @@
          "package" : "Cache-Memcached-Fast",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "0.190.0"
+            "0.190.0",
+            "0.210.0"
          ]
       }
    ],
@@ -2135,9 +2133,7 @@
          "package" : "Cairo",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "1.102.0",
-            "1.103.0",
-            "1.90.0"
+            "1.103.0"
          ]
       }
    ],
@@ -2180,8 +2176,15 @@
          "package" : "Capture-Tiny",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "0.170.0",
-            "0.210.0"
+            "0.240.0"
+         ]
+      },
+      {
+         "category" : "dev-perl",
+         "package" : "Capture-Tiny",
+         "repository" : "perl-experimental",
+         "versions_gentoo" : [
+            "0.220.0"
          ]
       }
    ],
@@ -2255,7 +2258,8 @@
          "package" : "Carp-REPL",
          "repository" : "perl-experimental",
          "versions_gentoo" : [
-            "0.15"
+            "0.150.0",
+            "0.160.0"
          ]
       }
    ],
@@ -2268,6 +2272,7 @@
             "0.890.0",
             "0.990.0",
             "1.100.0",
+            "1.110.0",
             "1.60.0"
          ]
       }
@@ -2321,7 +2326,8 @@
             "0.150.0",
             "0.150.100",
             "0.150.200",
-            "0.150.300"
+            "0.150.300",
+            "0.150.500"
          ]
       }
    ],
@@ -2416,8 +2422,8 @@
             "0.10.0",
             "0.30.0",
             "0.40.0",
-            "0.60.0",
-            "0.70.0"
+            "0.60.0-r1",
+            "0.70.0-r1"
          ]
       }
    ],
@@ -2436,7 +2442,8 @@
             "1.340.0",
             "1.360.0",
             "1.370.0",
-            "1.380.0"
+            "1.380.0",
+            "1.390.0"
          ]
       }
    ],
@@ -2859,7 +2866,7 @@
          "repository" : "perl-experimental",
          "versions_gentoo" : [
             "0.09",
-            "0.10"
+            "0.10-r1"
          ]
       }
    ],
@@ -2969,16 +2976,16 @@
          "package" : "Catalyst-Plugin-Session",
          "repository" : "perl-experimental",
          "versions_gentoo" : [
-            "0.280.0",
-            "0.290.0",
-            "0.300.0",
-            "0.310.0",
-            "0.320.0",
-            "0.330.0",
-            "0.340.0",
-            "0.350.0",
-            "0.360.0",
-            "0.370.0"
+            "0.280.0-r1",
+            "0.290.0-r1",
+            "0.300.0-r1",
+            "0.310.0-r1",
+            "0.320.0-r1",
+            "0.330.0-r1",
+            "0.340.0-r1",
+            "0.350.0-r1",
+            "0.360.0-r1",
+            "0.370.0-r1"
          ]
       }
    ],
@@ -3067,6 +3074,7 @@
             "0.100.0",
             "0.110.0",
             "0.120.0",
+            "0.130.0",
             "0.90.0"
          ]
       }
@@ -3259,7 +3267,9 @@
          "versions_gentoo" : [
             "5.800.330",
             "5.900.200",
-            "5.900.300"
+            "5.900.300",
+            "5.900.420",
+            "5.900.640"
          ]
       }
    ],
@@ -3293,8 +3303,8 @@
          "package" : "Catalyst-View-Download",
          "repository" : "perl-experimental",
          "versions_gentoo" : [
-            "0.60.0",
-            "0.70.0"
+            "0.70.0",
+            "0.90.0"
          ]
       }
    ],
@@ -3506,7 +3516,8 @@
          "package" : "Chart",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "2.4.5"
+            "2.4.5",
+            "2.4.6"
          ]
       }
    ],
@@ -3516,7 +3527,7 @@
          "package" : "Chart-Math-Axis",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "1.60.0"
+            "1.60.0-r1"
          ]
       }
    ],
@@ -3556,8 +3567,8 @@
          "package" : "Cisco-Reconfig",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "0.900.0",
-            "0.910.0"
+            "0.910.0",
+            "0.911.0"
          ]
       }
    ],
@@ -3587,7 +3598,7 @@
          "package" : "Class-Accessor-Grouped",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "0.100.90"
+            "0.100.100"
          ]
       }
    ],
@@ -3607,7 +3618,7 @@
          "package" : "Class-Adapter",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "1.80.0"
+            "1.80.0-r1"
          ]
       }
    ],
@@ -3637,7 +3648,8 @@
          "package" : "Class-C3",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "0.230.0"
+            "0.230.0",
+            "0.250.0"
          ]
       }
    ],
@@ -3689,7 +3701,7 @@
          "package" : "Class-DBI",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "3.0.17"
+            "3.0.17-r1"
          ]
       }
    ],
@@ -3841,7 +3853,8 @@
          "package" : "Class-ErrorHandler",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "0.10.0"
+            "0.10.0",
+            "0.30.0"
          ]
       }
    ],
@@ -3868,11 +3881,11 @@
    ],
    "Class-ISA" : [
       {
-         "category" : "perl-core",
+         "category" : "dev-perl",
          "package" : "Class-ISA",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "0.36"
+            "0.36-r1"
          ]
       }
    ],
@@ -3882,9 +3895,9 @@
          "package" : "Class-InsideOut",
          "repository" : "perl-experimental",
          "versions_gentoo" : [
-            "1.100.0",
-            "1.110.0",
-            "1.130.0"
+            "1.100.0-r1",
+            "1.110.0-r1",
+            "1.130.0-r1"
          ]
       }
    ],
@@ -3905,9 +3918,6 @@
          "package" : "Class-Load",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "0.06",
-            "0.170.0",
-            "0.190.0",
             "0.200.0"
          ]
       }
@@ -3930,16 +3940,6 @@
          "repository" : "gentoo",
          "versions_gentoo" : [
             "2.30.0"
-         ]
-      }
-   ],
-   "Class-MOP" : [
-      {
-         "category" : "dev-perl",
-         "package" : "Class-MOP",
-         "repository" : "gentoo",
-         "versions_gentoo" : [
-            "1.120.0"
          ]
       }
    ],
@@ -3991,6 +3991,14 @@
       {
          "category" : "dev-perl",
          "package" : "Class-Mix",
+         "repository" : "gentoo",
+         "versions_gentoo" : [
+            "0.5.0"
+         ]
+      },
+      {
+         "category" : "dev-perl",
+         "package" : "Class-Mix",
          "repository" : "perl-experimental",
          "versions_gentoo" : [
             "0.3.0",
@@ -4015,7 +4023,6 @@
          "package" : "Class-Singleton",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "1.03",
             "1.400.0"
          ]
       }
@@ -4117,7 +4124,8 @@
          "package" : "Class-XSAccessor",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "1.160.0"
+            "1.180.0",
+            "1.190.0"
          ]
       }
    ],
@@ -4137,8 +4145,8 @@
          "package" : "Clone",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "0.310.0",
-            "0.340.0"
+            "0.350.0",
+            "0.360.0"
          ]
       }
    ],
@@ -4148,19 +4156,6 @@
          "package" : "Color-Calc",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "1.73.0"
-         ]
-      },
-      {
-         "category" : "dev-perl",
-         "package" : "Color-Calc",
-         "repository" : "perl-experimental",
-         "versions_gentoo" : [
-            "1.60.0",
-            "1.61.0",
-            "1.70.0",
-            "1.71.0",
-            "1.72.0",
             "1.73.0"
          ]
       }
@@ -4181,6 +4176,7 @@
          "package" : "Compress-Bzip2",
          "repository" : "gentoo",
          "versions_gentoo" : [
+            "2.170.0",
             "2.90.0"
          ]
       }
@@ -4191,17 +4187,6 @@
          "package" : "Compress-Raw-Bzip2",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "2.024",
-            "2.33",
-            "2.35.0",
-            "2.36.0",
-            "2.37.0",
-            "2.40.0",
-            "2.43.0",
-            "2.49.0",
-            "2.52.0",
-            "2.55.0",
-            "2.59.0",
             "2.60.0"
          ]
       }
@@ -4212,18 +4197,6 @@
          "package" : "Compress-Raw-Zlib",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "2.024",
-            "2.33",
-            "2.35.0",
-            "2.36.0",
-            "2.37.0",
-            "2.40.0",
-            "2.43.0",
-            "2.49.0",
-            "2.52.0",
-            "2.55.0",
-            "2.56.0",
-            "2.59.0",
             "2.60.0"
          ]
       }
@@ -4234,7 +4207,8 @@
          "package" : "Config-Any",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "0.230.0"
+            "0.230.0",
+            "0.240.0"
          ]
       }
    ],
@@ -4262,6 +4236,15 @@
       {
          "category" : "dev-perl",
          "package" : "Config-AutoConf",
+         "repository" : "gentoo",
+         "versions_gentoo" : [
+            "0.304",
+            "0.305"
+         ]
+      },
+      {
+         "category" : "dev-perl",
+         "package" : "Config-AutoConf",
          "repository" : "perl-experimental",
          "versions_gentoo" : [
             "0.220.0"
@@ -4274,7 +4257,8 @@
          "package" : "Config-Crontab",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "1.330.0"
+            "1.330.0",
+            "1.400.0"
          ]
       }
    ],
@@ -4284,7 +4268,8 @@
          "package" : "config-general",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "2.510.0"
+            "2.510.0",
+            "2.520.0"
          ]
       }
    ],
@@ -4320,7 +4305,7 @@
          "package" : "Config-Grammar",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "1.100.0"
+            "1.100.0-r1"
          ]
       }
    ],
@@ -4330,9 +4315,9 @@
          "package" : "Config-INI",
          "repository" : "perl-experimental",
          "versions_gentoo" : [
-            "0.17.0",
             "0.18.0",
-            "0.19.0"
+            "0.19.0",
+            "0.20.0"
          ]
       }
    ],
@@ -4343,7 +4328,9 @@
          "repository" : "gentoo",
          "versions_gentoo" : [
             "2.760.0",
-            "2.780.0"
+            "2.780.0",
+            "2.820.0",
+            "2.830.0"
          ]
       }
    ],
@@ -4376,9 +4363,7 @@
          "package" : "Config-MVP",
          "repository" : "perl-experimental",
          "versions_gentoo" : [
-            "2.200.1",
-            "2.200.2",
-            "2.200.3"
+            "2.200.6"
          ]
       }
    ],
@@ -4398,7 +4383,7 @@
          "package" : "Config-Pit",
          "repository" : "perl-experimental",
          "versions_gentoo" : [
-            "0.40.0"
+            "0.40.0-r1"
          ]
       }
    ],
@@ -4408,7 +4393,8 @@
          "package" : "Config-Properties",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "1.750.0"
+            "1.750.0",
+            "1.760.0"
          ]
       }
    ],
@@ -4428,7 +4414,7 @@
          "package" : "Config-Tiny",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "2.140.0"
+            "2.160.0"
          ]
       }
    ],
@@ -4448,7 +4434,8 @@
          "package" : "Const-Fast",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "0.13.0"
+            "0.13.0",
+            "0.14.0"
          ]
       }
    ],
@@ -4508,7 +4495,9 @@
          "package" : "Convert-BinHex",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "1.119.0"
+            "1.119.0",
+            "1.122.0",
+            "1.123.0"
          ]
       }
    ],
@@ -4578,7 +4567,8 @@
          "package" : "Coro",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "6.230.0"
+            "6.230.0",
+            "6.310.0"
          ]
       }
    ],
@@ -4588,7 +4578,8 @@
          "package" : "Crypt-Blowfish",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "2.120.0"
+            "2.120.0",
+            "2.140.0"
          ]
       }
    ],
@@ -4608,9 +4599,7 @@
          "package" : "crypt-cbc",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "2.300.0",
-            "2.310.0",
-            "2.320.0"
+            "2.330.0"
          ]
       }
    ],
@@ -4630,7 +4619,8 @@
          "package" : "Crypt-DES",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "2.50.0"
+            "2.50.0",
+            "2.70.0"
          ]
       }
    ],
@@ -4660,12 +4650,19 @@
          "package" : "crypt-dsa",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "1.16",
             "1.170.0"
          ]
       }
    ],
    "Crypt-Eksblowfish" : [
+      {
+         "category" : "dev-perl",
+         "package" : "Crypt-Eksblowfish",
+         "repository" : "gentoo",
+         "versions_gentoo" : [
+            "0.9.0-r1"
+         ]
+      },
       {
          "category" : "dev-perl",
          "package" : "Crypt-Eksblowfish",
@@ -4682,7 +4679,7 @@
          "package" : "crypt-idea",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "1.80.0"
+            "1.100.0"
          ]
       }
    ],
@@ -4702,7 +4699,8 @@
          "package" : "Crypt-OpenPGP",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "1.60.0"
+            "1.60.0",
+            "1.70.0"
          ]
       }
    ],
@@ -4713,6 +4711,16 @@
          "repository" : "gentoo",
          "versions_gentoo" : [
             "0.40.0"
+         ]
+      }
+   ],
+   "Crypt-OpenSSL-DSA" : [
+      {
+         "category" : "dev-perl",
+         "package" : "Crypt-OpenSSL-DSA",
+         "repository" : "perl-experimental",
+         "versions_gentoo" : [
+            "0.140.0"
          ]
       }
    ],
@@ -4742,7 +4750,8 @@
          "package" : "Crypt-PasswdMD5",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "1.300.0"
+            "1.300.0",
+            "1.400.0"
          ]
       }
    ],
@@ -4832,8 +4841,6 @@
          "package" : "Crypt-SSLeay",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "0.57",
-            "0.580.0",
             "0.640.0"
          ]
       }
@@ -4895,7 +4902,17 @@
          "package" : "Crypt-Twofish",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "2.140.0"
+            "2.170.0"
+         ]
+      }
+   ],
+   "Crypt-URandom" : [
+      {
+         "category" : "dev-perl",
+         "package" : "Crypt-URandom",
+         "repository" : "perl-experimental",
+         "versions_gentoo" : [
+            "0.340.0"
          ]
       }
    ],
@@ -4921,13 +4938,24 @@
          ]
       }
    ],
+   "Crypt-X509" : [
+      {
+         "category" : "dev-perl",
+         "package" : "Crypt-X509",
+         "repository" : "gentoo",
+         "versions_gentoo" : [
+            "0.510.0"
+         ]
+      }
+   ],
    "CryptX" : [
       {
          "category" : "dev-perl",
          "package" : "CryptX",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "0.006"
+            "0.006",
+            "0.012"
          ]
       }
    ],
@@ -4977,7 +5005,8 @@
          "package" : "DBD-Pg",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "2.19.3"
+            "2.19.3",
+            "3.3.0"
          ]
       }
    ],
@@ -4988,7 +5017,8 @@
          "repository" : "gentoo",
          "versions_gentoo" : [
             "1.350.0",
-            "1.370.0"
+            "1.370.0",
+            "1.400.0"
          ]
       }
    ],
@@ -4998,7 +5028,6 @@
          "package" : "DBD-mysql",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "4.01.7",
             "4.20.0"
          ]
       }
@@ -5009,9 +5038,8 @@
          "package" : "DBI",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "1.618.0",
-            "1.622.0",
-            "1.623.0"
+            "1.623.0",
+            "1.628.0"
          ]
       }
    ],
@@ -5042,7 +5070,8 @@
          "repository" : "gentoo",
          "versions_gentoo" : [
             "0.82.40",
-            "0.82.50"
+            "0.82.50",
+            "0.82.700"
          ]
       }
    ],
@@ -5077,7 +5106,7 @@
          "repository" : "perl-experimental",
          "versions_gentoo" : [
             "0.60.0",
-            "0.60.10.100_rc"
+            "0.60.10.100_rc-r1"
          ]
       }
    ],
@@ -5097,13 +5126,13 @@
          "package" : "DBIx-Class-EncodedColumn",
          "repository" : "perl-experimental",
          "versions_gentoo" : [
-            "0.0.100",
-            "0.0.110",
-            "0.0.120",
+            "0.0.100-r1",
+            "0.0.110-r1",
+            "0.0.120-r1",
             "0.0.20",
             "0.0.40",
-            "0.0.60",
-            "0.0.90"
+            "0.0.60-r1",
+            "0.0.90-r1"
          ]
       }
    ],
@@ -5317,7 +5346,8 @@
          "repository" : "gentoo",
          "versions_gentoo" : [
             "1.620.0",
-            "1.630.0"
+            "1.630.0",
+            "1.650.0"
          ]
       }
    ],
@@ -5338,12 +5368,8 @@
          "package" : "DB_File",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "1.820",
-            "1.821",
-            "1.822.0",
-            "1.824.0",
-            "1.826.0",
-            "1.827.0"
+            "1.827.0-r1",
+            "1.829.0-r1"
          ]
       }
    ],
@@ -5357,14 +5383,23 @@
          ]
       }
    ],
+   "Daemon-Control" : [
+      {
+         "category" : "dev-perl",
+         "package" : "Daemon-Control",
+         "repository" : "perl-experimental",
+         "versions_gentoo" : [
+            "0.1.6"
+         ]
+      }
+   ],
    "Daemon-Generic" : [
       {
          "category" : "dev-perl",
          "package" : "Daemon-Generic",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "0.71",
-            "0.820.0"
+            "0.840.0"
          ]
       }
    ],
@@ -5380,7 +5415,40 @@
             "1.310.0",
             "1.311.200",
             "1.311.300",
-            "2.0.1"
+            "1.311.800",
+            "1.311.900",
+            "1.312.0",
+            "1.312.100"
+         ]
+      }
+   ],
+   "Dancer-Plugin-Database-Core" : [
+      {
+         "category" : "dev-perl",
+         "package" : "Dancer-Plugin-Database-Core",
+         "repository" : "perl-experimental",
+         "versions_gentoo" : [
+            "0.60.0"
+         ]
+      }
+   ],
+   "Dancer2" : [
+      {
+         "category" : "dev-perl",
+         "package" : "Dancer2",
+         "repository" : "perl-experimental",
+         "versions_gentoo" : [
+            "0.110.0"
+         ]
+      }
+   ],
+   "Dancer2-Plugin-Database" : [
+      {
+         "category" : "dev-perl",
+         "package" : "Dancer2-Plugin-Database",
+         "repository" : "perl-experimental",
+         "versions_gentoo" : [
+            "2.100.0"
          ]
       }
    ],
@@ -5470,7 +5538,8 @@
          "package" : "Data-Dump",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "1.210.0"
+            "1.210.0",
+            "1.220.0"
          ]
       }
    ],
@@ -5480,7 +5549,8 @@
          "package" : "Data-Dump-Streamer",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "2.340.0"
+            "2.340.0",
+            "2.360.0"
          ]
       }
    ],
@@ -5500,9 +5570,8 @@
          "package" : "Data-Dumper",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "2.131.0",
-            "2.136.0",
-            "2.139.0"
+            "2.139.0-r1",
+            "2.145.0-r1"
          ]
       }
    ],
@@ -5556,7 +5625,7 @@
          "package" : "Data-FormValidator",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "4.800.0"
+            "4.810.0"
          ]
       }
    ],
@@ -5576,11 +5645,18 @@
       {
          "category" : "dev-perl",
          "package" : "Data-GUID",
+         "repository" : "gentoo",
+         "versions_gentoo" : [
+            "0.48.0"
+         ]
+      },
+      {
+         "category" : "dev-perl",
+         "package" : "Data-GUID",
          "repository" : "perl-experimental",
          "versions_gentoo" : [
-            "0.43",
-            "0.45",
-            "0.46"
+            "0.46.0",
+            "0.47.0"
          ]
       }
    ],
@@ -5611,7 +5687,7 @@
          "package" : "Data-Hexify",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "1.0.0"
+            "1.0.0-r1"
          ]
       }
    ],
@@ -5631,7 +5707,8 @@
          "package" : "Data-ICal",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "0.190.0"
+            "0.190.0",
+            "0.210.0"
          ]
       }
    ],
@@ -5662,7 +5739,7 @@
          "package" : "Data-ObjectDriver",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "0.90.0"
+            "0.90.0-r1"
          ]
       }
    ],
@@ -5672,7 +5749,8 @@
          "package" : "Data-OptList",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "0.107.0"
+            "0.108.0",
+            "0.109.0"
          ]
       }
    ],
@@ -5735,9 +5813,9 @@
          "package" : "Data-Rx",
          "repository" : "perl-experimental",
          "versions_gentoo" : [
-            "0.100.110",
             "0.200.2",
-            "0.200.3"
+            "0.200.3",
+            "0.200.4"
          ]
       }
    ],
@@ -5747,9 +5825,9 @@
          "package" : "Data-Section",
          "repository" : "perl-experimental",
          "versions_gentoo" : [
-            "0.100.770",
-            "0.101.620",
-            "0.101.621"
+            "0.101.621",
+            "0.101.622",
+            "0.200.6"
          ]
       }
    ],
@@ -5782,7 +5860,9 @@
          "package" : "Data-Stag",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "0.110.0"
+            "0.110.0",
+            "0.130.0",
+            "0.140.0"
          ]
       }
    ],
@@ -5823,8 +5903,8 @@
          "package" : "Data-TreeDumper",
          "repository" : "perl-experimental",
          "versions_gentoo" : [
-            "0.370.0",
-            "0.400.0"
+            "0.370.0-r1",
+            "0.400.0-r1"
          ]
       }
    ],
@@ -5854,7 +5934,8 @@
          "package" : "Data-UUID",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "1.217.0"
+            "1.217.0",
+            "1.219.0"
          ]
       }
    ],
@@ -5884,7 +5965,8 @@
          "package" : "Data-Visitor",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "0.280.0"
+            "0.280.0",
+            "0.300.0"
          ]
       }
    ],
@@ -5898,6 +5980,16 @@
          ]
       }
    ],
+   "Date-Extract" : [
+      {
+         "category" : "dev-perl",
+         "package" : "Date-Extract",
+         "repository" : "gentoo",
+         "versions_gentoo" : [
+            "0.40.0"
+         ]
+      }
+   ],
    "Date-ICal" : [
       {
          "category" : "dev-perl",
@@ -5905,16 +5997,6 @@
          "repository" : "gentoo",
          "versions_gentoo" : [
             "2.678.0"
-         ]
-      }
-   ],
-   "Date-ISO" : [
-      {
-         "category" : "dev-perl",
-         "package" : "Date-ISO",
-         "repository" : "gentoo",
-         "versions_gentoo" : [
-            "1.300.0"
          ]
       }
    ],
@@ -5956,10 +6038,8 @@
          "package" : "DateManip",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "5.56",
-            "6.310.0",
-            "6.370.0",
-            "6.380.0"
+            "6.410.0",
+            "6.430.0"
          ]
       }
    ],
@@ -5969,7 +6049,6 @@
          "package" : "Date-Pcalc",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "1.2",
             "6.100.0"
          ]
       }
@@ -6001,9 +6080,7 @@
          "package" : "DateTime",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "0.55",
-            "0.760.0",
-            "0.780.0"
+            "1.030.0"
          ]
       }
    ],
@@ -6044,7 +6121,8 @@
          "package" : "DateTime-Format-Builder",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "0.800.0"
+            "0.800.0",
+            "0.810.0"
          ]
       }
    ],
@@ -6116,7 +6194,8 @@
          "package" : "DateTime-Format-Flexible",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "0.240.0"
+            "0.240.0",
+            "0.250.0"
          ]
       }
    ],
@@ -6156,7 +6235,7 @@
          "package" : "DateTime-Format-Mail",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "0.300.100"
+            "0.300.100-r1"
          ]
       }
    ],
@@ -6209,7 +6288,8 @@
          "package" : "DateTime-Format-Strptime",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "1.520.0"
+            "1.520.0",
+            "1.540.0"
          ]
       }
    ],
@@ -6249,7 +6329,8 @@
          "package" : "DateTime-Set",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "0.310.0"
+            "0.310.0",
+            "0.320.0"
          ]
       }
    ],
@@ -6259,9 +6340,8 @@
          "package" : "DateTime-TimeZone",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "1.460.0",
-            "1.560.0",
-            "1.580.0"
+            "1.600.0",
+            "1.640.0"
          ]
       }
    ],
@@ -6326,7 +6406,7 @@
          "package" : "Debug-ShowStuff",
          "repository" : "perl-experimental",
          "versions_gentoo" : [
-            "1.160.0"
+            "1.160.0-r1"
          ]
       }
    ],
@@ -6336,7 +6416,7 @@
          "package" : "DelimMatch",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "1.06"
+            "1.06-r1"
          ]
       }
    ],
@@ -6382,18 +6462,24 @@
          ]
       }
    ],
+   "Devel-CheckOS" : [
+      {
+         "category" : "dev-perl",
+         "package" : "Devel-CheckOS",
+         "repository" : "perl-experimental",
+         "versions_gentoo" : [
+            "1.710.0"
+         ]
+      }
+   ],
    "Devel-Cover" : [
       {
          "category" : "dev-perl",
          "package" : "Devel-Cover",
          "repository" : "perl-experimental",
          "versions_gentoo" : [
-            "0.960.0",
-            "0.970.0",
-            "0.990.0",
-            "1.0.0",
-            "1.10.0",
-            "1.20.0"
+            "1.20.0",
+            "1.80.0"
          ]
       }
    ],
@@ -6409,7 +6495,7 @@
    ],
    "Devel-DProf" : [
       {
-         "category" : "perl-core",
+         "category" : "dev-perl",
          "package" : "Devel-DProf",
          "repository" : "perl-experimental",
          "versions_gentoo" : [
@@ -6424,7 +6510,8 @@
          "package" : "Devel-Declare",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "0.6.11"
+            "0.6.11",
+            "0.6.14"
          ]
       }
    ],
@@ -6438,15 +6525,36 @@
          ]
       }
    ],
+   "Devel-FindPerl" : [
+      {
+         "category" : "dev-perl",
+         "package" : "Devel-FindPerl",
+         "repository" : "perl-experimental",
+         "versions_gentoo" : [
+            "0.6.0"
+         ]
+      }
+   ],
    "Devel-GlobalDestruction" : [
       {
          "category" : "dev-perl",
          "package" : "Devel-GlobalDestruction",
          "repository" : "gentoo",
          "versions_gentoo" : [
+            "0.120.0",
             "0.50.0",
             "0.70.0",
             "0.90.0"
+         ]
+      }
+   ],
+   "Devel-GlobalDestruction-XS" : [
+      {
+         "category" : "dev-perl",
+         "package" : "Devel-GlobalDestruction-XS",
+         "repository" : "perl-experimental",
+         "versions_gentoo" : [
+            "0.10.0"
          ]
       }
    ],
@@ -6476,7 +6584,8 @@
          "package" : "Devel-LexAlias",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "0.40.0"
+            "0.40.0",
+            "0.50.0"
          ]
       }
    ],
@@ -6487,7 +6596,8 @@
          "repository" : "gentoo",
          "versions_gentoo" : [
             "4.230.0",
-            "4.250.0"
+            "4.250.0",
+            "5.50.0"
          ]
       }
    ],
@@ -6521,7 +6631,7 @@
          "package" : "Devel-PatchPerl",
          "repository" : "perl-experimental",
          "versions_gentoo" : [
-            "0.860.0"
+            "1.200.0"
          ]
       }
    ],
@@ -6531,7 +6641,7 @@
          "package" : "Devel-Pragma",
          "repository" : "perl-experimental",
          "versions_gentoo" : [
-            "0.540.0"
+            "0.600.0"
          ]
       }
    ],
@@ -6581,7 +6691,8 @@
          "package" : "Devel-Size",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "0.780.0"
+            "0.780.0",
+            "0.790.0"
          ]
       }
    ],
@@ -6613,7 +6724,8 @@
          "package" : "Devel-StackTrace-AsHTML",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "0.110.0"
+            "0.110.0",
+            "0.140.0"
          ]
       }
    ],
@@ -6637,7 +6749,7 @@
          "package" : "Devel-Symdump",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "2.80.0"
+            "2.100.0"
          ]
       }
    ],
@@ -6654,11 +6766,10 @@
    "Digest" : [
       {
          "category" : "perl-core",
-         "package" : "digest-base",
+         "package" : "Digest",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "1.160.0",
-            "1.170.0"
+            "1.170.0-r1"
          ]
       }
    ],
@@ -6668,7 +6779,7 @@
          "package" : "digest-bubblebabble",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "0.20.0"
+            "0.20.0-r1"
          ]
       }
    ],
@@ -6718,7 +6829,7 @@
          "package" : "Digest-MD4",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "1.500.0"
+            "1.900.0-r1"
          ]
       }
    ],
@@ -6728,9 +6839,8 @@
          "package" : "Digest-MD5",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "2.39",
-            "2.510.0",
-            "2.520.0"
+            "2.520.0-r1",
+            "2.530.0"
          ]
       }
    ],
@@ -6770,18 +6880,8 @@
          "package" : "Digest-SHA",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "5.47",
-            "5.48",
-            "5.500",
-            "5.600.0",
-            "5.610.0",
-            "5.620.0",
-            "5.630.0",
-            "5.700.0",
-            "5.710.0",
-            "5.740.0",
-            "5.810.0",
-            "5.820.0"
+            "5.820.0",
+            "5.850.0"
          ]
       }
    ],
@@ -6801,7 +6901,7 @@
          "package" : "Digest-Whirlpool",
          "repository" : "perl-experimental",
          "versions_gentoo" : [
-            "1.09"
+            "1.09-r1"
          ]
       }
    ],
@@ -6854,8 +6954,8 @@
          "versions_gentoo" : [
             "0.922.0",
             "0.923.0",
-            "0.924.0",
-            "0.925.0"
+            "0.924.0-r1",
+            "0.925.0-r1"
          ]
       }
    ],
@@ -6865,8 +6965,8 @@
          "package" : "Dist-Zilla",
          "repository" : "perl-experimental",
          "versions_gentoo" : [
-            "4.300.30",
-            "4.300.34"
+            "4.300.39",
+            "5.15.0"
          ]
       }
    ],
@@ -6887,9 +6987,7 @@
          "package" : "Dist-Zilla-App-Command-dumpphases",
          "repository" : "perl-experimental",
          "versions_gentoo" : [
-            "0.1.1",
-            "0.1.2",
-            "0.1.3"
+            "0.3.4"
          ]
       }
    ],
@@ -6931,17 +7029,7 @@
          "package" : "Dist-Zilla-Plugin-Bootstrap-lib",
          "repository" : "perl-experimental",
          "versions_gentoo" : [
-            "0.20.1.0"
-         ]
-      }
-   ],
-   "Dist-Zilla-Plugin-CPANChangesTests" : [
-      {
-         "category" : "dev-perl",
-         "package" : "Dist-Zilla-Plugin-CPANChangesTests",
-         "repository" : "perl-experimental",
-         "versions_gentoo" : [
-            "1.2.0"
+            "1.0.1"
          ]
       }
    ],
@@ -7027,7 +7115,7 @@
          "package" : "Dist-Zilla-Plugin-GithubMeta",
          "repository" : "perl-experimental",
          "versions_gentoo" : [
-            "0.280.0"
+            "0.420.0"
          ]
       }
    ],
@@ -7037,8 +7125,8 @@
          "package" : "Dist-Zilla-Plugin-MetaData-BuiltWith",
          "repository" : "perl-experimental",
          "versions_gentoo" : [
-            "0.30.0.0",
-            "0.30.1.0"
+            "0.30.1.0",
+            "0.40.0.0"
          ]
       }
    ],
@@ -7048,8 +7136,7 @@
          "package" : "Dist-Zilla-Plugin-MetaProvides",
          "repository" : "perl-experimental",
          "versions_gentoo" : [
-            "1.140.0.0",
-            "1.140.0.10"
+            "2.0.0"
          ]
       }
    ],
@@ -7082,9 +7169,7 @@
          "package" : "Dist-Zilla-Plugin-MetaProvides-Package",
          "repository" : "perl-experimental",
          "versions_gentoo" : [
-            "1.140.0.0",
-            "1.140.0.10",
-            "1.140.0.20"
+            "2.0.1"
          ]
       }
    ],
@@ -7116,7 +7201,7 @@
          "package" : "Dist-Zilla-Plugin-PerlTidy",
          "repository" : "perl-experimental",
          "versions_gentoo" : [
-            "0.130.0"
+            "0.160.0"
          ]
       }
    ],
@@ -7147,7 +7232,7 @@
          "package" : "Dist-Zilla-Plugin-ReadmeAnyFromPod",
          "repository" : "perl-experimental",
          "versions_gentoo" : [
-            "0.120.120"
+            "0.120.120-r1"
          ]
       }
    ],
@@ -7157,10 +7242,7 @@
          "package" : "Dist-Zilla-Plugin-ReadmeFromPod",
          "repository" : "perl-experimental",
          "versions_gentoo" : [
-            "0.110.0",
-            "0.120.0",
-            "0.140.0",
-            "0.180.0"
+            "0.210.0"
          ]
       }
    ],
@@ -7183,7 +7265,7 @@
          "package" : "Dist-Zilla-Plugin-Repository",
          "repository" : "perl-experimental",
          "versions_gentoo" : [
-            "0.190.0"
+            "0.200.0"
          ]
       }
    ],
@@ -7193,8 +7275,8 @@
          "package" : "Dist-Zilla-Plugin-TaskWeaver",
          "repository" : "perl-experimental",
          "versions_gentoo" : [
-            "0.101.622",
-            "0.101.624"
+            "0.101.624",
+            "0.101.626"
          ]
       }
    ],
@@ -7219,7 +7301,7 @@
             "1.112.400",
             "1.112.820",
             "2.1.0",
-            "2.2.0"
+            "2.39.0"
          ]
       }
    ],
@@ -7288,8 +7370,17 @@
          "package" : "Dist-Zilla-PluginBundle-RJBS",
          "repository" : "perl-experimental",
          "versions_gentoo" : [
-            "1.12.0",
-            "1.14.0"
+            "1.17.0"
+         ]
+      }
+   ],
+   "Dist-Zilla-Role-Bootstrap" : [
+      {
+         "category" : "dev-perl",
+         "package" : "Dist-Zilla-Role-Bootstrap",
+         "repository" : "perl-experimental",
+         "versions_gentoo" : [
+            "1.0.1"
          ]
       }
    ],
@@ -7299,7 +7390,7 @@
          "package" : "Dist-Zilla-Role-Tempdir",
          "repository" : "perl-experimental",
          "versions_gentoo" : [
-            "0.10.537.200",
+            "0.10.537.200-r1",
             "0.10.537.210",
             "0.10.537.220"
          ]
@@ -7323,9 +7414,8 @@
          "package" : "Dist-Zilla-Util-Test-KENTNL",
          "repository" : "perl-experimental",
          "versions_gentoo" : [
-            "0.10.158.210",
-            "0.10.158.220",
-            "0.10.158.230"
+            "0.10.158.230",
+            "1.0.0"
          ]
       }
    ],
@@ -7347,7 +7437,8 @@
          "package" : "EV",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "4.110.0"
+            "4.110.0",
+            "4.150.0"
          ]
       }
    ],
@@ -7367,8 +7458,7 @@
          "package" : "ElasticSearch",
          "repository" : "perl-experimental",
          "versions_gentoo" : [
-            "0.640.0",
-            "0.650.0"
+            "0.680.0"
          ]
       }
    ],
@@ -7388,7 +7478,7 @@
          "package" : "Emacs-PDE",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "0.2.16"
+            "0.2.16-r1"
          ]
       }
    ],
@@ -7398,7 +7488,8 @@
          "package" : "Email-Abstract",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "3.3.0"
+            "3.3.0",
+            "3.7.0"
          ]
       }
    ],
@@ -7408,9 +7499,17 @@
          "package" : "Email-Address",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "1.896.0",
-            "1.897.0",
-            "1.898.0"
+            "1.905.0"
+         ]
+      }
+   ],
+   "Email-Address-List" : [
+      {
+         "category" : "dev-perl",
+         "package" : "Email-Address-List",
+         "repository" : "gentoo",
+         "versions_gentoo" : [
+            "0.50.0"
          ]
       }
    ],
@@ -7420,7 +7519,8 @@
          "package" : "Email-Date",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "1.103.0"
+            "1.103.0",
+            "1.104.0"
          ]
       }
    ],
@@ -7460,7 +7560,8 @@
          "package" : "Email-FolderType",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "0.813.0"
+            "0.813.0",
+            "0.814.0"
          ]
       }
    ],
@@ -7470,7 +7571,8 @@
          "package" : "Email-LocalDelivery",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "0.217.0"
+            "0.217.0",
+            "1.200.0"
          ]
       }
    ],
@@ -7480,7 +7582,8 @@
          "package" : "Email-MIME",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "1.911.0"
+            "1.924.0",
+            "1.926.0"
          ]
       }
    ],
@@ -7490,7 +7593,7 @@
          "package" : "Email-MIME-Attachment-Stripper",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "1.316.0"
+            "1.317.0"
          ]
       }
    ],
@@ -7500,7 +7603,7 @@
          "package" : "Email-MIME-ContentType",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "1.15.0"
+            "1.16.0"
          ]
       }
    ],
@@ -7510,7 +7613,9 @@
          "package" : "Email-MIME-Encodings",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "1.313.0"
+            "1.313.0",
+            "1.314.0",
+            "1.315.0"
          ]
       }
    ],
@@ -7520,9 +7625,9 @@
          "package" : "Email-MIME-Kit",
          "repository" : "perl-experimental",
          "versions_gentoo" : [
-            "2.102.10",
             "2.102.11",
-            "2.102.12"
+            "2.102.12",
+            "2.102.13"
          ]
       }
    ],
@@ -7542,7 +7647,8 @@
          "package" : "Email-Reply",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "1.202.0"
+            "1.202.0",
+            "1.203.0"
          ]
       }
    ],
@@ -7552,7 +7658,8 @@
          "package" : "Email-Send",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "2.198.0"
+            "2.198.0",
+            "2.199.0"
          ]
       }
    ],
@@ -7573,6 +7680,7 @@
          "repository" : "gentoo",
          "versions_gentoo" : [
             "0.120.2",
+            "1.300.11",
             "1.300.4"
          ]
       }
@@ -7583,7 +7691,8 @@
          "package" : "Email-Simple",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "2.102.0"
+            "2.202",
+            "2.203"
          ]
       }
    ],
@@ -7593,7 +7702,7 @@
          "package" : "Email-Valid",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "0.190.0"
+            "1.192.0"
          ]
       }
    ],
@@ -7614,13 +7723,9 @@
          "package" : "Encode",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "2.40-r1",
-            "2.420.0",
-            "2.430.0",
-            "2.440.0",
-            "2.450.0",
-            "2.470.0",
-            "2.490.0"
+            "2.470.0-r1",
+            "2.490.0",
+            "2.550.0"
          ]
       }
    ],
@@ -7641,6 +7746,16 @@
          "repository" : "gentoo",
          "versions_gentoo" : [
             "1.10.0"
+         ]
+      }
+   ],
+   "Encode-EUCJPASCII" : [
+      {
+         "category" : "dev-perl",
+         "package" : "Encode-EUCJPASCII",
+         "repository" : "gentoo",
+         "versions_gentoo" : [
+            "0.03"
          ]
       }
    ],
@@ -7671,6 +7786,16 @@
          "repository" : "gentoo",
          "versions_gentoo" : [
             "1.50.0"
+         ]
+      }
+   ],
+   "Encode-JIS2K" : [
+      {
+         "category" : "dev-perl",
+         "package" : "Encode-JIS2K",
+         "repository" : "gentoo",
+         "versions_gentoo" : [
+            "0.02"
          ]
       }
    ],
@@ -7735,8 +7860,7 @@
          "package" : "Error",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "0.170.160",
-            "0.170.190"
+            "0.170.210"
          ]
       }
    ],
@@ -7756,7 +7880,7 @@
          "package" : "Eval-Context",
          "repository" : "perl-experimental",
          "versions_gentoo" : [
-            "0.09.11"
+            "0.9.11"
          ]
       }
    ],
@@ -7766,7 +7890,7 @@
          "package" : "Eval-LineNumbers",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "0.310.0"
+            "0.340.0"
          ]
       }
    ],
@@ -7776,9 +7900,6 @@
          "package" : "Event",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "1.09",
-            "1.10",
-            "1.200.0",
             "1.210.0"
          ]
       }
@@ -7799,9 +7920,8 @@
          "package" : "Event-RPC",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "0.90",
-            "1.10.0",
-            "1.30.0"
+            "1.30.0",
+            "1.50.0"
          ]
       }
    ],
@@ -7835,7 +7955,7 @@
          "package" : "Exception-Base",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "0.240.100"
+            "0.250-r1"
          ]
       }
    ],
@@ -7847,7 +7967,8 @@
          "versions_gentoo" : [
             "1.320.0",
             "1.350.0",
-            "1.360.0"
+            "1.360.0",
+            "1.370.0"
          ]
       }
    ],
@@ -7917,12 +8038,19 @@
       {
          "category" : "perl-core",
          "package" : "Exporter",
+         "repository" : "gentoo",
+         "versions_gentoo" : [
+            "5.680.0"
+         ]
+      },
+      {
+         "category" : "perl-core",
+         "package" : "Exporter",
          "repository" : "perl-experimental",
          "versions_gentoo" : [
             "5.630.0",
             "5.650.0",
-            "5.670.0",
-            "5.680.0"
+            "5.670.0"
          ]
       }
    ],
@@ -7942,11 +8070,8 @@
          "package" : "Exporter-Declare",
          "repository" : "perl-experimental",
          "versions_gentoo" : [
-            "0.105.0",
-            "0.106.0",
-            "0.109.0",
-            "0.110.0",
-            "0.112.0"
+            "0.112.0",
+            "0.113.0"
          ]
       }
    ],
@@ -7976,9 +8101,8 @@
          "package" : "ExtUtils-CBuilder",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "0.26.03",
-            "0.27.03",
-            "0.280.205"
+            "0.280.205-r1",
+            "0.280.210"
          ]
       }
    ],
@@ -7988,9 +8112,9 @@
          "package" : "ExtUtils-CChecker",
          "repository" : "perl-experimental",
          "versions_gentoo" : [
-            "0.60.0",
             "0.70.0",
-            "0.80.0"
+            "0.80.0",
+            "0.90.0"
          ]
       }
    ],
@@ -8000,12 +8124,20 @@
          "package" : "ExtUtils-Command",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "1.16",
-            "1.170.0"
+            "1.170.0-r1",
+            "1.180.0-r1"
          ]
       }
    ],
    "ExtUtils-Config" : [
+      {
+         "category" : "dev-perl",
+         "package" : "ExtUtils-Config",
+         "repository" : "gentoo",
+         "versions_gentoo" : [
+            "0.7.0"
+         ]
+      },
       {
          "category" : "dev-perl",
          "package" : "ExtUtils-Config",
@@ -8021,7 +8153,7 @@
          "package" : "ExtUtils-Constant",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "0.230.0"
+            "0.230.0-r1"
          ]
       }
    ],
@@ -8031,7 +8163,9 @@
          "package" : "extutils-depends",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "0.304.0"
+            "0.305.0",
+            "0.306.0",
+            "0.308.0"
          ]
       }
    ],
@@ -8049,6 +8183,14 @@
       {
          "category" : "dev-perl",
          "package" : "ExtUtils-Helpers",
+         "repository" : "gentoo",
+         "versions_gentoo" : [
+            "0.22.0"
+         ]
+      },
+      {
+         "category" : "dev-perl",
+         "package" : "ExtUtils-Helpers",
          "repository" : "perl-experimental",
          "versions_gentoo" : [
             "0.19.0",
@@ -8063,12 +8205,19 @@
          "package" : "ExtUtils-Install",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "1.54",
-            "1.540.0"
+            "1.540.0-r1"
          ]
       }
    ],
    "ExtUtils-InstallPaths" : [
+      {
+         "category" : "dev-perl",
+         "package" : "ExtUtils-InstallPaths",
+         "repository" : "gentoo",
+         "versions_gentoo" : [
+            "0.10.0"
+         ]
+      },
       {
          "category" : "dev-perl",
          "package" : "ExtUtils-InstallPaths",
@@ -8088,18 +8237,24 @@
          ]
       }
    ],
+   "ExtUtils-Libbuilder" : [
+      {
+         "category" : "dev-perl",
+         "package" : "ExtUtils-LibBuilder",
+         "repository" : "gentoo",
+         "versions_gentoo" : [
+            "0.04"
+         ]
+      }
+   ],
    "ExtUtils-MakeMaker" : [
       {
          "category" : "perl-core",
          "package" : "ExtUtils-MakeMaker",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "6.56-r1",
-            "6.580.0",
-            "6.590.0",
-            "6.620.0-r1",
-            "6.620.0",
-            "6.640.0"
+            "6.640.0-r1",
+            "6.820.0-r1"
          ]
       }
    ],
@@ -8109,10 +8264,8 @@
          "package" : "ExtUtils-Manifest",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "1.580.0",
-            "1.590.0",
-            "1.600.0",
-            "1.610.0"
+            "1.610.0-r1",
+            "1.630.0-r1"
          ]
       }
    ],
@@ -8122,11 +8275,8 @@
          "package" : "ExtUtils-ParseXS",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "2.22.03",
-            "2.22.05",
-            "2.22.06",
-            "3.150.0",
-            "3.180.0"
+            "3.180.0-r1",
+            "3.220.0-r1"
          ]
       }
    ],
@@ -8136,8 +8286,8 @@
          "package" : "extutils-pkgconfig",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "1.130.0",
-            "1.140.0"
+            "1.140.0",
+            "1.150.0"
          ]
       }
    ],
@@ -8219,8 +8369,7 @@
          "package" : "Fennec",
          "repository" : "perl-experimental",
          "versions_gentoo" : [
-            "1.12.0",
-            "1.15.0"
+            "2.16.0"
          ]
       }
    ],
@@ -8407,9 +8556,7 @@
          "package" : "File-HomeDir",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "0.980.0",
-            "0.990.0",
-            "1.0.0"
+            "1.0.0-r1"
          ]
       }
    ],
@@ -8431,7 +8578,8 @@
          "versions_gentoo" : [
             "1.270.0",
             "1.280.0",
-            "1.290.0"
+            "1.290.0",
+            "1.300.0"
          ]
       }
    ],
@@ -8441,9 +8589,8 @@
          "package" : "File-Map",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "0.520.0",
-            "0.530.0",
-            "0.560.0"
+            "0.560.0",
+            "0.610.0"
          ]
       }
    ],
@@ -8453,8 +8600,8 @@
          "package" : "File-MimeInfo",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "0.150.0",
-            "0.160.0"
+            "0.170.0",
+            "0.210.0"
          ]
       }
    ],
@@ -8505,7 +8652,6 @@
          "package" : "File-Path",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "2.08",
             "2.90.0"
          ]
       }
@@ -8526,7 +8672,17 @@
          "package" : "File-Path-Tiny",
          "repository" : "perl-experimental",
          "versions_gentoo" : [
-            "0.500.0"
+            "0.700.0"
+         ]
+      }
+   ],
+   "File-Pid" : [
+      {
+         "category" : "dev-perl",
+         "package" : "File-Pid",
+         "repository" : "perl-experimental",
+         "versions_gentoo" : [
+            "1.10.0"
          ]
       }
    ],
@@ -8556,7 +8712,6 @@
          "package" : "File-RsyncP",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "0.68",
             "0.700.0"
          ]
       }
@@ -8629,7 +8784,6 @@
          "package" : "File-Slurp",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "9999.13",
             "9999.190.0"
          ]
       }
@@ -8701,7 +8855,7 @@
          "package" : "File-Tail",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "0.99.3"
+            "0.99.3-r1"
          ]
       }
    ],
@@ -8711,7 +8865,8 @@
          "package" : "File-Temp",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "0.220.0"
+            "0.220.0-r1",
+            "0.230.400"
          ]
       }
    ],
@@ -8773,7 +8928,7 @@
          "package" : "File-chmod",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "0.320.0"
+            "0.360.0"
          ]
       }
    ],
@@ -8793,7 +8948,7 @@
          "package" : "FileHandle-Unget",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "0.162.300"
+            "0.162.300-r1"
          ]
       }
    ],
@@ -8824,6 +8979,7 @@
          "repository" : "gentoo",
          "versions_gentoo" : [
             "0.100.0",
+            "0.120.0",
             "0.80.0",
             "0.90.0"
          ]
@@ -8842,15 +8998,12 @@
    ],
    "Filter" : [
       {
-         "category" : "perl-core",
+         "category" : "dev-perl",
          "package" : "Filter",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "1.37",
-            "1.380.0",
-            "1.390.0",
-            "1.410.0",
-            "1.450.0"
+            "1.450.0",
+            "1.490.0"
          ]
       }
    ],
@@ -8880,9 +9033,8 @@
          "package" : "Finance-Quote",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "1.17",
-            "1.170.0",
-            "1.180.0"
+            "1.180.0",
+            "1.290.0"
          ]
       }
    ],
@@ -8926,7 +9078,7 @@
          "package" : "FindBin-libs",
          "repository" : "perl-experimental",
          "versions_gentoo" : [
-            "1.700.0"
+            "1.800.0"
          ]
       }
    ],
@@ -8981,7 +9133,7 @@
          "package" : "FreezeThaw",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "0.500.100"
+            "0.500.100-r1"
          ]
       }
    ],
@@ -9002,7 +9154,9 @@
          "repository" : "gentoo",
          "versions_gentoo" : [
             "0.140.0",
-            "0.150.0"
+            "0.150.0",
+            "0.160.0",
+            "0.160.1"
          ]
       }
    ],
@@ -9012,8 +9166,7 @@
          "package" : "Future",
          "repository" : "perl-experimental",
          "versions_gentoo" : [
-            "0.120.0",
-            "0.130.0"
+            "0.250.0"
          ]
       }
    ],
@@ -9034,7 +9187,8 @@
          "package" : "GD",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "2.460.0"
+            "2.460.0",
+            "2.500.0"
          ]
       }
    ],
@@ -9074,7 +9228,7 @@
          "package" : "GDGraph",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "1.440.0"
+            "1.480.0"
          ]
       }
    ],
@@ -9125,9 +9279,6 @@
          "package" : "Gearman",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "1.09",
-            "1.10",
-            "1.11",
             "1.110.0"
          ]
       }
@@ -9138,7 +9289,6 @@
          "package" : "Gearman-Client-Async",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "0.94",
             "0.940.0"
          ]
       }
@@ -9149,9 +9299,6 @@
          "package" : "Gearman-Server",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "1.09-r1",
-            "1.10",
-            "1.11",
             "1.110.0"
          ]
       }
@@ -9239,8 +9386,8 @@
          "package" : "Geo-IP",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "1.400.0",
-            "1.410.0"
+            "1.420.0",
+            "1.430.0"
          ]
       }
    ],
@@ -9284,11 +9431,11 @@
             "0.2.4",
             "0.2.7",
             "0.3.0",
-            "0.3.5",
-            "0.3.6",
-            "0.3.7",
-            "0.3.9",
-            "0.4.0"
+            "0.3.5-r1",
+            "0.3.6-r1",
+            "0.3.7-r1",
+            "0.3.9-r1",
+            "0.4.0-r1"
          ]
       }
    ],
@@ -9309,8 +9456,9 @@
          "package" : "Getopt-Long",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "2.380.0",
-            "2.390.0"
+            "2.380.0-r1",
+            "2.390.0",
+            "2.420.0"
          ]
       }
    ],
@@ -9320,7 +9468,8 @@
          "package" : "Getopt-Long-Descriptive",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "0.93.0"
+            "0.93.0",
+            "0.97.0"
          ]
       }
    ],
@@ -9347,6 +9496,16 @@
          ]
       }
    ],
+   "Getopt-Tabular" : [
+      {
+         "category" : "dev-perl",
+         "package" : "Getopt-Tabular",
+         "repository" : "gentoo",
+         "versions_gentoo" : [
+            "0.3"
+         ]
+      }
+   ],
    "Getopt-Usaginator" : [
       {
          "category" : "dev-perl",
@@ -9363,8 +9522,8 @@
          "package" : "Git-CPAN-Patch",
          "repository" : "perl-experimental",
          "versions_gentoo" : [
-            "1.1.0",
-            "1.2.0"
+            "1.2.0",
+            "2.0.3"
          ]
       }
    ],
@@ -9389,7 +9548,17 @@
          "package" : "Git-Repository",
          "repository" : "perl-experimental",
          "versions_gentoo" : [
-            "1.303.0"
+            "1.311.0"
+         ]
+      }
+   ],
+   "Git-Repository-Plugin-AUTOLOAD" : [
+      {
+         "category" : "dev-perl",
+         "package" : "Git-Repository-Plugin-AUTOLOAD",
+         "repository" : "perl-experimental",
+         "versions_gentoo" : [
+            "1.1.0"
          ]
       }
    ],
@@ -9417,11 +9586,7 @@
          "package" : "Gitalist",
          "repository" : "perl-experimental",
          "versions_gentoo" : [
-            "0.1.8",
-            "0.2.9",
-            "0.3.9",
-            "0.4.1",
-            "0.4.2"
+            "0.4.2-r1"
          ]
       }
    ],
@@ -9431,8 +9596,8 @@
          "package" : "glib-perl",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "1.262.0",
-            "1.280.0"
+            "1.280.0",
+            "1.301.0"
          ]
       }
    ],
@@ -9467,17 +9632,6 @@
          "repository" : "gentoo",
          "versions_gentoo" : [
             "1.2.0"
-         ]
-      }
-   ],
-   "Gnome2-GConf" : [
-      {
-         "category" : "dev-perl",
-         "package" : "gnome2-gconf",
-         "repository" : "gentoo",
-         "versions_gentoo" : [
-            "1.043",
-            "1.44.0"
          ]
       }
    ],
@@ -9528,7 +9682,7 @@
          "package" : "Graph",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "0.940.0"
+            "0.960.0"
          ]
       }
    ],
@@ -9561,14 +9715,6 @@
          "versions_gentoo" : [
             "1.130.0"
          ]
-      },
-      {
-         "category" : "dev-perl",
-         "package" : "Graphics-ColorNames-WWW",
-         "repository" : "perl-experimental",
-         "versions_gentoo" : [
-            "1.130.0"
-         ]
       }
    ],
    "Graphics-ColorObject" : [
@@ -9577,7 +9723,7 @@
          "package" : "Graphics-ColorObject",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "0.5.0"
+            "0.5.0-r1"
          ]
       }
    ],
@@ -9587,8 +9733,6 @@
          "package" : "gtk2-perl",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "1.242.0",
-            "1.244.0",
             "1.247.0"
          ]
       }
@@ -9679,7 +9823,7 @@
          "package" : "gtk2-trayicon",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "0.60.0"
+            "0.60.0-r1"
          ]
       }
    ],
@@ -9786,7 +9930,8 @@
          "package" : "HTML-FillInForm",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "2.100.0"
+            "2.100.0",
+            "2.200.0"
          ]
       }
    ],
@@ -9848,6 +9993,26 @@
          ]
       }
    ],
+   "HTML-FormatText-WithLinks" : [
+      {
+         "category" : "dev-perl",
+         "package" : "HTML-FormatText-WithLinks",
+         "repository" : "gentoo",
+         "versions_gentoo" : [
+            "0.14"
+         ]
+      }
+   ],
+   "HTML-FormatText-WithLinks-AndTables" : [
+      {
+         "category" : "dev-perl",
+         "package" : "HTML-FormatText-WithLinks-AndTables",
+         "repository" : "gentoo",
+         "versions_gentoo" : [
+            "0.20.0"
+         ]
+      }
+   ],
    "HTML-FromText" : [
       {
          "category" : "dev-perl",
@@ -9864,7 +10029,7 @@
          "package" : "HTML-GenToc",
          "repository" : "perl-experimental",
          "versions_gentoo" : [
-            "3.200.0"
+            "3.200.0-r1"
          ]
       }
    ],
@@ -9914,8 +10079,8 @@
          "package" : "HTML-Mason",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "1.42",
-            "1.500.0"
+            "1.510.0",
+            "1.540.0"
          ]
       }
    ],
@@ -9950,7 +10115,7 @@
          "package" : "HTML-Parser",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "3.690.0"
+            "3.710.0"
          ]
       }
    ],
@@ -10050,9 +10215,7 @@
          "package" : "HTML-Table",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "2.06",
-            "2.08",
-            "2.08a"
+            "2.08a-r1"
          ]
       }
    ],
@@ -10188,7 +10351,8 @@
          "package" : "HTML-TokeParser-Simple",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "3.150.0"
+            "3.150.0",
+            "3.160.0"
          ]
       }
    ],
@@ -10291,8 +10455,7 @@
          "package" : "HTTP-Cookies",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "6.0.0",
-            "6.0.1"
+            "6.0.1-r1"
          ]
       }
    ],
@@ -10378,8 +10541,7 @@
          "package" : "HTTP-Negotiate",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "6.0.0",
-            "6.0.1"
+            "6.0.1-r1"
          ]
       }
    ],
@@ -10467,6 +10629,14 @@
       {
          "category" : "perl-core",
          "package" : "HTTP-Tiny",
+         "repository" : "gentoo",
+         "versions_gentoo" : [
+            "0.29.0"
+         ]
+      },
+      {
+         "category" : "perl-core",
+         "package" : "HTTP-Tiny",
          "repository" : "perl-experimental",
          "versions_gentoo" : [
             "0.10.0",
@@ -10477,8 +10647,17 @@
             "0.21.0",
             "0.22.0",
             "0.24.0",
-            "0.25.0",
-            "0.29.0"
+            "0.25.0"
+         ]
+      }
+   ],
+   "HTTP-Tiny-Mech" : [
+      {
+         "category" : "dev-perl",
+         "package" : "HTTP-Tiny-Mech",
+         "repository" : "perl-experimental",
+         "versions_gentoo" : [
+            "0.1.3"
          ]
       }
    ],
@@ -10499,7 +10678,7 @@
          "repository" : "perl-experimental",
          "versions_gentoo" : [
             "1.0.130",
-            "1.0.140"
+            "1.0.140-r2"
          ]
       }
    ],
@@ -10532,7 +10711,8 @@
          "package" : "Hash-Merge",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "0.120.0"
+            "0.120.0",
+            "0.200.0"
          ]
       }
    ],
@@ -10564,7 +10744,8 @@
          "package" : "Hash-MultiValue",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "0.130.0"
+            "0.130.0",
+            "0.150.0"
          ]
       }
    ],
@@ -10621,10 +10802,10 @@
    "I18N-LangTags" : [
       {
          "category" : "perl-core",
-         "package" : "i18n-langtags",
+         "package" : "I18N-LangTags",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "0.35"
+            "0.35-r1"
          ]
       }
    ],
@@ -10634,7 +10815,7 @@
          "package" : "IMAP-Admin",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "1.6.7"
+            "1.6.7-r1"
          ]
       }
    ],
@@ -10644,7 +10825,7 @@
          "package" : "IO",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "1.25"
+            "1.25-r1"
          ]
       }
    ],
@@ -10654,16 +10835,8 @@
          "package" : "IO-AIO",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "2.33",
-            "3.3.1",
-            "3.3",
-            "3.6.5",
-            "3.6",
-            "3.650",
-            "3.710.0",
-            "3.710",
-            "4.120.0",
-            "4.150.0"
+            "4.180",
+            "4.310.0"
          ]
       }
    ],
@@ -10724,18 +10897,6 @@
          "package" : "IO-Compress",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "2.024",
-            "2.33",
-            "2.35.0",
-            "2.36.0",
-            "2.37.0",
-            "2.40.0",
-            "2.43.0",
-            "2.49.0",
-            "2.52.0",
-            "2.55.0",
-            "2.58.0",
-            "2.59.0",
             "2.60.0"
          ]
       }
@@ -10746,7 +10907,8 @@
          "package" : "IO-Digest",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "0.100.0"
+            "0.100.0",
+            "0.110.0"
          ]
       }
    ],
@@ -10756,7 +10918,8 @@
          "package" : "IO-HTML",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "0.40.0"
+            "0.40.0",
+            "1.00.0"
          ]
       }
    ],
@@ -10796,7 +10959,6 @@
          "package" : "IO-Multiplex",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "1.09",
             "1.130.0"
          ]
       }
@@ -10807,7 +10969,18 @@
          "package" : "IO-Pager",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "0.300.0"
+            "0.300.0",
+            "0.310.0"
+         ]
+      }
+   ],
+   "IO-Pipely" : [
+      {
+         "category" : "dev-perl",
+         "package" : "IO-Pipely",
+         "repository" : "gentoo",
+         "versions_gentoo" : [
+            "0.005.0"
          ]
       }
    ],
@@ -10817,7 +10990,8 @@
          "package" : "IO-Socket-INET6",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "2.690.0"
+            "2.710.0",
+            "2.720.0"
          ]
       }
    ],
@@ -10827,7 +11001,10 @@
          "package" : "IO-Socket-IP",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "0.180.0"
+            "0.180.0",
+            "0.220.0",
+            "0.230.0",
+            "0.280.0"
          ]
       }
    ],
@@ -10837,11 +11014,8 @@
          "package" : "IO-Socket-SSL",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "1.440.0",
-            "1.810.0",
-            "1.820.0",
-            "1.830.0",
-            "1.840.0"
+            "1.953.0",
+            "1.967.0"
          ]
       }
    ],
@@ -10892,8 +11066,7 @@
          "package" : "IO-Tty",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "1.08",
-            "1.100.0"
+            "1.110.0"
          ]
       }
    ],
@@ -10943,8 +11116,7 @@
          "package" : "IP-Country",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "2.23",
-            "2.270.0"
+            "2.280.0"
          ]
       }
    ],
@@ -10954,12 +11126,9 @@
          "package" : "IPC-Cmd",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "0.680",
-            "0.700.0",
-            "0.720.0",
-            "0.760.0",
-            "0.780.0",
-            "0.800.0"
+            "0.780.0-r1",
+            "0.800.0",
+            "0.840.0"
          ]
       }
    ],
@@ -11069,6 +11238,16 @@
          ]
       }
    ],
+   "IPTables-libiptc" : [
+      {
+         "category" : "dev-perl",
+         "package" : "IPTables-libiptc",
+         "repository" : "gentoo",
+         "versions_gentoo" : [
+            "0.520.0"
+         ]
+      }
+   ],
    "IRC-Utils" : [
       {
          "category" : "dev-perl",
@@ -11095,16 +11274,17 @@
          "package" : "exiftool",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "8.50",
-            "8.60",
-            "8.65",
-            "8.75",
-            "8.770.0",
-            "8.850.0",
-            "8.900.0",
-            "9.10.0",
-            "9.120.0",
-            "9.40.0"
+            "9.12",
+            "9.55",
+            "9.58",
+            "9.59",
+            "9.61",
+            "9.62",
+            "9.64",
+            "9.65",
+            "9.66",
+            "9.67",
+            "9.68"
          ]
       }
    ],
@@ -11126,7 +11306,8 @@
          "versions_gentoo" : [
             "1.320.0",
             "1.330.0",
-            "1.340.0"
+            "1.340.0",
+            "1.360.0"
          ]
       }
    ],
@@ -11179,7 +11360,8 @@
             "0.920.0",
             "0.930.0",
             "0.940.0",
-            "0.950.0"
+            "0.950.0",
+            "1.0.0"
          ]
       }
    ],
@@ -11189,7 +11371,8 @@
          "package" : "Import-Into",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "1.1.0"
+            "1.1.0",
+            "1.2.0"
          ]
       }
    ],
@@ -11199,10 +11382,9 @@
          "package" : "Inline",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "0.44-r1",
-            "0.470.0",
             "0.500.0",
-            "0.510.0"
+            "0.510.0",
+            "0.530.0"
          ]
       }
    ],
@@ -11222,7 +11404,7 @@
          "package" : "Inline-Python",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "0.400.0"
+            "0.430.0"
          ]
       }
    ],
@@ -11242,7 +11424,8 @@
          "package" : "JSON",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "2.530.0"
+            "2.530.0",
+            "2.590.0"
          ]
       }
    ],
@@ -11252,7 +11435,8 @@
          "package" : "JSON-Any",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "1.290.0"
+            "1.290.0",
+            "1.300.0"
          ]
       }
    ],
@@ -11262,9 +11446,7 @@
          "package" : "JSON-PP",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "2.271.40",
-            "2.271.50",
-            "2.272.0",
+            "2.272.0-r1",
             "2.272.20"
          ]
       }
@@ -11286,7 +11468,8 @@
          "package" : "JSON-XS",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "2.330.0"
+            "2.330.0",
+            "2.340.0"
          ]
       }
    ],
@@ -11297,6 +11480,24 @@
          "repository" : "gentoo",
          "versions_gentoo" : [
             "0.310.0"
+         ]
+      }
+   ],
+   "JSON::MaybeXS" : [
+      {
+         "category" : "dev-perl",
+         "package" : "CGI-Struct",
+         "repository" : "perl-experimental",
+         "versions_gentoo" : [
+            "1.210.0"
+         ]
+      },
+      {
+         "category" : "dev-perl",
+         "package" : "JSON-MaybeXS",
+         "repository" : "perl-experimental",
+         "versions_gentoo" : [
+            "1.2.2"
          ]
       }
    ],
@@ -11367,8 +11568,8 @@
             "0.220.0",
             "0.230.0",
             "0.261.0",
-            "0.262.0",
-            "0.270.0"
+            "0.262.0-r1",
+            "0.270.0-r1"
          ]
       }
    ],
@@ -11475,6 +11676,16 @@
          ]
       }
    ],
+   "LWP-Protocol-PSGI" : [
+      {
+         "category" : "dev-perl",
+         "package" : "LWP-Protocol-PSGI",
+         "repository" : "perl-experimental",
+         "versions_gentoo" : [
+            "0.60.0"
+         ]
+      }
+   ],
    "LWP-Protocol-https" : [
       {
          "category" : "dev-perl",
@@ -11482,7 +11693,8 @@
          "repository" : "gentoo",
          "versions_gentoo" : [
             "6.20.0",
-            "6.30.0"
+            "6.30.0",
+            "6.40.0"
          ]
       }
    ],
@@ -11512,9 +11724,8 @@
          "package" : "Lab-Measurement",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "3.00",
-            "3.10",
-            "3.11",
+            "3.310.0",
+            "3.320.0",
             "9999"
          ]
       }
@@ -11550,6 +11761,16 @@
          ]
       }
    ],
+   "Lexical-SealRequireHints" : [
+      {
+         "category" : "dev-perl",
+         "package" : "Lexical-SealRequireHints",
+         "repository" : "perl-experimental",
+         "versions_gentoo" : [
+            "0.7.0"
+         ]
+      }
+   ],
    "Lexical-Types" : [
       {
          "category" : "dev-perl",
@@ -11576,7 +11797,8 @@
          "package" : "Lingua-EN-Inflect",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "1.894.0"
+            "1.894.0",
+            "1.895.0"
          ]
       }
    ],
@@ -11622,7 +11844,8 @@
          "package" : "Lingua-EN-NameParse",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "1.300.0"
+            "1.300.0",
+            "1.310.0"
          ]
       }
    ],
@@ -11684,7 +11907,7 @@
          "package" : "Lingua-Preferred",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "0.2.4"
+            "0.2.4-r1"
          ]
       }
    ],
@@ -11805,6 +12028,7 @@
          "repository" : "gentoo",
          "versions_gentoo" : [
             "0.100.0",
+            "0.120.0",
             "0.80.0"
          ]
       }
@@ -11893,14 +12117,10 @@
    "Locale-Maketext" : [
       {
          "category" : "perl-core",
-         "package" : "locale-maketext",
+         "package" : "Locale-Maketext",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "1.13-r1",
-            "1.17",
-            "1.190.0",
-            "1.220.0",
-            "1.230.0"
+            "1.230.0-r1"
          ]
       }
    ],
@@ -11921,7 +12141,8 @@
          "repository" : "gentoo",
          "versions_gentoo" : [
             "0.910.0",
-            "0.920.0"
+            "0.920.0",
+            "0.960.0"
          ]
       }
    ],
@@ -11931,7 +12152,7 @@
          "package" : "Locale-Maketext-Simple",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "0.210.0"
+            "0.210.0-r1"
          ]
       }
    ],
@@ -11951,7 +12172,6 @@
          "package" : "Locale-PO",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "0.220.0",
             "0.230.0"
          ]
       }
@@ -11982,7 +12202,7 @@
          "package" : "Log-Any",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "0.140.0"
+            "0.150.0"
          ]
       }
    ],
@@ -12035,9 +12255,7 @@
          "package" : "log-dispatch",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "2.320.0",
-            "2.340.0",
-            "2.350.0"
+            "2.410.0"
          ]
       }
    ],
@@ -12082,7 +12300,8 @@
          "repository" : "gentoo",
          "versions_gentoo" : [
             "1.360.0",
-            "1.400.0"
+            "1.400.0",
+            "1.420.0"
          ]
       }
    ],
@@ -12147,7 +12366,9 @@
          "package" : "MARC-Charset",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "1.330.0"
+            "1.330.0",
+            "1.340.0",
+            "1.350.0"
          ]
       }
    ],
@@ -12157,8 +12378,8 @@
          "package" : "MARC-Record",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "2.0.3",
-            "2.0.4"
+            "2.0.4",
+            "2.0.5"
          ]
       }
    ],
@@ -12168,7 +12389,7 @@
          "package" : "MARC-XML",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "0.930.0"
+            "1.000.300"
          ]
       }
    ],
@@ -12188,8 +12409,8 @@
          "package" : "MIME-Base64",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "3.08",
-            "3.130.0"
+            "3.130.0-r1",
+            "3.140.0-r1"
          ]
       }
    ],
@@ -12231,9 +12452,8 @@
          "package" : "MIME-Types",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "1.350.0",
-            "1.370.0",
-            "1.380.0"
+            "2.020.0",
+            "2.040.0"
          ]
       }
    ],
@@ -12264,7 +12484,6 @@
          "package" : "MLDBM",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "2.01",
             "2.40.0"
          ]
       }
@@ -12348,7 +12567,9 @@
          "repository" : "gentoo",
          "versions_gentoo" : [
             "2.105.0",
-            "2.107.0"
+            "2.107.0",
+            "2.108",
+            "2.109.0"
          ]
       }
    ],
@@ -12388,7 +12609,6 @@
          "package" : "Mail-DKIM",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "0.390.0",
             "0.400.0"
          ]
       }
@@ -12409,7 +12629,7 @@
          "package" : "Mail-IMAPClient",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "3.320.0"
+            "3.350.0"
          ]
       }
    ],
@@ -12429,7 +12649,7 @@
          "package" : "Mail-Mbox-MessageParser",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "1.500.200"
+            "1.500.200-r1"
          ]
       }
    ],
@@ -12469,7 +12689,7 @@
          "package" : "Mail-SPF-Query",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "1.999.1"
+            "1.999.1-r1"
          ]
       }
    ],
@@ -12545,7 +12765,8 @@
          "package" : "Math-Base36",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "0.100.0"
+            "0.100.0",
+            "0.120.0"
          ]
       }
    ],
@@ -12577,12 +12798,8 @@
          "package" : "Math-BigInt",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "1.89",
-            "1.99",
-            "1.991",
-            "1.992",
-            "1.993.0",
-            "1.997.0"
+            "1.997.0-r2",
+            "1.999.300"
          ]
       }
    ],
@@ -12592,14 +12809,7 @@
          "package" : "Math-BigInt-FastCalc",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "0.19",
-            "0.24",
-            "0.251",
-            "0.260",
-            "0.270.0",
-            "0.280.0",
-            "0.290.0",
-            "0.300.0"
+            "0.300.0-r1"
          ]
       }
    ],
@@ -12609,8 +12819,7 @@
          "package" : "Math-BigInt-GMP",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "1.24",
-            "1.370.0"
+            "1.380.0"
          ]
       }
    ],
@@ -12620,9 +12829,7 @@
          "package" : "Math-BigRat",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "0.22",
-            "0.26",
-            "0.260.200"
+            "0.260.200-r1"
          ]
       }
    ],
@@ -12695,7 +12902,6 @@
          "package" : "math-pari",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "2.01080604",
             "2.10.806.50"
          ]
       }
@@ -12807,9 +13013,7 @@
          "package" : "Memoize",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "1.01",
-            "1.20.0",
-            "1.30.0"
+            "1.30.0-r1"
          ]
       }
    ],
@@ -12898,7 +13102,8 @@
          "repository" : "perl-experimental",
          "versions_gentoo" : [
             "0.002",
-            "0.003"
+            "0.003",
+            "0.106.0"
          ]
       }
    ],
@@ -12908,7 +13113,7 @@
          "package" : "Mock-Quick",
          "repository" : "perl-experimental",
          "versions_gentoo" : [
-            "1.105.0"
+            "1.107.0"
          ]
       }
    ],
@@ -12950,24 +13155,8 @@
          "package" : "Module-Build",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "0.34.0201",
-            "0.36.07",
-            "0.362.400",
-            "0.380.0",
-            "0.400.0",
-            "0.400.100",
-            "0.400.200",
-            "0.400.300"
-         ]
-      },
-      {
-         "category" : "perl-core",
-         "package" : "Module-Build",
-         "repository" : "perl-experimental",
-         "versions_gentoo" : [
-            "0.400.400-r1",
-            "0.400.400-r2",
-            "0.400.500"
+            "0.400.300-r1",
+            "0.420.0-r1"
          ]
       }
    ],
@@ -12975,10 +13164,20 @@
       {
          "category" : "dev-perl",
          "package" : "Module-Build-Tiny",
+         "repository" : "gentoo",
+         "versions_gentoo" : [
+            "0.37.0"
+         ]
+      },
+      {
+         "category" : "dev-perl",
+         "package" : "Module-Build-Tiny",
          "repository" : "perl-experimental",
          "versions_gentoo" : [
             "0.18.0",
-            "0.19.0"
+            "0.19.0",
+            "0.30.0",
+            "0.35.0"
          ]
       }
    ],
@@ -13003,7 +13202,7 @@
             "0.200.0",
             "0.210.0",
             "0.220.0",
-            "0.230.0"
+            "0.230.0-r1"
          ]
       }
    ],
@@ -13023,21 +13222,8 @@
          "package" : "Module-CoreList",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "2.38",
-            "2.41",
-            "2.430",
-            "2.440",
-            "2.450",
-            "2.460.0",
-            "2.490.0",
-            "2.510.0",
-            "2.540.0",
-            "2.570.0",
-            "2.660.0",
-            "2.700.0",
-            "2.760.0",
-            "2.800.0",
-            "2.840.0"
+            "2.840.0",
+            "5.21.1"
          ]
       }
    ],
@@ -13123,7 +13309,7 @@
          "package" : "module-info",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "0.320.0"
+            "0.350.0"
          ]
       }
    ],
@@ -13163,7 +13349,7 @@
          "package" : "Module-Install-ProvidesClass",
          "repository" : "perl-experimental",
          "versions_gentoo" : [
-            "1.000000"
+            "1.0.0"
          ]
       }
    ],
@@ -13183,9 +13369,6 @@
          "package" : "Module-Load",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "0.180.0",
-            "0.200.0",
-            "0.220.0",
             "0.240.0"
          ]
       }
@@ -13196,13 +13379,8 @@
          "package" : "Module-Load-Conditional",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "0.400",
-            "0.440.0",
-            "0.460.0",
-            "0.480.0",
-            "0.500.0",
-            "0.520.0",
-            "0.540.0"
+            "0.540.0",
+            "0.580.0"
          ]
       }
    ],
@@ -13212,8 +13390,7 @@
          "package" : "Module-Loaded",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "0.60.0",
-            "0.80.0"
+            "0.80.0-r1"
          ]
       }
    ],
@@ -13223,7 +13400,9 @@
          "package" : "Module-Locate",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "1.720.0"
+            "1.720.0",
+            "1.740.0",
+            "1.760.0"
          ]
       }
    ],
@@ -13253,13 +13432,17 @@
          "package" : "Module-Metadata",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "1.0.10",
-            "1.0.11",
-            "1.0.3",
-            "1.0.4",
-            "1.0.5",
-            "1.0.6",
-            "1.0.9"
+            "1.0.11-r1"
+         ]
+      }
+   ],
+   "Module-Path" : [
+      {
+         "category" : "dev-perl",
+         "package" : "Module-Path",
+         "repository" : "perl-experimental",
+         "versions_gentoo" : [
+            "0.90.0"
          ]
       }
    ],
@@ -13269,12 +13452,9 @@
          "package" : "Module-Pluggable",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "3.900.0",
-            "4.0.0",
-            "4.300.0",
-            "4.500.0",
             "4.600.0",
-            "4.700.0"
+            "4.700.0",
+            "4.800.0"
          ]
       }
    ],
@@ -13325,7 +13505,7 @@
          "package" : "Module-ScanDeps",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "1.100.0"
+            "1.120.0"
          ]
       }
    ],
@@ -13335,8 +13515,7 @@
          "package" : "Module-Signature",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "0.680.0",
-            "0.700.0"
+            "0.730.0"
          ]
       }
    ],
@@ -13378,16 +13557,10 @@
          "package" : "MogileFS-Client",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "1.08",
-            "1.09",
-            "1.10",
-            "1.11",
-            "1.12",
-            "1.13",
-            "1.14",
             "1.140.0",
             "1.150.0",
-            "1.160.0"
+            "1.160.0",
+            "1.170.0"
          ]
       }
    ],
@@ -13399,7 +13572,8 @@
          "versions_gentoo" : [
             "0.015.0",
             "0.018.0",
-            "0.022.0"
+            "0.022.0",
+            "0.030.0"
          ]
       }
    ],
@@ -13419,12 +13593,6 @@
          "package" : "mogilefs-server",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "2.37",
-            "2.43",
-            "2.46",
-            "2.50",
-            "2.51",
-            "2.53",
             "2.530.0",
             "2.540.0",
             "2.550.0",
@@ -13437,7 +13605,10 @@
             "2.620.0",
             "2.630.0",
             "2.640.0",
-            "2.650.0"
+            "2.650.0",
+            "2.670.0",
+            "2.680.0",
+            "2.700.0-r1"
          ]
       }
    ],
@@ -13447,20 +13618,13 @@
          "package" : "MogileFS-Utils",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "2.13",
-            "2.14",
-            "2.15",
-            "2.16",
-            "2.17",
-            "2.18",
-            "2.19",
-            "2.20",
             "2.200.0",
             "2.210.0",
             "2.220.0",
             "2.230.0",
             "2.250.0",
-            "2.260.0"
+            "2.260.0",
+            "2.280.0"
          ]
       }
    ],
@@ -13471,16 +13635,6 @@
          "repository" : "perl-experimental",
          "versions_gentoo" : [
             "1.90.0"
-         ]
-      }
-   ],
-   "MojoX-Renderer-TT" : [
-      {
-         "category" : "dev-perl",
-         "package" : "MojoX-Renderer-TT",
-         "repository" : "perl-experimental",
-         "versions_gentoo" : [
-            "1.13"
          ]
       }
    ],
@@ -13539,7 +13693,8 @@
          "repository" : "gentoo",
          "versions_gentoo" : [
             "1.0.6",
-            "1.0.8"
+            "1.0.8",
+            "1.4.2"
          ]
       }
    ],
@@ -13551,7 +13706,8 @@
          "versions_gentoo" : [
             "0.160.0",
             "0.180.0",
-            "0.210.0"
+            "0.210.0",
+            "0.250.0"
          ]
       }
    ],
@@ -13561,7 +13717,6 @@
          "package" : "Moose",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "2.40.200",
             "2.60.400"
          ]
       }
@@ -13584,7 +13739,8 @@
          "package" : "MooseX-Aliases",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "0.100.0"
+            "0.100.0",
+            "0.110.0"
          ]
       }
    ],
@@ -13698,7 +13854,8 @@
          "package" : "MooseX-ClassAttribute",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "0.260.0"
+            "0.260.0",
+            "0.270.0"
          ]
       }
    ],
@@ -13729,18 +13886,9 @@
          "package" : "MooseX-ConfigFromFile",
          "repository" : "gentoo",
          "versions_gentoo" : [
+            "0.110.0",
             "0.60.0",
             "0.80.0"
-         ]
-      },
-      {
-         "category" : "dev-perl",
-         "package" : "MooseX-ConfigFromFile",
-         "repository" : "perl-experimental",
-         "versions_gentoo" : [
-            "0.100.0",
-            "0.20.0",
-            "0.40.0"
          ]
       }
    ],
@@ -13793,7 +13941,8 @@
             "0.500.0",
             "0.510.0",
             "0.520.0",
-            "0.540.0"
+            "0.540.0",
+            "0.560.0"
          ]
       }
    ],
@@ -14279,7 +14428,8 @@
          "package" : "MooseX-Types",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "0.350.0"
+            "0.350.0",
+            "0.360.0"
          ]
       }
    ],
@@ -14521,6 +14671,16 @@
          ]
       }
    ],
+   "Mozilla-CA" : [
+      {
+         "category" : "dev-perl",
+         "package" : "Mozilla-CA",
+         "repository" : "gentoo",
+         "versions_gentoo" : [
+            "20130114"
+         ]
+      }
+   ],
    "MusicBrainz-DiscID" : [
       {
          "category" : "dev-perl",
@@ -14599,7 +14759,8 @@
          "package" : "Net-Amazon-S3",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "0.560.0"
+            "0.560.0",
+            "0.590.0"
          ]
       }
    ],
@@ -14620,7 +14781,6 @@
          "package" : "Net-CIDR-Lite",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "0.20",
             "0.210.0"
          ]
       }
@@ -14652,10 +14812,8 @@
          "repository" : "gentoo",
          "versions_gentoo" : [
             "0.660.0",
-            "0.680.0",
-            "0.700.0",
-            "0.710.0",
-            "0.720.0"
+            "0.720.0",
+            "0.740.0"
          ]
       }
    ],
@@ -14679,13 +14837,23 @@
          ]
       }
    ],
+   "Net-DNS-SEC" : [
+      {
+         "category" : "dev-perl",
+         "package" : "Net-DNS-SEC",
+         "repository" : "perl-experimental",
+         "versions_gentoo" : [
+            "0.190.0"
+         ]
+      }
+   ],
    "Net-Daemon" : [
       {
          "category" : "dev-perl",
          "package" : "Net-Daemon",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "0.480.0"
+            "0.480.0-r1"
          ]
       }
    ],
@@ -14777,7 +14945,8 @@
          "package" : "Net-IMAP-Simple",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "1.203.400"
+            "1.203.400",
+            "1.220.100"
          ]
       }
    ],
@@ -14828,7 +14997,7 @@
          "package" : "Net-IRC",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "0.790.0"
+            "0.790.0-r1"
          ]
       }
    ],
@@ -14880,7 +15049,7 @@
          "package" : "Net-LDAPapi",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "3.0.3-r1"
+            "3.0.3-r2"
          ]
       }
    ],
@@ -14900,7 +15069,7 @@
          "package" : "Net-Netmask",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "1.901.600"
+            "1.901.600-r1"
          ]
       }
    ],
@@ -14952,8 +15121,8 @@
          "package" : "Net-Patricia",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "1.190.0",
-            "1.200.0"
+            "1.200.0",
+            "1.210.0"
          ]
       }
    ],
@@ -14981,10 +15150,11 @@
    "Net-Ping" : [
       {
          "category" : "perl-core",
-         "package" : "net-ping",
+         "package" : "Net-Ping",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "2.36"
+            "2.36-r1",
+            "2.41-r1"
          ]
       }
    ],
@@ -15024,7 +15194,8 @@
          "package" : "Net-SFTP-Foreign",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "1.730.0"
+            "1.730.0",
+            "1.750.0"
          ]
       }
    ],
@@ -15055,7 +15226,18 @@
          "package" : "Net-SMTP-TLS-ButMaintained",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "0.210.0"
+            "0.210.0",
+            "0.240.0"
+         ]
+      }
+   ],
+   "Net-SMTPS" : [
+      {
+         "category" : "dev-perl",
+         "package" : "Net-SMTPS",
+         "repository" : "gentoo",
+         "versions_gentoo" : [
+            "0.30.0"
          ]
       }
    ],
@@ -15065,7 +15247,7 @@
          "package" : "Net-SNMP",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "6.0.1"
+            "6.0.1-r1"
          ]
       }
    ],
@@ -15096,7 +15278,8 @@
          "repository" : "gentoo",
          "versions_gentoo" : [
             "1.340.0",
-            "1.350.0"
+            "1.350.0",
+            "1.360.0"
          ]
       }
    ],
@@ -15109,7 +15292,9 @@
             "0.40",
             "0.460.0",
             "0.470.0",
-            "0.480.0"
+            "0.480.0",
+            "0.520.0",
+            "0.530.0"
          ]
       }
    ],
@@ -15119,8 +15304,10 @@
          "package" : "Net-SSLeay",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "1.490.0",
-            "1.520.0"
+            "1.550",
+            "1.558",
+            "1.640.0",
+            "1.650.0"
          ]
       }
    ],
@@ -15130,9 +15317,6 @@
          "package" : "net-server",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "0.97",
-            "0.990.0",
-            "2.6.0",
             "2.7.0"
          ]
       }
@@ -15154,7 +15338,9 @@
          "repository" : "gentoo",
          "versions_gentoo" : [
             "0.170.0",
-            "0.180.0"
+            "0.180.0",
+            "0.200.0",
+            "0.210.0"
          ]
       }
    ],
@@ -15165,6 +15351,16 @@
          "repository" : "perl-experimental",
          "versions_gentoo" : [
             "0.05"
+         ]
+      }
+   ],
+   "Net-Subnet" : [
+      {
+         "category" : "dev-perl",
+         "package" : "Net-Subnet",
+         "repository" : "gentoo",
+         "versions_gentoo" : [
+            "1.30.0"
          ]
       }
    ],
@@ -15194,7 +15390,8 @@
          "package" : "Net-Twitter",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "3.180.40"
+            "3.180.40",
+            "4.000.60"
          ]
       }
    ],
@@ -15214,7 +15411,7 @@
          "package" : "Net-UPnP",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "1.4.2"
+            "1.4.2-r1"
          ]
       }
    ],
@@ -15244,8 +15441,8 @@
          "package" : "NetAddr-IP",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "4.59.0",
-            "4.66.0"
+            "4.66.0",
+            "4.72.0"
          ]
       }
    ],
@@ -15255,7 +15452,9 @@
          "package" : "NetPacket",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "1.3.1"
+            "1.3.1",
+            "1.3.3",
+            "1.400.100"
          ]
       }
    ],
@@ -15286,7 +15485,8 @@
          "repository" : "gentoo",
          "versions_gentoo" : [
             "1.210.0",
-            "1.300.0"
+            "1.300.0",
+            "1.310.0"
          ]
       }
    ],
@@ -15317,8 +15517,17 @@
          "package" : "Number-Format",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "1.52",
             "1.730.0"
+         ]
+      }
+   ],
+   "Number-Fraction" : [
+      {
+         "category" : "dev-perl",
+         "package" : "Number-Fraction",
+         "repository" : "perl-experimental",
+         "versions_gentoo" : [
+            "2.0.0"
          ]
       }
    ],
@@ -15328,7 +15537,7 @@
          "package" : "Number-Tolerant",
          "repository" : "perl-experimental",
          "versions_gentoo" : [
-            "1.701"
+            "1.701-r1"
          ]
       }
    ],
@@ -15421,7 +15630,7 @@
          "package" : "Object-Pluggable",
          "repository" : "perl-experimental",
          "versions_gentoo" : [
-            "1.290.0"
+            "1.290.0-r1"
          ]
       }
    ],
@@ -15505,7 +15714,7 @@
          "package" : "OpenGL",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "0.660.0"
+            "0.670.3"
          ]
       }
    ],
@@ -15547,7 +15756,6 @@
          "package" : "PDF-API2",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "2.19.0",
             "2.20.0"
          ]
       }
@@ -15569,8 +15777,7 @@
          "repository" : "gentoo",
          "versions_gentoo" : [
             "2.4.11",
-            "2.4.3-r1",
-            "2.4.7"
+            "2.4.3-r1"
          ]
       }
    ],
@@ -15601,7 +15808,8 @@
          "repository" : "gentoo",
          "versions_gentoo" : [
             "1.350.0",
-            "1.354.0"
+            "1.354.0",
+            "1.356"
          ]
       }
    ],
@@ -15642,8 +15850,8 @@
          "package" : "POE-Component-IKC",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "0.230.2",
-            "0.230.300"
+            "0.230.300",
+            "0.230.500"
          ]
       }
    ],
@@ -15715,7 +15923,9 @@
          "package" : "POE-Test-Loops",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "1.351.0"
+            "1.351.0",
+            "1.352.0",
+            "1.353.0"
          ]
       }
    ],
@@ -15725,7 +15935,7 @@
          "package" : "POE-XS-Loop-EPoll",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "1.2.0"
+            "1.3.0"
          ]
       }
    ],
@@ -15755,7 +15965,7 @@
          "package" : "PPI",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "1.215.0"
+            "1.215.0-r1"
          ]
       }
    ],
@@ -15787,7 +15997,8 @@
          "package" : "PPIx-EditorTools",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "0.170.0"
+            "0.170.0",
+            "0.180.0"
          ]
       }
    ],
@@ -15832,7 +16043,7 @@
          "package" : "Package-Constants",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "0.20.0"
+            "0.20.0-r1"
          ]
       }
    ],
@@ -15873,8 +16084,8 @@
          "package" : "Package-Stash",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "0.330.0",
-            "0.340.0"
+            "0.340.0",
+            "0.360.0"
          ]
       }
    ],
@@ -15885,7 +16096,8 @@
          "repository" : "gentoo",
          "versions_gentoo" : [
             "0.250.0",
-            "0.260.0"
+            "0.260.0",
+            "0.280.0"
          ]
       }
    ],
@@ -15917,7 +16129,8 @@
          "versions_gentoo" : [
             "0.920.0",
             "0.940.0",
-            "0.960.0"
+            "0.960.0",
+            "0.980.0"
          ]
       }
    ],
@@ -15993,7 +16206,8 @@
          "package" : "Panotools-Script",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "0.270.0"
+            "0.270.0",
+            "0.280.0"
          ]
       }
    ],
@@ -16013,9 +16227,15 @@
          "package" : "Parallel-ForkManager",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "0.7.5",
-            "0.7.9",
             "1.20.0"
+         ]
+      },
+      {
+         "category" : "dev-perl",
+         "package" : "Parallel-ForkManager",
+         "repository" : "perl-experimental",
+         "versions_gentoo" : [
+            "1.30.0"
          ]
       }
    ],
@@ -16035,7 +16255,8 @@
          "package" : "Parallel-Prefork",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "0.130.0"
+            "0.130.0",
+            "0.140.0"
          ]
       }
    ],
@@ -16056,12 +16277,8 @@
          "package" : "Params-Check",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "0.26",
-            "0.280.0",
-            "0.300.0",
-            "0.320.0",
-            "0.340.0",
-            "0.360.0"
+            "0.360.0-r1",
+            "0.380.0-r1"
          ]
       }
    ],
@@ -16091,9 +16308,8 @@
          "package" : "Params-Validate",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "1.0.0",
-            "1.60.0",
-            "1.70.0"
+            "1.70.0",
+            "1.80.0"
          ]
       }
    ],
@@ -16125,13 +16341,8 @@
          "package" : "Parse-CPAN-Meta",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "1.40",
-            "1.420",
-            "1.440.100",
-            "1.440.200",
-            "1.440.300",
-            "1.440.400",
-            "1.440"
+            "1.440.400-r1",
+            "1.440.900-r1"
          ]
       }
    ],
@@ -16157,7 +16368,8 @@
          "package" : "Parse-ErrorString-Perl",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "0.150.0"
+            "0.150.0",
+            "0.190.0"
          ]
       }
    ],
@@ -16253,7 +16465,8 @@
          "versions_gentoo" : [
             "0.260.0",
             "0.290.0",
-            "0.310.0"
+            "0.310.0",
+            "0.320.0"
          ]
       }
    ],
@@ -16301,6 +16514,7 @@
          "versions_gentoo" : [
             "0.12.0",
             "0.3.0",
+            "0.44.0",
             "0.5.0"
          ]
       }
@@ -16311,8 +16525,6 @@
          "package" : "File-Spec",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "3.31",
-            "3.330.0",
             "3.400.0"
          ]
       }
@@ -16363,7 +16575,7 @@
          "package" : "Perl-Critic-Nits",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "1.0.0"
+            "1.0.0-r1"
          ]
       }
    ],
@@ -16394,7 +16606,8 @@
          "package" : "Perl-OSType",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "1.2.0"
+            "1.2.0-r1",
+            "1.3.0"
          ]
       }
    ],
@@ -16404,11 +16617,10 @@
          "package" : "Perl-PrereqScanner",
          "repository" : "perl-experimental",
          "versions_gentoo" : [
-            "0.101.890",
             "1.11.0",
-            "1.13.0",
             "1.14.0",
             "1.15.0",
+            "1.17.0",
             "1.6.0",
             "1.7.0"
          ]
@@ -16430,8 +16642,7 @@
          "package" : "perltidy",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "20120714.0.0",
-            "20121207.0.0"
+            "20130922.0.0"
          ]
       }
    ],
@@ -16463,7 +16674,7 @@
          "package" : "Perl6-Junction",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "1.500.0"
+            "1.600.0"
          ]
       }
    ],
@@ -16473,7 +16684,8 @@
          "package" : "PerlIO-Layers",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "0.10.0"
+            "0.10.0",
+            "0.11.0"
          ]
       }
    ],
@@ -16497,6 +16709,16 @@
          ]
       }
    ],
+   "PerlIO-utf8_strict" : [
+      {
+         "category" : "dev-perl",
+         "package" : "PerlIO-utf8_strict",
+         "repository" : "perl-experimental",
+         "versions_gentoo" : [
+            "0.4.0"
+         ]
+      }
+   ],
    "PerlIO-via-dynamic" : [
       {
          "category" : "dev-perl",
@@ -16514,6 +16736,7 @@
          "package" : "PerlIO-via-symlink",
          "repository" : "gentoo",
          "versions_gentoo" : [
+            "0.50.0-r1",
             "0.50.0"
          ]
       }
@@ -16556,7 +16779,7 @@
          "package" : "PlRPC",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "0.202.0"
+            "0.202.0-r2"
          ]
       }
    ],
@@ -16605,6 +16828,36 @@
          ]
       }
    ],
+   "Plack::Middleware::FixMissingBodyInRedirect" : [
+      {
+         "category" : "dev-perl",
+         "package" : "Plack-Middleware-FixMissingBodyInRedirect",
+         "repository" : "perl-experimental",
+         "versions_gentoo" : [
+            "0.100.0"
+         ]
+      }
+   ],
+   "Plack::Middleware::MethodOverride" : [
+      {
+         "category" : "dev-perl",
+         "package" : "Plack-Middleware-MethodOverride",
+         "repository" : "perl-experimental",
+         "versions_gentoo" : [
+            "0.100.0"
+         ]
+      }
+   ],
+   "Plack::Middleware::RemoveRedundantBody" : [
+      {
+         "category" : "dev-perl",
+         "package" : "Plack-Middleware-RemoveRedundantBody",
+         "repository" : "perl-experimental",
+         "versions_gentoo" : [
+            "0.40.0"
+         ]
+      }
+   ],
    "Plucene" : [
       {
          "category" : "dev-perl",
@@ -16631,7 +16884,7 @@
          "package" : "Pod-Checker",
          "repository" : "perl-experimental",
          "versions_gentoo" : [
-            "1.600.0"
+            "1.600.0-r1"
          ]
       }
    ],
@@ -16641,7 +16894,7 @@
          "package" : "Pod-Constants",
          "repository" : "perl-experimental",
          "versions_gentoo" : [
-            "0.160.0"
+            "0.160.0-r1"
          ]
       }
    ],
@@ -16651,7 +16904,9 @@
          "package" : "Pod-Coverage",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "0.220.0"
+            "0.220.0",
+            "0.230.0-r1",
+            "0.230.0"
          ]
       }
    ],
@@ -16674,8 +16929,8 @@
          "repository" : "perl-experimental",
          "versions_gentoo" : [
             "0.100.0",
-            "0.100.1",
-            "0.100.2"
+            "0.100.1-r1",
+            "0.100.2-r1"
          ]
       }
    ],
@@ -16730,7 +16985,7 @@
          "package" : "Pod-Escapes",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "1.40.0"
+            "1.40.0-r1"
          ]
       }
    ],
@@ -16752,9 +17007,9 @@
          "package" : "Pod-LaTeX",
          "repository" : "perl-experimental",
          "versions_gentoo" : [
-            "0.590.0",
-            "0.600.0",
-            "0.610.0"
+            "0.590.0-r1",
+            "0.600.0-r1",
+            "0.610.0-r1"
          ]
       }
    ],
@@ -16764,7 +17019,7 @@
          "package" : "Pod-Markdown",
          "repository" : "perl-experimental",
          "versions_gentoo" : [
-            "1.322.0"
+            "1.322.0-r1"
          ]
       }
    ],
@@ -16774,27 +17029,19 @@
          "package" : "Pod-POM",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "0.270.0"
+            "0.270.0",
+            "0.280.0"
          ]
       }
    ],
    "Pod-Parser" : [
       {
          "category" : "perl-core",
-         "package" : "PodParser",
+         "package" : "Pod-Parser",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "1.380.0",
-            "1.510.0"
-         ]
-      },
-      {
-         "category" : "perl-core",
-         "package" : "PodParser",
-         "repository" : "perl-experimental",
-         "versions_gentoo" : [
-            "1.510.0",
-            "1.600.0"
+            "1.510.0-r1",
+            "1.610.0-r1"
          ]
       }
    ],
@@ -16812,11 +17059,11 @@
    ],
    "Pod-Plainer" : [
       {
-         "category" : "perl-core",
+         "category" : "dev-perl",
          "package" : "Pod-Plainer",
          "repository" : "perl-experimental",
          "versions_gentoo" : [
-            "1.30.0"
+            "1.30.0-r1"
          ]
       }
    ],
@@ -16827,9 +17074,9 @@
          "repository" : "perl-experimental",
          "versions_gentoo" : [
             "0.360.0",
-            "0.380.0",
-            "0.390.0",
-            "0.400.0"
+            "0.380.0-r1",
+            "0.390.0-r1",
+            "0.400.0-r1"
          ]
       }
    ],
@@ -16860,17 +17107,8 @@
          "package" : "Pod-Simple",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "3.14",
-            "3.15",
-            "3.160.0",
-            "3.170.0",
-            "3.180.0",
-            "3.190.0",
-            "3.200.0",
-            "3.210.0",
-            "3.220.0",
-            "3.230.0",
-            "3.260.0"
+            "3.230.0-r1",
+            "3.280.0"
          ]
       }
    ],
@@ -16910,7 +17148,7 @@
          "package" : "Pod-Usage",
          "repository" : "perl-experimental",
          "versions_gentoo" : [
-            "1.610.0"
+            "1.610.0-r1"
          ]
       }
    ],
@@ -16943,8 +17181,85 @@
          "repository" : "perl-experimental",
          "versions_gentoo" : [
             "0.180.0",
-            "0.190.0",
-            "0.200.0"
+            "0.190.0-r1",
+            "0.200.0-r1"
+         ]
+      }
+   ],
+   "PortageXS" : [
+      {
+         "category" : "dev-perl",
+         "package" : "PortageXS",
+         "repository" : "gentoo",
+         "versions_gentoo" : [
+            "0.02.10-r3",
+            "0.02.12"
+         ]
+      }
+   ],
+   "PortageXS::Core" : [
+      {
+         "category" : "dev-perl",
+         "package" : "PortageXS",
+         "repository" : "gentoo",
+         "versions_gentoo" : [
+            "0.02.10-r3",
+            "0.02.12"
+         ]
+      }
+   ],
+   "PortageXS::System" : [
+      {
+         "category" : "dev-perl",
+         "package" : "PortageXS",
+         "repository" : "gentoo",
+         "versions_gentoo" : [
+            "0.02.10-r3",
+            "0.02.12"
+         ]
+      }
+   ],
+   "PortageXS::UI::Console" : [
+      {
+         "category" : "dev-perl",
+         "package" : "PortageXS",
+         "repository" : "gentoo",
+         "versions_gentoo" : [
+            "0.02.10-r3",
+            "0.02.12"
+         ]
+      }
+   ],
+   "PortageXS::UI::Spinner" : [
+      {
+         "category" : "dev-perl",
+         "package" : "PortageXS",
+         "repository" : "gentoo",
+         "versions_gentoo" : [
+            "0.02.10-r3",
+            "0.02.12"
+         ]
+      }
+   ],
+   "PortageXS::Useflags" : [
+      {
+         "category" : "dev-perl",
+         "package" : "PortageXS",
+         "repository" : "gentoo",
+         "versions_gentoo" : [
+            "0.02.10-r3",
+            "0.02.12"
+         ]
+      }
+   ],
+   "PortageXS::Version" : [
+      {
+         "category" : "dev-perl",
+         "package" : "PortageXS",
+         "repository" : "gentoo",
+         "versions_gentoo" : [
+            "0.02.10-r3",
+            "0.02.12"
          ]
       }
    ],
@@ -16994,7 +17309,7 @@
          "package" : "Proc-Daemon",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "0.140.0"
+            "0.140.0-r1"
          ]
       }
    ],
@@ -17004,8 +17319,7 @@
          "package" : "Proc-ProcessTable",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "0.450.0",
-            "0.460.0"
+            "0.480.0"
          ]
       }
    ],
@@ -17046,7 +17360,8 @@
          "package" : "Quota",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "1.6.7"
+            "1.6.7",
+            "1.700.0"
          ]
       }
    ],
@@ -17147,7 +17462,6 @@
          "package" : "regexp-common",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "2011121001.0.0",
             "2013031301.0.0"
          ]
       }
@@ -17223,13 +17537,33 @@
          ]
       }
    ],
+   "Return-MultiLevel" : [
+      {
+         "category" : "dev-perl",
+         "package" : "Return-MultiLevel",
+         "repository" : "perl-experimental",
+         "versions_gentoo" : [
+            "0.30.0"
+         ]
+      }
+   ],
    "Return-Value" : [
       {
          "category" : "dev-perl",
          "package" : "Return-Value",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "1.666.1"
+            "1.666.1-r1"
+         ]
+      }
+   ],
+   "Role-Basix" : [
+      {
+         "category" : "dev-perl",
+         "package" : "Role-Basic",
+         "repository" : "gentoo",
+         "versions_gentoo" : [
+            "0.130.0"
          ]
       }
    ],
@@ -17270,7 +17604,8 @@
          "repository" : "gentoo",
          "versions_gentoo" : [
             "1.2.4",
-            "1.2.5"
+            "1.2.5",
+            "1.3.2"
          ]
       }
    ],
@@ -17301,7 +17636,8 @@
          "repository" : "gentoo",
          "versions_gentoo" : [
             "2.536",
-            "2.540"
+            "2.540",
+            "2.544"
          ]
       }
    ],
@@ -17311,7 +17647,7 @@
          "package" : "SGMLSpm",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "1.03-r6"
+            "1.03-r7"
          ]
       }
    ],
@@ -17321,7 +17657,8 @@
          "package" : "SOAP-Lite",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "0.715.0"
+            "0.715.0",
+            "1.040.0"
          ]
       }
    ],
@@ -17341,9 +17678,7 @@
          "package" : "SQL-Abstract",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "1.63",
-            "1.720.0",
-            "1.730.0"
+            "1.780.0"
          ]
       }
    ],
@@ -17364,7 +17699,8 @@
          "repository" : "gentoo",
          "versions_gentoo" : [
             "1.330.0",
-            "1.402.0"
+            "1.402.0",
+            "1.405.0"
          ]
       }
    ],
@@ -17397,7 +17733,8 @@
          "versions_gentoo" : [
             "2.510.0",
             "2.530.0",
-            "2.540.0"
+            "2.540.0",
+            "2.590.0"
          ]
       }
    ],
@@ -17417,7 +17754,6 @@
          "package" : "SVN-Mirror",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "0.73",
             "0.750.0"
          ]
       }
@@ -17438,7 +17774,8 @@
          "package" : "SVN-Simple",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "0.270.0"
+            "0.270.0",
+            "0.280.0"
          ]
       }
    ],
@@ -17458,11 +17795,7 @@
          "package" : "Safe",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "2.27",
-            "2.290.0",
-            "2.300.0",
-            "2.320.0",
-            "2.330.0",
+            "2.330.0-r1",
             "2.350.0"
          ]
       }
@@ -17504,9 +17837,8 @@
          "package" : "Scalar-List-Utils",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "1.230.0",
-            "1.250.0",
-            "1.270.0"
+            "1.270.0",
+            "1.350.0"
          ]
       }
    ],
@@ -17516,7 +17848,7 @@
          "package" : "Scalar-Properties",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "1.100.860"
+            "1.100.860-r1"
          ]
       }
    ],
@@ -17539,6 +17871,16 @@
          "repository" : "gentoo",
          "versions_gentoo" : [
             "1.150.0"
+         ]
+      }
+   ],
+   "Schedule-Cron-Events" : [
+      {
+         "category" : "dev-perl",
+         "package" : "Schedule-Cron-Events",
+         "repository" : "gentoo",
+         "versions_gentoo" : [
+            "1.930.0"
          ]
       }
    ],
@@ -17615,7 +17957,11 @@
          "repository" : "gentoo",
          "versions_gentoo" : [
             "1.2.13.0",
-            "1.2.14.0"
+            "1.2.14.0",
+            "1.2.15.0",
+            "1.2.16.0",
+            "1.2.17.0",
+            "1.2.18.0"
          ]
       }
    ],
@@ -17629,6 +17975,26 @@
          ]
       }
    ],
+   "Sereal-Decoder" : [
+      {
+         "category" : "dev-perl",
+         "package" : "Sereal-Decoder",
+         "repository" : "perl-experimental",
+         "versions_gentoo" : [
+            "3.1.0"
+         ]
+      }
+   ],
+   "Sereal-Encoder" : [
+      {
+         "category" : "dev-perl",
+         "package" : "Sereal-Encoder",
+         "repository" : "perl-experimental",
+         "versions_gentoo" : [
+            "3.1.0"
+         ]
+      }
+   ],
    "Server-Starter" : [
       {
          "category" : "dev-perl",
@@ -17639,11 +18005,21 @@
          ]
       }
    ],
+   "Session-Storage-Secure" : [
+      {
+         "category" : "dev-perl",
+         "package" : "Session-Storage-Secure",
+         "repository" : "perl-experimental",
+         "versions_gentoo" : [
+            "0.10.0"
+         ]
+      }
+   ],
    "Set-Crontab" : [
       {
          "category" : "dev-perl",
          "package" : "Set-Crontab",
-         "repository" : "perl-experimental",
+         "repository" : "gentoo",
          "versions_gentoo" : [
             "1.30.0"
          ]
@@ -17665,7 +18041,8 @@
          "package" : "Set-IntSpan",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "1.160.0"
+            "1.160.0",
+            "1.190.0"
          ]
       }
    ],
@@ -17676,7 +18053,8 @@
          "repository" : "gentoo",
          "versions_gentoo" : [
             "1.280.0",
-            "1.290.0"
+            "1.290.0",
+            "1.310.0"
          ]
       }
    ],
@@ -17686,7 +18064,18 @@
          "package" : "set-scalar",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "1.250.0"
+            "1.260.0",
+            "1.280.0"
+         ]
+      }
+   ],
+   "Shell" : [
+      {
+         "category" : "dev-perl",
+         "package" : "Shell",
+         "repository" : "gentoo",
+         "versions_gentoo" : [
+            "0.720.0"
          ]
       }
    ],
@@ -17728,9 +18117,7 @@
          "package" : "snapback2",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "0.11",
-            "0.917",
-            "1.1.0"
+            "1.1.0-r1"
          ]
       }
    ],
@@ -17760,11 +18147,7 @@
          "package" : "Socket",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "2.1.0",
-            "2.2.0",
-            "2.6.0",
-            "2.7.0",
-            "2.8.0"
+            "2.9.0"
          ]
       }
    ],
@@ -17786,8 +18169,8 @@
          "package" : "Socket6",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "0.20",
-            "0.230.0"
+            "0.230.0",
+            "0.250.0"
          ]
       }
    ],
@@ -17848,7 +18231,7 @@
          "package" : "Sphinx-Config",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "0.90.0"
+            "0.90.0-r1"
          ]
       }
    ],
@@ -17858,7 +18241,7 @@
          "package" : "Sphinx-Search",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "0.240.1"
+            "0.280-r1"
          ]
       }
    ],
@@ -17898,8 +18281,8 @@
          "package" : "Spreadsheet-WriteExcel",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "2.370.0",
-            "2.380.0"
+            "2.390.0",
+            "2.400.0"
          ]
       }
    ],
@@ -17920,7 +18303,9 @@
          "repository" : "gentoo",
          "versions_gentoo" : [
             "0.160.0",
-            "0.180.0"
+            "0.180.0",
+            "0.190.0",
+            "0.200.0"
          ]
       }
    ],
@@ -17967,17 +18352,34 @@
          ]
       }
    ],
+   "Statistics-Distributions" : [
+      {
+         "category" : "dev-perl",
+         "package" : "Statistics-Distributions",
+         "repository" : "gentoo",
+         "versions_gentoo" : [
+            "1.02"
+         ]
+      }
+   ],
+   "Statistics-TTest" : [
+      {
+         "category" : "dev-perl",
+         "package" : "Statistics-TTest",
+         "repository" : "gentoo",
+         "versions_gentoo" : [
+            "1.1.0"
+         ]
+      }
+   ],
    "Storable" : [
       {
          "category" : "perl-core",
          "package" : "Storable",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "2.20",
-            "2.250",
-            "2.300.0",
-            "2.350.0",
-            "2.390.0"
+            "2.390.0-r1",
+            "2.450.0-r1"
          ]
       }
    ],
@@ -18032,6 +18434,16 @@
          ]
       }
    ],
+   "String-Compare-ConstantTime" : [
+      {
+         "category" : "dev-perl",
+         "package" : "String-Compare-ConstantTime",
+         "repository" : "perl-experimental",
+         "versions_gentoo" : [
+            "0.300.0"
+         ]
+      }
+   ],
    "String-Diff" : [
       {
          "category" : "dev-perl",
@@ -18068,7 +18480,7 @@
       {
          "category" : "dev-perl",
          "package" : "String-Escape",
-         "repository" : "perl-experimental",
+         "repository" : "gentoo",
          "versions_gentoo" : [
             "2010.002"
          ]
@@ -18229,8 +18641,8 @@
          "package" : "Sub-Exporter",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "0.984.0",
-            "0.985.0"
+            "0.986.0",
+            "0.987.0"
          ]
       }
    ],
@@ -18261,8 +18673,7 @@
          "package" : "Sub-Exporter-Progressive",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "0.1.6",
-            "0.1.9"
+            "0.1.11"
          ]
       }
    ],
@@ -18320,11 +18731,21 @@
    ],
    "Switch" : [
       {
-         "category" : "perl-core",
+         "category" : "dev-perl",
          "package" : "Switch",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "2.160.0"
+            "2.160.0-r1"
+         ]
+      }
+   ],
+   "Symbol-Global-Name" : [
+      {
+         "category" : "dev-perl",
+         "package" : "Symbol-Global-Name",
+         "repository" : "gentoo",
+         "versions_gentoo" : [
+            "0.50.0"
          ]
       }
    ],
@@ -18394,13 +18815,25 @@
          ]
       }
    ],
+   "Sys-Mmap" : [
+      {
+         "category" : "dev-perl",
+         "package" : "Sys-Mmap",
+         "repository" : "gentoo",
+         "versions_gentoo" : [
+            "0.160.0"
+         ]
+      }
+   ],
    "Sys-SigAction" : [
       {
          "category" : "dev-perl",
          "package" : "Sys-SigAction",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "0.150.0"
+            "0.150.0",
+            "0.200.0",
+            "0.210.0"
          ]
       }
    ],
@@ -18420,7 +18853,8 @@
          "package" : "Sys-Syscall",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "0.230.0"
+            "0.230.0",
+            "0.250.0"
          ]
       }
    ],
@@ -18430,11 +18864,8 @@
          "package" : "Sys-Syslog",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "0.270.0",
-            "0.280.0",
-            "0.290.0",
-            "0.310.0",
-            "0.320.0"
+            "0.320.0-r1",
+            "0.330.0-r1"
          ]
       }
    ],
@@ -18444,9 +18875,10 @@
          "package" : "Sys-Virt",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "0.9.10",
             "1.0.0",
-            "1.0.3"
+            "1.0.3",
+            "1.1.2",
+            "1.2.5"
          ]
       }
    ],
@@ -18459,7 +18891,8 @@
             "0.390.0",
             "0.400.0",
             "0.410.0",
-            "0.420.0"
+            "0.420.0",
+            "0.430.0"
          ]
       }
    ],
@@ -18469,7 +18902,7 @@
          "package" : "System-Command",
          "repository" : "perl-experimental",
          "versions_gentoo" : [
-            "1.100.0"
+            "1.108.0"
          ]
       }
    ],
@@ -18519,9 +18952,7 @@
          "package" : "Task-Catalyst",
          "repository" : "perl-experimental",
          "versions_gentoo" : [
-            "4.0.0",
-            "4.10.0",
-            "4.20.0"
+            "4.20.0-r1"
          ]
       }
    ],
@@ -18853,6 +19284,17 @@
          ]
       }
    ],
+   "Template-Plugin-DateTime" : [
+      {
+         "category" : "dev-perl",
+         "package" : "Template-Plugin-DateTime",
+         "repository" : "perl-experimental",
+         "versions_gentoo" : [
+            "0.06002",
+            "0.60.20"
+         ]
+      }
+   ],
    "Template-Plugin-HTML-Strip" : [
       {
          "category" : "dev-perl",
@@ -18954,7 +19396,8 @@
          "package" : "Template-Toolkit",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "2.240.0"
+            "2.240.0",
+            "2.250.0"
          ]
       }
    ],
@@ -18984,10 +19427,6 @@
          "package" : "Term-ANSIColor",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "3.0.0",
-            "3.10.0",
-            "3.20.0",
-            "4.10.0",
             "4.20.0"
          ]
       }
@@ -19002,15 +19441,24 @@
          ]
       }
    ],
+   "Term-Encoding" : [
+      {
+         "category" : "dev-perl",
+         "package" : "Term-Encoding",
+         "repository" : "perl-experimental",
+         "versions_gentoo" : [
+            "0.20.0"
+         ]
+      }
+   ],
    "Term-ProgressBar" : [
       {
          "category" : "dev-perl",
          "package" : "Term-ProgressBar",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "2.100.0",
-            "2.130.0",
-            "2.90.0"
+            "2.140.0",
+            "2.150.0"
          ]
       }
    ],
@@ -19050,7 +19498,8 @@
          "package" : "Term-ReadLine-Gnu",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "1.200.0-r1"
+            "1.200.0-r2",
+            "1.220.0"
          ]
       }
    ],
@@ -19060,7 +19509,7 @@
          "package" : "Term-ReadLine-Perl",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "1.30.300"
+            "1.30.300-r1"
          ]
       }
    ],
@@ -19144,7 +19593,7 @@
          "package" : "TermReadKey",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "2.300.0"
+            "2.300.200"
          ]
       }
    ],
@@ -19154,8 +19603,6 @@
          "package" : "Test",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "1.25",
-            "1.250.200_rc",
             "1.260.0"
          ]
       }
@@ -19240,8 +19687,8 @@
          "package" : "Test-Class",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "0.370.0",
-            "0.380.0"
+            "0.390.0",
+            "0.410.0"
          ]
       }
    ],
@@ -19322,6 +19769,16 @@
          ]
       }
    ],
+   "Test-Deep-JSON" : [
+      {
+         "category" : "dev-perl",
+         "package" : "Test-Deep-JSON",
+         "repository" : "perl-experimental",
+         "versions_gentoo" : [
+            "0.30.0"
+         ]
+      }
+   ],
    "Test-Differences" : [
       {
          "category" : "dev-perl",
@@ -19372,8 +19829,7 @@
          "package" : "Test-Exception",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "0.27",
-            "0.310.0"
+            "0.320.0"
          ]
       }
    ],
@@ -19394,6 +19850,16 @@
          "repository" : "perl-experimental",
          "versions_gentoo" : [
             "0.310.0"
+         ]
+      }
+   ],
+   "Test-FailWarnings" : [
+      {
+         "category" : "dev-perl",
+         "package" : "Test-FailWarnings",
+         "repository" : "perl-experimental",
+         "versions_gentoo" : [
+            "0.8.0"
          ]
       }
    ],
@@ -19444,11 +19910,8 @@
          "package" : "Test-Harness",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "3.17",
-            "3.22",
-            "3.230.0",
-            "3.250.0",
-            "3.260.0"
+            "3.260.0",
+            "3.290.0"
          ]
       }
    ],
@@ -19478,7 +19941,8 @@
          "package" : "Test-Inline",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "2.212.0"
+            "2.212.0",
+            "2.213.0"
          ]
       }
    ],
@@ -19667,7 +20131,8 @@
          "package" : "Test-Number-Delta",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "1.30.0"
+            "1.30.0",
+            "1.40.0"
          ]
       }
    ],
@@ -19708,9 +20173,7 @@
          "package" : "Test-Pod",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "1.42",
-            "1.450.0",
-            "1.460.0"
+            "1.480.0"
          ]
       }
    ],
@@ -19720,6 +20183,8 @@
          "package" : "Test-Pod-Coverage",
          "repository" : "gentoo",
          "versions_gentoo" : [
+            "1.100.0",
+            "1.80.0-r1",
             "1.80.0"
          ]
       }
@@ -19804,9 +20269,8 @@
          "package" : "Test-Simple",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "0.94",
-            "0.96",
-            "0.980.0"
+            "0.980.0-r1",
+            "0.980.5-r1"
          ]
       }
    ],
@@ -19851,8 +20315,8 @@
          "package" : "Test-TCP",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "1.180.0",
-            "1.210.0"
+            "1.210.0",
+            "2.60.0"
          ]
       }
    ],
@@ -19862,7 +20326,6 @@
          "package" : "Test-Taint",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "1.40.0",
             "1.60.0"
          ]
       }
@@ -19884,7 +20347,8 @@
          "package" : "Test-Tester",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "0.108.0"
+            "0.108.0",
+            "0.109.0"
          ]
       }
    ],
@@ -19904,7 +20368,9 @@
          "package" : "Test-Trap",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "0.2.2"
+            "0.2.2-r1",
+            "0.2.3",
+            "0.2.4"
          ]
       }
    ],
@@ -19935,8 +20401,7 @@
          "package" : "Test-WWW-Mechanize",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "1.28",
-            "1.420.0"
+            "1.440.0"
          ]
       }
    ],
@@ -19972,6 +20437,16 @@
          "repository" : "gentoo",
          "versions_gentoo" : [
             "0.240.0"
+         ]
+      }
+   ],
+   "Test-Warnings" : [
+      {
+         "category" : "dev-perl",
+         "package" : "Test-Warnings",
+         "repository" : "perl-experimental",
+         "versions_gentoo" : [
+            "0.14.0"
          ]
       }
    ],
@@ -20054,7 +20529,7 @@
          "package" : "text-autoformat",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "1.669.2"
+            "1.669.2-r1"
          ]
       }
    ],
@@ -20064,7 +20539,17 @@
          "package" : "Text-Balanced",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "2.20.0"
+            "2.20.0-r1"
+         ]
+      }
+   ],
+   "Text-BibTeX" : [
+      {
+         "category" : "dev-perl",
+         "package" : "Text-BibTeX",
+         "repository" : "gentoo",
+         "versions_gentoo" : [
+            "0.690.0"
          ]
       }
    ],
@@ -20074,7 +20559,8 @@
          "package" : "Text-CSV",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "1.210.0"
+            "1.210.0",
+            "1.320.0"
          ]
       }
    ],
@@ -20188,7 +20674,8 @@
          "package" : "Text-Format",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "0.580.0"
+            "0.580.0",
+            "0.590.0"
          ]
       }
    ],
@@ -20258,7 +20745,7 @@
          "package" : "Text-Markdown",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "1.0.31"
+            "1.0.31-r1"
          ]
       }
    ],
@@ -20292,8 +20779,9 @@
          "package" : "Text-ParseWords",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "3.270.0",
-            "3.280.0"
+            "3.270.0-r1",
+            "3.280.0",
+            "3.290.0"
          ]
       }
    ],
@@ -20323,7 +20811,8 @@
          "package" : "Text-Quoted",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "2.60.0"
+            "2.60.0",
+            "2.80.0"
          ]
       }
    ],
@@ -20363,7 +20852,8 @@
          "package" : "Text-Table",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "1.126.0"
+            "1.126.0",
+            "1.127.0"
          ]
       }
    ],
@@ -20373,8 +20863,8 @@
          "package" : "Text-Tabs+Wrap",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "2009.30.500",
-            "2012.81.800"
+            "2012.81.800-r1",
+            "2013.52.300-r1"
          ]
       }
    ],
@@ -20395,7 +20885,8 @@
          "package" : "text-template",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "1.450.0"
+            "1.450.0",
+            "1.460.0"
          ]
       }
    ],
@@ -20468,8 +20959,8 @@
          "versions_gentoo" : [
             "2.100.0",
             "2.110.0",
-            "2.120.0",
-            "2.130.0",
+            "2.120.0-r1",
+            "2.130.0-r1",
             "2.70.0",
             "2.90.0"
          ]
@@ -20503,7 +20994,6 @@
          "repository" : "gentoo",
          "versions_gentoo" : [
             "2.120.0",
-            "3.10.0",
             "3.20.0"
          ]
       }
@@ -20514,7 +21004,7 @@
          "package" : "Thread-Semaphore",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "2.120.0"
+            "2.120.0-r1"
          ]
       }
    ],
@@ -20525,6 +21015,7 @@
          "repository" : "gentoo",
          "versions_gentoo" : [
             "0.102.80",
+            "0.200.11",
             "0.200.3",
             "0.200.4"
          ]
@@ -20597,7 +21088,8 @@
          "package" : "Tie-Cycle",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "1.170.0"
+            "1.170.0",
+            "1.190.0"
          ]
       }
    ],
@@ -20608,6 +21100,16 @@
          "repository" : "gentoo",
          "versions_gentoo" : [
             "1.240.0"
+         ]
+      }
+   ],
+   "Tie-Hash-Method" : [
+      {
+         "category" : "dev-perl",
+         "package" : "Tie-Hash-Method",
+         "repository" : "gentoo",
+         "versions_gentoo" : [
+            "0.20.0"
          ]
       }
    ],
@@ -20762,12 +21264,8 @@
          "package" : "Time-HiRes",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "1.97.19",
-            "1.97.21",
-            "1.972.200",
-            "1.972.300",
-            "1.972.400",
-            "1.972.500"
+            "1.972.500-r1",
+            "1.972.600-r1"
          ]
       }
    ],
@@ -20777,10 +21275,7 @@
          "package" : "Time-Local",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "1.19.01",
-            "1.200.0",
-            "1.220.0",
-            "1.230.0"
+            "1.230.0-r1"
          ]
       }
    ],
@@ -20790,7 +21285,7 @@
          "package" : "Period",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "1.230.0"
+            "1.240.0-r1"
          ]
       }
    ],
@@ -20800,8 +21295,7 @@
          "package" : "Time-Piece",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "1.15",
-            "1.20"
+            "1.20-r1"
          ]
       }
    ],
@@ -20812,6 +21306,16 @@
          "repository" : "gentoo",
          "versions_gentoo" : [
             "0.60.0"
+         ]
+      }
+   ],
+   "Time-Stopwatch" : [
+      {
+         "category" : "dev-perl",
+         "package" : "Time-Stopwatch",
+         "repository" : "gentoo",
+         "versions_gentoo" : [
+            "1.0.0"
          ]
       }
    ],
@@ -20872,7 +21376,6 @@
          "package" : "TimeDate",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "1.200.0",
             "2.300.0"
          ]
       }
@@ -20884,7 +21387,10 @@
          "repository" : "gentoo",
          "versions_gentoo" : [
             "804.29.0",
-            "804.30.0"
+            "804.30.0",
+            "804.31.0-r1",
+            "804.31.0",
+            "804.32.0"
          ]
       }
    ],
@@ -20937,6 +21443,8 @@
          "versions_gentoo" : [
             "1.100.0",
             "1.110.0",
+            "1.130.0",
+            "1.160.0",
             "1.60.0",
             "1.90.0"
          ]
@@ -20980,8 +21488,8 @@
          "package" : "Try-Tiny",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "0.110.0",
-            "0.120.0"
+            "0.180.0",
+            "0.190.0"
          ]
       }
    ],
@@ -21002,7 +21510,8 @@
          "package" : "UNIVERSAL-can",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "1.201.207.260"
+            "1.201.207.260",
+            "1.201.401.240"
          ]
       }
    ],
@@ -21032,7 +21541,8 @@
          "package" : "UNIVERSAL-require",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "0.130.0"
+            "0.150.0",
+            "0.160.0"
          ]
       }
    ],
@@ -21042,6 +21552,7 @@
          "package" : "URI",
          "repository" : "gentoo",
          "versions_gentoo" : [
+            "1.600.0-r1",
             "1.600.0"
          ]
       }
@@ -21088,6 +21599,26 @@
          ]
       }
    ],
+   "URL-Encode" : [
+      {
+         "category" : "dev-perl",
+         "package" : "URL-Encode",
+         "repository" : "perl-experimental",
+         "versions_gentoo" : [
+            "0.20.0"
+         ]
+      }
+   ],
+   "URL-Encode-XS" : [
+      {
+         "category" : "dev-perl",
+         "package" : "URL-Encode-XS",
+         "repository" : "perl-experimental",
+         "versions_gentoo" : [
+            "0.10.0"
+         ]
+      }
+   ],
    "UUID" : [
       {
          "category" : "dev-perl",
@@ -21105,7 +21636,8 @@
          "package" : "UUID-Tiny",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "1.30.0"
+            "1.30.0",
+            "1.40.0"
          ]
       }
    ],
@@ -21135,8 +21667,18 @@
          "package" : "Unicode-EastAsianWidth",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "1.320.0",
             "1.330.0"
+         ]
+      }
+   ],
+   "Unicode-LineBreak" : [
+      {
+         "category" : "dev-perl",
+         "package" : "Unicode-LineBreak",
+         "repository" : "gentoo",
+         "versions_gentoo" : [
+            "2013.11",
+            "2014.60.0"
          ]
       }
    ],
@@ -21156,7 +21698,6 @@
          "package" : "Unicode-Map8",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "0.12",
             "0.130.0"
          ]
       }
@@ -21197,7 +21738,8 @@
          "package" : "Unicode-UTF8",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "0.580.0"
+            "0.580.0",
+            "0.590.0"
          ]
       }
    ],
@@ -21248,7 +21790,8 @@
          "package" : "User-Identity",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "0.930.0"
+            "0.930.0",
+            "0.940.0"
          ]
       }
    ],
@@ -21291,7 +21834,8 @@
          "repository" : "gentoo",
          "versions_gentoo" : [
             "0.510.0",
-            "0.520.0"
+            "0.520.0",
+            "0.530.0"
          ]
       }
    ],
@@ -21312,8 +21856,7 @@
          "package" : "Version-Requirements",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "0.101.20",
-            "0.101.21"
+            "0.101.22-r1"
          ]
       }
    ],
@@ -21337,6 +21880,16 @@
          ]
       }
    ],
+   "WWW-CheckSite" : [
+      {
+         "category" : "dev-perl",
+         "package" : "WWW-CheckSite",
+         "repository" : "perl-experimental",
+         "versions_gentoo" : [
+            "0.20.0"
+         ]
+      }
+   ],
    "WWW-Curl" : [
       {
          "category" : "dev-perl",
@@ -21353,7 +21906,10 @@
          "package" : "WWW-Dict-Leo-Org",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "1.350.0"
+            "1.350.0",
+            "1.360.0",
+            "1.370.0",
+            "1.390.0"
          ]
       }
    ],
@@ -21373,7 +21929,7 @@
          "package" : "WWW-Mechanize",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "1.720.0"
+            "1.730.0"
          ]
       }
    ],
@@ -21384,7 +21940,8 @@
          "repository" : "perl-experimental",
          "versions_gentoo" : [
             "1.400.0",
-            "1.410.0"
+            "1.410.0",
+            "1.430.0"
          ]
       }
    ],
@@ -21424,7 +21981,7 @@
          "package" : "WWW-RobotRules",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "6.10.0"
+            "6.20.0"
          ]
       }
    ],
@@ -21684,7 +22241,8 @@
          "repository" : "gentoo",
          "versions_gentoo" : [
             "0.560.0",
-            "0.620.0"
+            "0.620.0",
+            "0.630.0"
          ]
       }
    ],
@@ -21807,7 +22365,7 @@
          "package" : "XML-Grove",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "0.46_alpha-r1"
+            "0.46_alpha-r2"
          ]
       }
    ],
@@ -21860,7 +22418,9 @@
          "repository" : "gentoo",
          "versions_gentoo" : [
             "1.770.0",
-            "1.790.0"
+            "1.790.0",
+            "1.810.0",
+            "1.870.0"
          ]
       }
    ],
@@ -21900,8 +22460,7 @@
          "package" : "XML-Parser",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "2.410.0-r1",
-            "2.410.0"
+            "2.410.0-r2"
          ]
       }
    ],
@@ -21911,7 +22470,7 @@
          "package" : "XML-RAI",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "1.303.100"
+            "1.303.100-r1"
          ]
       }
    ],
@@ -21921,7 +22480,8 @@
          "package" : "XML-RSS",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "1.490.0"
+            "1.490.0",
+            "1.540.0"
          ]
       }
    ],
@@ -21931,7 +22491,8 @@
          "package" : "XML-RSS-Feed",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "2.320.0"
+            "2.320.0",
+            "2.400.0"
          ]
       }
    ],
@@ -21991,7 +22552,9 @@
          "package" : "XML-SAX-Expat",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "0.400.0"
+            "0.400.0",
+            "0.500.0",
+            "0.510.0"
          ]
       }
    ],
@@ -22001,7 +22564,8 @@
          "package" : "XML-SAX-Writer",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "0.530.0"
+            "0.530.0",
+            "0.540.0"
          ]
       }
    ],
@@ -22043,7 +22607,8 @@
          "repository" : "perl-experimental",
          "versions_gentoo" : [
             "1.6.9",
-            "1.770.0"
+            "1.770.0",
+            "1.780.0"
          ]
       }
    ],
@@ -22053,7 +22618,6 @@
          "package" : "XML-Stream",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "1.22",
             "1.230.0"
          ]
       }
@@ -22088,7 +22652,19 @@
          "repository" : "gentoo",
          "versions_gentoo" : [
             "3.410.0",
-            "3.420.0"
+            "3.420.0",
+            "3.440.0",
+            "3.460.0"
+         ]
+      }
+   ],
+   "XML-Validator-Schema" : [
+      {
+         "category" : "dev-perl",
+         "package" : "XML-Validator-Schema",
+         "repository" : "gentoo",
+         "versions_gentoo" : [
+            "1.100.0"
          ]
       }
    ],
@@ -22098,7 +22674,8 @@
          "package" : "XML-Writer",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "0.615.0"
+            "0.623.0",
+            "0.624.0"
          ]
       }
    ],
@@ -22118,7 +22695,8 @@
          "package" : "XML-XPathEngine",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "0.130.0"
+            "0.130.0",
+            "0.140.0"
          ]
       }
    ],
@@ -22158,7 +22736,7 @@
          "package" : "XML-XUpdate-LibXML",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "0.6.0"
+            "0.6.0-r1"
          ]
       }
    ],
@@ -22168,10 +22746,7 @@
          "package" : "XSLoader",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "0.10",
-            "0.140.0",
-            "0.150.0",
-            "0.160.0"
+            "0.160.0-r1"
          ]
       }
    ],
@@ -22193,8 +22768,8 @@
          "package" : "yaml",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "0.810.0",
-            "0.840.0"
+            "0.840.0",
+            "0.900.0"
          ]
       }
    ],
@@ -22226,9 +22801,7 @@
          "repository" : "gentoo",
          "versions_gentoo" : [
             "1.200.0",
-            "1.210.0",
-            "1.220.0",
-            "1.250.0"
+            "1.270.0"
          ]
       }
    ],
@@ -22248,8 +22821,8 @@
          "package" : "ZMQ-Constants",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "1.10.0",
-            "1.20.0"
+            "1.20.0",
+            "1.30.0"
          ]
       }
    ],
@@ -22259,7 +22832,6 @@
          "package" : "ZMQ-LibZMQ2",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "1.30.0",
             "1.40.0"
          ]
       }
@@ -22270,8 +22842,7 @@
          "package" : "ack",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "1.94-r1",
-            "1.96"
+            "2.12"
          ]
       }
    ],
@@ -22281,8 +22852,6 @@
          "package" : "aliased",
          "repository" : "perl-experimental",
          "versions_gentoo" : [
-            "0.300.0",
-            "0.300.100_rc",
             "0.310.0"
          ]
       }
@@ -22336,7 +22905,7 @@
          "package" : "autodie",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "2.160.0"
+            "2.220.0"
          ]
       }
    ],
@@ -22344,10 +22913,9 @@
       {
          "category" : "dev-perl",
          "package" : "autovivification",
-         "repository" : "perl-experimental",
+         "repository" : "gentoo",
          "versions_gentoo" : [
-            "0.100.0",
-            "0.110.0"
+            "0.120.0"
          ]
       }
    ],
@@ -22357,12 +22925,7 @@
          "package" : "bignum",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "0.23",
-            "0.24",
-            "0.25",
-            "0.280.0",
-            "0.290.0",
-            "0.300.0",
+            "0.300.0-r1",
             "0.320.0"
          ]
       }
@@ -22373,7 +22936,9 @@
          "package" : "boolean",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "0.280.0"
+            "0.280.0",
+            "0.300.0",
+            "0.320.0"
          ]
       }
    ],
@@ -22393,7 +22958,8 @@
          "package" : "common-sense",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "3.600.0"
+            "3.600.0",
+            "3.720.0"
          ]
       }
    ],
@@ -22439,6 +23005,16 @@
          ]
       }
    ],
+   "experimental" : [
+      {
+         "category" : "dev-perl",
+         "package" : "experimental",
+         "repository" : "perl-experimental",
+         "versions_gentoo" : [
+            "0.7.0"
+         ]
+      }
+   ],
    "gettext" : [
       {
          "category" : "dev-perl",
@@ -22466,7 +23042,9 @@
          "repository" : "gentoo",
          "versions_gentoo" : [
             "0.260.0",
-            "0.270.0"
+            "0.270.0",
+            "0.300.0",
+            "0.310.0"
          ]
       }
    ],
@@ -22477,7 +23055,7 @@
          "repository" : "gentoo",
          "versions_gentoo" : [
             "1.200.0",
-            "1.210.0"
+            "1.230.0"
          ]
       }
    ],
@@ -22487,7 +23065,8 @@
          "package" : "libnet",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "1.220.0"
+            "1.220.0-r1",
+            "1.270.0"
          ]
       }
    ],
@@ -22507,8 +23086,6 @@
          "package" : "libwww-perl",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "6.30.0",
-            "6.40.0",
             "6.50.0"
          ]
       }
@@ -22535,6 +23112,7 @@
             "1.6.7",
             "1.8.0",
             "1.8.1",
+            "1.8.26",
             "1.8.4",
             "1.8.7",
             "1.8.9"
@@ -22588,8 +23166,6 @@
          "repository" : "gentoo",
          "versions_gentoo" : [
             "0.210.0",
-            "0.220.0",
-            "0.230.0",
             "0.240.0"
          ]
       }
@@ -22610,8 +23186,8 @@
          "package" : "parent",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "0.224",
-            "0.225.0"
+            "0.225.0-r1",
+            "0.228-r1"
          ]
       }
    ],
@@ -22623,7 +23199,9 @@
          "versions_gentoo" : [
             "0.440.0",
             "0.520.0",
-            "0.530.0"
+            "0.530.0",
+            "0.570.0",
+            "0.630.0"
          ]
       }
    ],
@@ -22659,7 +23237,7 @@
          "package" : "pod2pdf",
          "repository" : "perl-experimental",
          "versions_gentoo" : [
-            "0.42"
+            "0.42-r1"
          ]
       }
    ],
@@ -22669,13 +23247,7 @@
          "package" : "podlators",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "2.2.2",
-            "2.3.0",
-            "2.3.1",
-            "2.4.0",
-            "2.4.2",
-            "2.5.0",
-            "2.5.1"
+            "2.5.3"
          ]
       }
    ],
@@ -22695,7 +23267,8 @@
          "package" : "rename",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "1.800.0"
+            "1.800.0",
+            "1.900.0"
          ]
       }
    ],
@@ -22746,15 +23319,8 @@
          "package" : "threads",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "1.75",
-            "1.76",
-            "1.77",
-            "1.79",
-            "1.81",
-            "1.820",
-            "1.830.0",
-            "1.850.0",
-            "1.860.0"
+            "1.860.0-r1",
+            "1.890.0-r1"
          ]
       }
    ],
@@ -22764,15 +23330,7 @@
          "package" : "threads-shared",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "1.32",
-            "1.33",
-            "1.34",
-            "1.360",
-            "1.370.0",
-            "1.390.0",
-            "1.400.0",
-            "1.410.0",
-            "1.420.0",
+            "1.400.0-r1",
             "1.430.0"
          ]
       }
@@ -22793,7 +23351,8 @@
          "package" : "TextToHTML",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "2.510.0"
+            "2.510.0",
+            "2.520.100"
          ]
       }
    ],
@@ -22813,20 +23372,9 @@
          "package" : "version",
          "repository" : "gentoo",
          "versions_gentoo" : [
-            "0.82",
-            "0.880.0",
-            "0.890.0",
-            "0.900.0",
-            "0.910.0",
-            "0.930.0",
-            "0.940.0",
-            "0.950.0",
-            "0.960.0",
-            "0.970.0",
-            "0.980.0",
-            "0.990.0",
-            "0.990.100",
-            "0.990.200"
+            "0.990.100-r1",
+            "0.990.200",
+            "0.990.800"
          ]
       }
    ]
